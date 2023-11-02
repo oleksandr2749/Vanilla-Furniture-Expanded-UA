@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ 
+  <Table_RoyalEndTable.label>королівська тумбочка</Table_RoyalEndTable.label>
+  <Table_RoyalEndTable.description>Розкішна тумбочка, прикрашена золотими деталями, яка додає комфорту всім прилеглим ліжкам. Повинна розташовуватися безпосередньо біля узголів'я ліжка.  Розміщення більше однієї тумбочки біля одного ліжка не має жодного ефекту.</Table_RoyalEndTable.description>
+
+  <Table_RoyalDresser.label>королівський комод</Table_RoyalDresser.label>
+  <Table_RoyalDresser.description>Розкішний комод, прикрашений золотими деталями, який додає комфорту всім сусіднім ліжкам. Розміщення більше одного комода біля одного ліжка не має жодного ефекту.</Table_RoyalDresser.description>
+
+  <Seat_RoyalChair.label>королівський стілець</Seat_RoyalChair.label>
+  <Seat_RoyalChair.description>М'які сидіння та спинка в золотій рамі.</Seat_RoyalChair.description>
+
+  <Seat_RoyalArmchair.label>королівське крісло</Seat_RoyalArmchair.label>
+  <Seat_RoyalArmchair.description>Велике, м'яке та розкішне сидіння встановлене в золоту раму.</Seat_RoyalArmchair.description>
+
+  <Table_Royal1x1c.label>королівський стіл (1x1)</Table_Royal1x1c.label>
+  <Table_Royal1x1c.description>Розкішний заокруглений стіл прикрашений позолотою.</Table_Royal1x1c.description>
+
+  <Table_Royal2x2c.label>королівський стіл (2x2)</Table_Royal2x2c.label>
+  <Table_Royal2x2c.description>Розкішний заокруглений стіл прикрашений позолотою.</Table_Royal2x2c.description>
+
+  <Table_Royal1x2c.label>королівський стіл (1x2)</Table_Royal1x2c.label>
+  <Table_Royal1x2c.description>Розкішний заокруглений стіл прикрашений позолотою.</Table_Royal1x2c.description>
+
+  <Table_Royal3x3c.label>королівський стіл (3x3)</Table_Royal3x3c.label>
+  <Table_Royal3x3c.description>Розкішний заокруглений стіл прикрашений позолотою.</Table_Royal3x3c.description>
+
+  <Table_Royal2x4c.label>королівський стіл (2x4)</Table_Royal2x4c.label>
+  <Table_Royal2x4c.description>Розкішний заокруглений стіл прикрашений позолотою.</Table_Royal2x4c.description>
+
+</LanguageData>

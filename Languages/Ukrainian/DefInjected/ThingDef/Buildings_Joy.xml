@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Radio_Industrial.label>старий радіоприймач</Radio_Industrial.label>
+  <Radio_Industrial.description>Старий радіоприймач, який вловлює електромагнітні хвилі радіодіапазону, що виступають у ролі носія інформації, та конвертує їх в звук. Навіть на кордонних планетах можна часто знайти самотню радіостанцію, яка транслює що-небудь.</Radio_Industrial.description>
+
+  <Radio_Spacer.label>довгохвильовий радіоприймач</Radio_Spacer.label>
+  <Radio_Spacer.description>Високотехнологічний радіоприймач, який може вловлювати дуже слабкий сигнал і відтворювати звук у кристально чистій якості.</Radio_Spacer.description>
+
+  <Joy_Arcade.label>аркадний ігровий автомат</Joy_Arcade.label>
+  <Joy_Arcade.description>Стійка з невеликим дисплеєм та панелью керування, що використовується для запуску відеоігор, зазвичай аркадного жанру.</Joy_Arcade.description>
+
+  <Joy_InudstrialComputer.label>старий комп'ютер</Joy_InudstrialComputer.label>
+  <Joy_InudstrialComputer.description>Старий настільний комп'ютер, складний у використанні, малоефективний та схильний до збоїв. Після використання дає незначне підвищення рівня навчання.</Joy_InudstrialComputer.description>
+
+  <Joy_ModernComputer.label>комп'ютер</Joy_ModernComputer.label>
+  <Joy_ModernComputer.description>Високотехнологічний настільний комп'ютер, сучасний представник цифрових технологій, швидкий, зручний та надійний. Після використання дає підвищений рівень навчання.</Joy_ModernComputer.description>
+
+  <Joy_Piano.label>піаніно</Joy_Piano.label>
+  <Joy_Piano.description>Велике піаніно, дуже приємний у використанні та відмінний спосіб розвитку художнього таланту.</Joy_Piano.description>
+
+  <Joy_RouletteTable.label>рулетковий стіл</Joy_RouletteTable.label>
+  <Joy_RouletteTable.description>Стіл оббитий зеленою тканиною з розміткою, і вмонтованим колесом, для гри в рулетку. Хороший спосіб тренування соціальних навичок та везіння.</Joy_RouletteTable.description>
+
+  <Joy_DartsBoard.label>дошка для дартсу</Joy_DartsBoard.label>
+  <Joy_DartsBoard.description>Гра яка полягає в киданні дротиків в круглу мішень. Вона тренує навички стрільби краще за такі ігри як кидання підків чи каміння.</Joy_DartsBoard.description>
+
+  <Joy_PunchingBag.label>боксерська груша</Joy_PunchingBag.label>
+  <Joy_PunchingBag.description>Тканинний, заповненний мішок для тренування навичок ближнього бою, або ролі жертви під час поганого настрою.</Joy_PunchingBag.description>
+
+</LanguageData>

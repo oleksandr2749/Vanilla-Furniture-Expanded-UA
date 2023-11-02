@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_AdvancedRotor.label>передовий ротор</VFEPD_AdvancedRotor.label>
+  <VFEPD_AdvancedRotor.description>Вдосконалений роторний блок.</VFEPD_AdvancedRotor.description>
+  <VFEPD_AdvancedRotor_Blueprint.label>передовий ротор (креслення)</VFEPD_AdvancedRotor_Blueprint.label>
+  <VFEPD_AdvancedRotor_Frame.label>передовий ротор (будується)</VFEPD_AdvancedRotor_Frame.label>
+  <VFEPD_AdvancedRotor_Frame.description>Вдосконалений роторний блок.</VFEPD_AdvancedRotor_Frame.description>
+
+  <VFEPD_Rotor.label>ротор</VFEPD_Rotor.label>
+  <VFEPD_Rotor.description>роторний блок.</VFEPD_Rotor.description>
+  <VFEPD_Rotor_Blueprint.label>ротор (креслення)</VFEPD_Rotor_Blueprint.label>
+  <VFEPD_Rotor_Frame.label>ротор (будується)</VFEPD_Rotor_Frame.label>
+  <VFEPD_Rotor_Frame.description>роторний блок.</VFEPD_Rotor_Frame.description>
+
+  <VFEPD_Battery.label>акумулятор</VFEPD_Battery.label>
+  <VFEPD_Battery.description>Простий пристрій для зберігання енергії. Цей наразі не працює.</VFEPD_Battery.description>
+  <VFEPD_Battery_Blueprint.label>акумулятор (креслення)</VFEPD_Battery_Blueprint.label>
+  <VFEPD_Battery_Frame.label>акумулятор (будується)</VFEPD_Battery_Frame.label>
+  <VFEPD_Battery_Frame.description>Простий пристрій для зберігання енергії. Цей наразі не працює.</VFEPD_Battery_Frame.description>
+
+  <VFEPD_Exhaust.label>вихлопний порт</VFEPD_Exhaust.label>
+  <VFEPD_Exhaust.description>Вихлопний порт для викидів індустріалізму.</VFEPD_Exhaust.description>
+  <VFEPD_Exhaust_Blueprint.label>вихлопний порт (креслення)</VFEPD_Exhaust_Blueprint.label>
+  <VFEPD_Exhaust_Frame.label>вихлопний порт (будується)</VFEPD_Exhaust_Frame.label>
+  <VFEPD_Exhaust_Frame.description>Вихлопний порт для викидів індустріалізму.</VFEPD_Exhaust_Frame.description>
+
+  <VFEPD_SmallExhaust.label>Малий вихлопний порт</VFEPD_SmallExhaust.label>
+  <VFEPD_SmallExhaust.description>Малий вихлопний порт для викидів індустріалізму.</VFEPD_SmallExhaust.description>
+  <VFEPD_SmallExhaust_Blueprint.label>Малий вихлопний порт (креслення)</VFEPD_SmallExhaust_Blueprint.label>
+  <VFEPD_SmallExhaust_Frame.label>Малий вихлопний порт (будується)</VFEPD_SmallExhaust_Frame.label>
+  <VFEPD_SmallExhaust_Frame.description>Малий вихлопний порт для викидів індустріалізму.</VFEPD_SmallExhaust_Frame.description>
+
+  <VFEPD_Generator.label>генератор</VFEPD_Generator.label>
+  <VFEPD_Generator.description>Дуже простий генератор.</VFEPD_Generator.description>
+  <VFEPD_Generator_Blueprint.label>генератор (креслення)</VFEPD_Generator_Blueprint.label>
+  <VFEPD_Generator_Frame.label>генератор (будується)</VFEPD_Generator_Frame.label>
+  <VFEPD_Generator_Frame.description>Дуже простий генератор.</VFEPD_Generator_Frame.description>
+
+  <VFEPD_IndustrialGenerator.label>індустріальний генератор</VFEPD_IndustrialGenerator.label>
+  <VFEPD_IndustrialGenerator.description>Великий індустріальний генератор.</VFEPD_IndustrialGenerator.description>
+  <VFEPD_IndustrialGenerator_Blueprint.label>індустріальний генератор (креслення)</VFEPD_IndustrialGenerator_Blueprint.label>
+  <VFEPD_IndustrialGenerator_Frame.label>індустріальний генератор (будується)</VFEPD_IndustrialGenerator_Frame.label>
+  <VFEPD_IndustrialGenerator_Frame.description>Великий індустріальний генератор.</VFEPD_IndustrialGenerator_Frame.description>
+
+  <VFEPD_GeneratorUnitLarge.label>генераторна установка</VFEPD_GeneratorUnitLarge.label>
+  <VFEPD_GeneratorUnitLarge.description>Велика індустріальна генераторна установка.</VFEPD_GeneratorUnitLarge.description>
+  <VFEPD_GeneratorUnitLarge_Blueprint.label>генераторна установка (креслення)</VFEPD_GeneratorUnitLarge_Blueprint.label>
+  <VFEPD_GeneratorUnitLarge_Frame.label>генераторна установка (будується)</VFEPD_GeneratorUnitLarge_Frame.label>
+  <VFEPD_GeneratorUnitLarge_Frame.description>Велика індустріальна генераторна установка.</VFEPD_GeneratorUnitLarge_Frame.description>
+
+  <VFEPD_GeneratorUnitSmall.label>мала генераторна установка</VFEPD_GeneratorUnitSmall.label>
+  <VFEPD_GeneratorUnitSmall.description>Мала індустріальна генераторна установка.</VFEPD_GeneratorUnitSmall.description>
+  <VFEPD_GeneratorUnitSmall_Blueprint.label>мала генераторна установка (креслення)</VFEPD_GeneratorUnitSmall_Blueprint.label>
+  <VFEPD_GeneratorUnitSmall_Frame.label>мала генераторна установка (будується)</VFEPD_GeneratorUnitSmall_Frame.label>
+  <VFEPD_GeneratorUnitSmall_Frame.description>Мала індустріальна генераторна установка.</VFEPD_GeneratorUnitSmall_Frame.description>
+
+  <VFEPD_GasStorageUnit.label>газосховище</VFEPD_GasStorageUnit.label>
+  <VFEPD_GasStorageUnit.description>Індустріальне газосховище.</VFEPD_GasStorageUnit.description>
+  <VFEPD_GasStorageUnit_Blueprint.label>газосховище (креслення)</VFEPD_GasStorageUnit_Blueprint.label>
+  <VFEPD_GasStorageUnit_Frame.label>газосховище (будується)</VFEPD_GasStorageUnit_Frame.label>
+  <VFEPD_GasStorageUnit_Frame.description>Індустріальне газосховище.</VFEPD_GasStorageUnit_Frame.description>
+
+  <VFEPD_ToxicWasteBarrel.label>бочка токсичних відходів</VFEPD_ToxicWasteBarrel.label>
+  <VFEPD_ToxicWasteBarrel.description>Мала бочка токсичних відходів.</VFEPD_ToxicWasteBarrel.description>
+  <VFEPD_ToxicWasteBarrel_Blueprint.label>бочка токсичних відходів (креслення)</VFEPD_ToxicWasteBarrel_Blueprint.label>
+  <VFEPD_ToxicWasteBarrel_Frame.label>бочка токсичних відходів (будується)</VFEPD_ToxicWasteBarrel_Frame.label>
+  <VFEPD_ToxicWasteBarrel_Frame.description>Мала бочка токсичних відходів.</VFEPD_ToxicWasteBarrel_Frame.description>
+
+  <VFEPD_PowerConverter.label>перетворювач потужності</VFEPD_PowerConverter.label>
+  <VFEPD_PowerConverter.description>Великий силовий перетворювач.</VFEPD_PowerConverter.description>
+  <VFEPD_PowerConverter_Blueprint.label>перетворювач потужності (креслення)</VFEPD_PowerConverter_Blueprint.label>
+  <VFEPD_PowerConverter_Frame.label>перетворювач потужності (будується)</VFEPD_PowerConverter_Frame.label>
+  <VFEPD_PowerConverter_Frame.description>Великий силовий перетворювач.</VFEPD_PowerConverter_Frame.description>
+
+  <VFEPD_ChemfuelTank.label>великий бак для хімпалива</VFEPD_ChemfuelTank.label>
+  <VFEPD_ChemfuelTank.description>Велика цистерна, наповнена вибухонебезпечним хімічним паливом.</VFEPD_ChemfuelTank.description>
+  <VFEPD_ChemfuelTank_Blueprint.label>великий бак для хімпалива (креслення)</VFEPD_ChemfuelTank_Blueprint.label>
+  <VFEPD_ChemfuelTank_Frame.label>великий бак для хімпалива (будується)</VFEPD_ChemfuelTank_Frame.label>
+  <VFEPD_ChemfuelTank_Frame.description>Велика цистерна, наповнена вибухонебезпечним хімічним паливом.</VFEPD_ChemfuelTank_Frame.description>
+
+  <VFEPD_LiquidTank.label>великий бак для рідини</VFEPD_LiquidTank.label>
+  <VFEPD_LiquidTank.description>Великий резервуар, наповнений рідиною на водній основі.</VFEPD_LiquidTank.description>
+  <VFEPD_LiquidTank_Blueprint.label>великий бак для рідини (креслення)</VFEPD_LiquidTank_Blueprint.label>
+  <VFEPD_LiquidTank_Frame.label>великий бак для рідини (будується)</VFEPD_LiquidTank_Frame.label>
+  <VFEPD_LiquidTank_Frame.description>Великий резервуар, наповнений рідиною на водній основі.</VFEPD_LiquidTank_Frame.description>
+
+  <VFEPD_SteelTank.label>великий сталевий бак</VFEPD_SteelTank.label>
+  <VFEPD_SteelTank.description>великий сталевий бак.</VFEPD_SteelTank.description>
+  <VFEPD_SteelTank_Blueprint.label>великий сталевий бак (креслення)</VFEPD_SteelTank_Blueprint.label>
+  <VFEPD_SteelTank_Frame.label>великий сталевий бак (будується)</VFEPD_SteelTank_Frame.label>
+  <VFEPD_SteelTank_Frame.description>великий сталевий бак.</VFEPD_SteelTank_Frame.description>
+
+  <VFEPD_CoalBurner.label>вугільний пальник</VFEPD_CoalBurner.label>
+  <VFEPD_CoalBurner.description>Індустріальний вугільний пальник.</VFEPD_CoalBurner.description>
+  <VFEPD_CoalBurner_Blueprint.label>вугільний пальник (креслення)</VFEPD_CoalBurner_Blueprint.label>
+  <VFEPD_CoalBurner_Frame.label>вугільний пальник (будується)</VFEPD_CoalBurner_Frame.label>
+  <VFEPD_CoalBurner_Frame.description>Індустріальний вугільний пальник.</VFEPD_CoalBurner_Frame.description>
+
+  <VFEPD_PowerPole.label>електроопора</VFEPD_PowerPole.label>
+  <VFEPD_PowerPole.description>Високий стовп для кріплення кабелів.</VFEPD_PowerPole.description>
+  <VFEPD_PowerPole_Blueprint.label>електроопора (креслення)</VFEPD_PowerPole_Blueprint.label>
+  <VFEPD_PowerPole_Frame.label>електроопора (будується)</VFEPD_PowerPole_Frame.label>
+  <VFEPD_PowerPole_Frame.description>Високий стовп для кріплення кабелів.</VFEPD_PowerPole_Frame.description>
+
+
+</LanguageData>

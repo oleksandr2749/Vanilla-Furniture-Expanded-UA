@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval -->
+
+  <VFES_SiegeEquipment.label>облогове обладнання</VFES_SiegeEquipment.label>
+  <VFES_SiegeEquipment.description>Construct medieval siege equipment.</VFES_SiegeEquipment.description>
+
+  <VWE_TrenchWarfare.label>окопна війна</VWE_TrenchWarfare.label>
+  <VWE_TrenchWarfare.description>Adapt a trench warfare doctrine with a selection of weapons for close-quarters combat.</VWE_TrenchWarfare.description>
+
+  <VFES_Artillery.label>артилерія</VFES_Artillery.label>
+  <VFES_Artillery.description>Learn how to construct field artillery capable of bombarding distant targets within a location's region on the world.</VFES_Artillery.description>
+
+  <VFES_SentryGuns.label>турелі</VFES_SentryGuns.label>
+  <VFES_SentryGuns.description>Craft self-powered, reliable sentry guns to be utilised in the field.</VFES_SentryGuns.description>
+
+  <VFES_ConcealedDefenses.label>прихований захист</VFES_ConcealedDefenses.label>
+  <VFES_ConcealedDefenses.description>Construct submersible barriers and turrets, perfect for indoor defenses.</VFES_ConcealedDefenses.description>
+
+
+  <!-- Spacer -->
+
+  <VFES_PulseChargedDefenses.label>ЕМІ захист</VFES_PulseChargedDefenses.label>
+  <VFES_PulseChargedDefenses.description>Develop advanced charge cannons capable of keeping consistent firing speed.</VFES_PulseChargedDefenses.description>
+
+  <VFES_Railgun.label>рейкотрон</VFES_Railgun.label>
+  <VFES_Railgun.description>Adapt spacecraft weaponry as part of your defensive systems.</VFES_Railgun.description>
+
+  <VFES_EMPCannon.label>ЕМП гармата</VFES_EMPCannon.label>
+  <VFES_EMPCannon.description>Develop EMP cannons, useful throughout the galaxy with it's ability to stun mechanoids.</VFES_EMPCannon.description>
+
+  <VFES_RepulsorTechnology.label>репелентна технологія</VFES_RepulsorTechnology.label>
+  <VFES_RepulsorTechnology.description>Build shield generators that project energy fields capable of repelling projectiles.</VFES_RepulsorTechnology.description>
+
+
+</LanguageData>

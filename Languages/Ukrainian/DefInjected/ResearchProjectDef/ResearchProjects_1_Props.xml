@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IndustrialProps.label>індустріальний декор</IndustrialProps.label>
+  <IndustrialProps.description>Розблоковує індустріальний декор.</IndustrialProps.description>
+
+  <VehicleProps.label>транспортний декор</VehicleProps.label>
+  <VehicleProps.description>Розблоковує велику добірку наземних транспортних декорцій.</VehicleProps.description>
+
+  <PlantProps.label>рослинний декор</PlantProps.label>
+  <PlantProps.description>Розблоковує добірку штучних рослин та дерев.</PlantProps.description>
+
+  <MedievalProps.label>середньовічний декор</MedievalProps.label>
+  <MedievalProps.description>Розблоковує серію декорацій у середньовічному стилі.</MedievalProps.description>
+
+  <FarmProps.label>фермерський декор</FarmProps.label>
+  <FarmProps.description>Надає доступ до серії фермерських декорацій.</FarmProps.description>
+
+  <PowerProps.label>енергетичний декор</PowerProps.label>
+  <PowerProps.description>Розблоковує декоративні генератори та інші електроенергетичні конструкції.</PowerProps.description>
+
+  <KitchenProps.label>кухонний декор</KitchenProps.label>
+  <KitchenProps.description>Розбоковує серію декору для кухні.</KitchenProps.description>
+
+  <DecalsProps.label>Деколь</DecalsProps.label>
+  <DecalsProps.description>Розблоковує велику добірку зображень, слів, цирф та букв для нанесення на підлогу.</DecalsProps.description>
+
+  <FurnitureProps.label>декоративні меблі</FurnitureProps.label>
+  <FurnitureProps.description>Надає доступ до різноманітних декоративних меблів.</FurnitureProps.description>
+
+  <SpaceshipProps.label>декоративні космічні корбалі</SpaceshipProps.label>
+  <SpaceshipProps.description>Розблоковує серію декоративних космічних кораблів.</SpaceshipProps.description>
+
+  <SpacerProps.label>високотехнологічний декор</SpacerProps.label>
+  <SpacerProps.description>Розблоковує велику добірку декору у стилі високих технологій.</SpacerProps.description>
+
+  <BorderProps.label>бордюри</BorderProps.label>
+  <BorderProps.description>Розблоковує серію декоративних бордюрів.</BorderProps.description>
+
+
+</LanguageData>

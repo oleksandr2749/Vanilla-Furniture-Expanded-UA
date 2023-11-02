@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_Ergonomic.label>ergonomic bed</Bed_Ergonomic.label>
+  <Bed_Ergonomic.description>An ergonomically designed bed to help support the spine, distribute body weight and overall enchance sleep quality.</Bed_Ergonomic.description>
+
+  <Bed_DoubleErgonomic.label>ergonomic double bed</Bed_DoubleErgonomic.label>
+  <Bed_DoubleErgonomic.description>An ergonomically designed double-wide bed to help support the spine, distribute body weight and overall enchance sleep quality. Fits two.</Bed_DoubleErgonomic.description>
+
+  <Table_Wardrobe.label>шафа для одягу</Table_Wardrobe.label>
+  <Table_Wardrobe.description>Висока шафа для зберігання одягу та інших предметів. Надає невеликий бонус до ефективності сну всім ліжкам, розташованим поруч. Розміщення більш як однієї шафи поруч з тим самим ліжком не має ефекту.</Table_Wardrobe.description>
+
+  <Seat_ModernChair.label>ергономічний стілець</Seat_ModernChair.label>
+  <Seat_ModernChair.description>Гнучкий ергономічний стілець, розроблений з урахуванням форми людського тіла.</Seat_ModernChair.description>
+
+</LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sculptures -->
+
+  <VFE_Pottery.label>гончарство</VFE_Pottery.label>
+  <VFE_Pottery.description>A small-size pieces of pottery with artisting engravings. Can be crafted on a crafting spot.</VFE_Pottery.description>
+  <VFE_Pottery_Blueprint_Install.label>pottery (blueprint)</VFE_Pottery_Blueprint_Install.label>
+
+  <VFE_StatueSmall.label>мала статуя</VFE_StatueSmall.label>
+  <VFE_StatueSmall.description>A small-size piece of material on a decorative pedestal, sculpted into an artistic form.</VFE_StatueSmall.description>
+  <VFE_StatueSmall_Blueprint_Install.label>small statue (blueprint)</VFE_StatueSmall_Blueprint_Install.label>
+
+  <VFE_Carving.label>різьблення</VFE_Carving.label>
+  <VFE_Carving.description>A small carving sculpted from a waist-tall wall piece. Can act as cover.</VFE_Carving.description>
+  <VFE_Carving_Blueprint_Install.label>carving (blueprint)</VFE_Carving_Blueprint_Install.label>
+
+  <VFE_StatueLarge.label>велика статуя</VFE_StatueLarge.label>
+  <VFE_StatueLarge.description>A person-sized piece of material on a decorative pedestal, sculpted into an artistic form.</VFE_StatueLarge.description>
+  <VFE_StatueLarge_Blueprint_Install.label>large statue (blueprint)</VFE_StatueLarge_Blueprint_Install.label>
+
+  <VFE_StatueGrand.label>велична статуя</VFE_StatueGrand.label>
+  <VFE_StatueGrand.description>A huge piece of material on a decorative pedestal, sculpted into an artistic form.</VFE_StatueGrand.description>
+  <VFE_StatueGrand_Blueprint_Install.label>grand statue (blueprint)</VFE_StatueGrand_Blueprint_Install.label>
+
+  <VFE_Monument.label>монумент</VFE_Monument.label>
+  <VFE_Monument.description>An impassable, massive monument with an ornate pedestal and a large art piece.</VFE_Monument.description>
+  <VFE_Monument_Blueprint_Install.label>monument (blueprint)</VFE_Monument_Blueprint_Install.label>
+
+  <VFE_Relief.label>рельєф</VFE_Relief.label>
+  <VFE_Relief.description>An impassable, long piece of wall with an artistic relief carved into it.</VFE_Relief.description>
+  <VFE_Relief_Blueprint_Install.label>relief (blueprint)</VFE_Relief_Blueprint_Install.label>
+
+  <VFE_Pillar.label>колона</VFE_Pillar.label>
+  <VFE_Pillar.description>An impassable, decorated pillar capable of supporting a roof.</VFE_Pillar.description>
+  <VFE_Pillar_Blueprint_Install.label>pillar (blueprint)</VFE_Pillar_Blueprint_Install.label>
+
+  <VFE_Obelisk.label>обеліск</VFE_Obelisk.label>
+  <VFE_Obelisk.description>A tall piece of material shaped into an obelisk with an art piece carved into the sides.</VFE_Obelisk.description>
+  <VFE_Obelisk_Blueprint_Install.label>obelisk (blueprint)</VFE_Obelisk_Blueprint_Install.label>
+
+  <VFE_Plinth.label>підставка</VFE_Plinth.label>
+  <VFE_Plinth.description>A small plinth with an artistic imagery carved into the sides. Can be used for storing miscellaneous items. Items stored in this will not deteriorate, even if outside.</VFE_Plinth.description>
+  <VFE_Plinth_Blueprint_Install.label>plinth (blueprint)</VFE_Plinth_Blueprint_Install.label>
+
+  <VFE_DecorativePlantPot.label>декоративний горщик</VFE_DecorativePlantPot.label>
+  <VFE_DecorativePlantPot.description>Plant decorative flowers on this ornamental plant pot to improve the mood of people nearby.</VFE_DecorativePlantPot.description>
+  <VFE_DecorativePlantPot_Blueprint_Install.label>decorative plant pot (blueprint)</VFE_DecorativePlantPot_Blueprint_Install.label>
+
+
+  <!-- Walls -->
+
+  <VFE_Wallpaper.label>шпалери</VFE_Wallpaper.label>
+  <VFE_Wallpaper.description>An impassable wall with a beautiful wallpaper. Capable of holding up a roof.</VFE_Wallpaper.description>
+  <VFE_Wallpaper_Blueprint.label>wallpaper (blueprint)</VFE_Wallpaper_Blueprint.label>
+  <VFE_Wallpaper_Frame.label>wallpaper (building)</VFE_Wallpaper_Frame.label>
+  <VFE_Wallpaper_Frame.description>An impassable wall with a beautiful wallpaper. Capable of holding up a roof.</VFE_Wallpaper_Frame.description>
+
+
+</LanguageData>

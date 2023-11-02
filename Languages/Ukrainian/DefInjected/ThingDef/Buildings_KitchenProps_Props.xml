@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_BrewingBarrel.label>пивоварна діжка</VFEPD_BrewingBarrel.label>
+  <VFEPD_BrewingBarrel.description>Велика пуста пивоварна діжка.</VFEPD_BrewingBarrel.description>
+  <VFEPD_BrewingBarrel_Blueprint.label>пивоварна діжка (креслення)</VFEPD_BrewingBarrel_Blueprint.label>
+  <VFEPD_BrewingBarrel_Frame.label>пивоварна діжка (будується)</VFEPD_BrewingBarrel_Frame.label>
+  <VFEPD_BrewingBarrel_Frame.description>Велика пуста пивоварна діжка.</VFEPD_BrewingBarrel_Frame.description>
+
+  <VFEPD_Cooker.label>кухонна плита</VFEPD_Cooker.label>
+  <VFEPD_Cooker.description>кухонна плита.</VFEPD_Cooker.description>
+  <VFEPD_Cooker_Blueprint.label>кухонна плита (креслення)</VFEPD_Cooker_Blueprint.label>
+  <VFEPD_Cooker_Frame.label>кухонна плита (будується)</VFEPD_Cooker_Frame.label>
+  <VFEPD_Cooker_Frame.description>кухонна плита.</VFEPD_Cooker_Frame.description>
+
+  <VFEPD_Microwave.label>мікрохвильовка</VFEPD_Microwave.label>
+  <VFEPD_Microwave.description>Настільна мікрохвильовка.</VFEPD_Microwave.description>
+  <VFEPD_Microwave_Blueprint.label>мікрохвильовка (креслення)</VFEPD_Microwave_Blueprint.label>
+  <VFEPD_Microwave_Frame.label>мікрохвильовка (будується)</VFEPD_Microwave_Frame.label>
+  <VFEPD_Microwave_Frame.description>Настільна мікрохвильовка.</VFEPD_Microwave_Frame.description>
+
+  <VFEPD_Oven.label>духова шафа</VFEPD_Oven.label>
+  <VFEPD_Oven.description>Велика духова шафа.</VFEPD_Oven.description>
+  <VFEPD_Oven_Blueprint.label>духова шафа (креслення)</VFEPD_Oven_Blueprint.label>
+  <VFEPD_Oven_Frame.label>духова шафа (будується)</VFEPD_Oven_Frame.label>
+  <VFEPD_Oven_Frame.description>Велика духова шафа.</VFEPD_Oven_Frame.description>
+
+  <VFEPD_Fridge.label>холодильник</VFEPD_Fridge.label>
+  <VFEPD_Fridge.description>Великий холодильник з вбудованою морозилкою.</VFEPD_Fridge.description>
+  <VFEPD_Fridge_Blueprint.label>холодильник (креслення)</VFEPD_Fridge_Blueprint.label>
+  <VFEPD_Fridge_Frame.label>холодильник (будується)</VFEPD_Fridge_Frame.label>
+  <VFEPD_Fridge_Frame.description>Великий холодильник з вбудованою морозилкою.</VFEPD_Fridge_Frame.description>
+
+  <VFEPD_WaterDispenser.label>кулер</VFEPD_WaterDispenser.label>
+  <VFEPD_WaterDispenser.description>Великий кулер зі свіжою водою.</VFEPD_WaterDispenser.description>
+  <VFEPD_WaterDispenser_Blueprint.label>кулер (креслення)</VFEPD_WaterDispenser_Blueprint.label>
+  <VFEPD_WaterDispenser_Frame.label>кулер (будується)</VFEPD_WaterDispenser_Frame.label>
+  <VFEPD_WaterDispenser_Frame.description>Великий кулер зі свіжою водою.</VFEPD_WaterDispenser_Frame.description>
+
+  <VFEPD_FoodTrolley.label>візок для їжі</VFEPD_FoodTrolley.label>
+  <VFEPD_FoodTrolley.description>Чотириколісний візок для порожніх тарілок та підносів.</VFEPD_FoodTrolley.description>
+  <VFEPD_FoodTrolley_Blueprint.label>візок для їжі (креслення)</VFEPD_FoodTrolley_Blueprint.label>
+  <VFEPD_FoodTrolley_Frame.label>візок для їжі (будується)</VFEPD_FoodTrolley_Frame.label>
+  <VFEPD_FoodTrolley_Frame.description>Чотириколісний візок для порожніх тарілок та підносів.</VFEPD_FoodTrolley_Frame.description>
+
+  <VFEPD_KitchenSurface.label>кухонна поверхня</VFEPD_KitchenSurface.label>
+  <VFEPD_KitchenSurface.description>Проста кухонна поверхня з дошкою для нарізки.</VFEPD_KitchenSurface.description>
+  <VFEPD_KitchenSurface_Blueprint.label>кухонна поверхня (креслення)</VFEPD_KitchenSurface_Blueprint.label>
+  <VFEPD_KitchenSurface_Frame.label>кухонна поверхня (будується)</VFEPD_KitchenSurface_Frame.label>
+  <VFEPD_KitchenSurface_Frame.description>Проста кухонна поверхня з дошкою для нарізки.</VFEPD_KitchenSurface_Frame.description>
+
+  <VFEPD_KitchenSurfaceEmpty.label>пуста кухонна поверхня</VFEPD_KitchenSurfaceEmpty.label>
+  <VFEPD_KitchenSurfaceEmpty.description>Проста кухонна поверхня.</VFEPD_KitchenSurfaceEmpty.description>
+  <VFEPD_KitchenSurfaceEmpty_Blueprint.label>пуста кухонна поверхня (креслення)</VFEPD_KitchenSurfaceEmpty_Blueprint.label>
+  <VFEPD_KitchenSurfaceEmpty_Frame.label>пуста кухонна поверхня (будується)</VFEPD_KitchenSurfaceEmpty_Frame.label>
+  <VFEPD_KitchenSurfaceEmpty_Frame.description>Проста кухонна поверхня.</VFEPD_KitchenSurfaceEmpty_Frame.description>
+
+  <VFEPD_KitchenSink.label>кухонна мийка</VFEPD_KitchenSink.label>
+  <VFEPD_KitchenSink.description>Велика кухонна мийка.</VFEPD_KitchenSink.description>
+  <VFEPD_KitchenSink_Blueprint.label>кухонна мийка (креслення)</VFEPD_KitchenSink_Blueprint.label>
+  <VFEPD_KitchenSink_Frame.label>кухонна мийка (будується)</VFEPD_KitchenSink_Frame.label>
+  <VFEPD_KitchenSink_Frame.description>Велика кухонна мийка.</VFEPD_KitchenSink_Frame.description>
+
+  <VFEPD_WineRack.label>стелаж для вина</VFEPD_WineRack.label>
+  <VFEPD_WineRack.description>Цивілізований стелаж для зберігання вина.</VFEPD_WineRack.description>
+  <VFEPD_WineRack_Blueprint.label>стелаж для вина (креслення)</VFEPD_WineRack_Blueprint.label>
+  <VFEPD_WineRack_Frame.label>стелаж для вина (будується)</VFEPD_WineRack_Frame.label>
+  <VFEPD_WineRack_Frame.description>Цивілізований стелаж для зберігання вина.</VFEPD_WineRack_Frame.description>
+
+  <VFEPD_MopBucket.label>відро для швабри</VFEPD_MopBucket.label>
+  <VFEPD_MopBucket.description>Чисте відро для швабри.</VFEPD_MopBucket.description>
+  <VFEPD_MopBucket_Blueprint.label>відро для швабри (креслення)</VFEPD_MopBucket_Blueprint.label>
+  <VFEPD_MopBucket_Frame.label>відро для швабри (будується)</VFEPD_MopBucket_Frame.label>
+  <VFEPD_MopBucket_Frame.description>Чисте відро для швабри.</VFEPD_MopBucket_Frame.description>
+
+  <VFEPD_CookingAppliances.label>кухонне приладдя</VFEPD_CookingAppliances.label>
+  <VFEPD_CookingAppliances.description>кухонне приладдя.</VFEPD_CookingAppliances.description>
+  <VFEPD_CookingAppliances_Blueprint.label>кухонне приладдя (креслення)</VFEPD_CookingAppliances_Blueprint.label>
+  <VFEPD_CookingAppliances_Frame.label>кухонне приладдя (будується)</VFEPD_CookingAppliances_Frame.label>
+  <VFEPD_CookingAppliances_Frame.description>кухонне приладдя.</VFEPD_CookingAppliances_Frame.description>
+
+  <VFEPD_CuttingBoard.label>дошка для нарізки</VFEPD_CuttingBoard.label>
+  <VFEPD_CuttingBoard.description>деревʼяна дошка для нарізки.</VFEPD_CuttingBoard.description>
+  <VFEPD_CuttingBoard_Blueprint.label>дошка для нарізки (креслення)</VFEPD_CuttingBoard_Blueprint.label>
+  <VFEPD_CuttingBoard_Frame.label>дошка для нарізки (будується)</VFEPD_CuttingBoard_Frame.label>
+  <VFEPD_CuttingBoard_Frame.description> деревʼяна дошка для нарізки.</VFEPD_CuttingBoard_Frame.description>
+
+  <VFEPD_Knives.label>ножі</VFEPD_Knives.label>
+  <VFEPD_Knives.description>Набір кухонних ножів.</VFEPD_Knives.description>
+  <VFEPD_Knives_Blueprint.label>ножі (креслення)</VFEPD_Knives_Blueprint.label>
+  <VFEPD_Knives_Frame.label>ножі (будується)</VFEPD_Knives_Frame.label>
+  <VFEPD_Knives_Frame.description>Набір кухонних ножів.</VFEPD_Knives_Frame.description>
+
+  <VFEPD_DinnerSet.label>столовий набір</VFEPD_DinnerSet.label>
+  <VFEPD_DinnerSet.description>Простий столовий набір з усім необхідним посудом.</VFEPD_DinnerSet.description>
+  <VFEPD_DinnerSet_Blueprint.label>столовий набір (креслення)</VFEPD_DinnerSet_Blueprint.label>
+  <VFEPD_DinnerSet_Frame.label>столовий набір (будується)</VFEPD_DinnerSet_Frame.label>
+  <VFEPD_DinnerSet_Frame.description>Простий столовий набір з усім необхідним посудом.</VFEPD_DinnerSet_Frame.description>
+
+  <VFEPD_Spices.label>приправи</VFEPD_Spices.label>
+  <VFEPD_Spices.description>Великий асортимент різних приправ.</VFEPD_Spices.description>
+  <VFEPD_Spices_Blueprint.label>приправи (креслення)</VFEPD_Spices_Blueprint.label>
+  <VFEPD_Spices_Frame.label>приправи (будується)</VFEPD_Spices_Frame.label>
+  <VFEPD_Spices_Frame.description>Великий асортимент різних приправ.</VFEPD_Spices_Frame.description>
+
+
+</LanguageData>

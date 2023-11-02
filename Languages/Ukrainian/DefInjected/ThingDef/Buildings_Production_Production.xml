@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Component Fabrication Bench -->
+
+  <VFE_ComponentFabricationBench.label>малий стіл для виробництва</VFE_ComponentFabricationBench.label>
+  <VFE_ComponentFabricationBench.description>A workbench equipped with advanced tools to produce components.</VFE_ComponentFabricationBench.description>
+  <VFE_ComponentFabricationBench_Blueprint.label>assembly bench (blueprint)</VFE_ComponentFabricationBench_Blueprint.label>
+  <VFE_ComponentFabricationBench_Frame.label>assembly bench (building)</VFE_ComponentFabricationBench_Frame.label>
+  <VFE_ComponentFabricationBench_Frame.description>A workbench equipped with advanced tools to produce components.</VFE_ComponentFabricationBench_Frame.description>
+
+
+  <!-- Electric Butcher -->
+
+  <VFE_TableButcherElectric.label>електрична м'ясорізка</VFE_TableButcherElectric.label>
+  <VFE_TableButcherElectric.description>A motorized table with a rotating saw blade for butchering dead creatures quicker into precise slices of raw meat. Consumes a lot of power.</VFE_TableButcherElectric.description>
+  <VFE_TableButcherElectric_Blueprint.label>electric butcher (blueprint)</VFE_TableButcherElectric_Blueprint.label>
+  <VFE_TableButcherElectric_Blueprint_Install.label>electric butcher (blueprint)</VFE_TableButcherElectric_Blueprint_Install.label>
+  <VFE_TableButcherElectric_Frame.label>electric butcher (building)</VFE_TableButcherElectric_Frame.label>
+  <VFE_TableButcherElectric_Frame.description>A motorized table with a rotating saw blade for butchering dead creatures quicker into precise slices of raw meat. Consumes a lot of power.</VFE_TableButcherElectric_Frame.description>
+
+
+  <!-- Electric Drug Lab -->
+
+  <VFE_TableDrugLabElectric.label>електрична нарколабораторія</VFE_TableDrugLabElectric.label>
+  <VFE_TableDrugLabElectric.description>An advanced work bench equipped with containers, heaters, and measurement devices for producing various drugs with more efficiency. Consumes a lot of power.</VFE_TableDrugLabElectric.description>
+  <VFE_TableDrugLabElectric_Blueprint.label>electric drug lab (blueprint)</VFE_TableDrugLabElectric_Blueprint.label>
+  <VFE_TableDrugLabElectric_Blueprint_Install.label>electric drug lab (blueprint)</VFE_TableDrugLabElectric_Blueprint_Install.label>
+  <VFE_TableDrugLabElectric_Frame.label>electric drug lab (building)</VFE_TableDrugLabElectric_Frame.label>
+  <VFE_TableDrugLabElectric_Frame.description>An advanced work bench equipped with containers, heaters, and measurement devices for producing various drugs with more efficiency. Consumes a lot of power.</VFE_TableDrugLabElectric_Frame.description>
+
+
+  <!-- Fueled Smelter -->
+
+  <VFE_FueledSmelter.label>бензинова плавильна</VFE_FueledSmelter.label>
+  <VFE_FueledSmelter.description>A wood-fueled station for smelting. Extracts usable metal from slag chunks and other mixed metal items.</VFE_FueledSmelter.description>
+  <VFE_FueledSmelter_Blueprint.label>fueled smelter (blueprint)</VFE_FueledSmelter_Blueprint.label>
+  <VFE_FueledSmelter_Blueprint_Install.label>fueled smelter (blueprint)</VFE_FueledSmelter_Blueprint_Install.label>
+  <VFE_FueledSmelter_Frame.label>fueled smelter (building)</VFE_FueledSmelter_Frame.label>
+  <VFE_FueledSmelter_Frame.description>A wood-fueled station for smelting. Extracts usable metal from slag chunks and other mixed metal items.</VFE_FueledSmelter_Frame.description>
+
+
+  <!-- Electric Stone Cutter -->
+
+  <VFE_TableStonecutterElectric.label>електрична кам'яний різак</VFE_TableStonecutterElectric.label>
+  <VFE_TableStonecutterElectric.description>An advanced work table with electrical saws and holders for cutting stone chunks into usable blocks in shorter duration of time on an assembly line. Consumes a lot of power.</VFE_TableStonecutterElectric.description>
+  <VFE_TableStonecutterElectric_Blueprint.label>electric stonecutter's table (blueprint)</VFE_TableStonecutterElectric_Blueprint.label>
+  <VFE_TableStonecutterElectric_Blueprint_Install.label>electric stonecutter's table (blueprint)</VFE_TableStonecutterElectric_Blueprint_Install.label>
+  <VFE_TableStonecutterElectric_Frame.label>electric stonecutter's table (building)</VFE_TableStonecutterElectric_Frame.label>
+  <VFE_TableStonecutterElectric_Frame.description>An advanced work table with electrical saws and holders for cutting stone chunks into usable blocks in shorter duration of time on an assembly line. Consumes a lot of power.</VFE_TableStonecutterElectric_Frame.description>
+
+
+</LanguageData>

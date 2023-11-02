@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_SteelATM.label>сталевий банкомат</VFEPD_SteelATM.label>
+  <VFEPD_SteelATM.description>Не функціональна машина для видачі грошей.</VFEPD_SteelATM.description>
+  <VFEPD_SteelATM_Blueprint.label>сталевий банкомат (креслення)</VFEPD_SteelATM_Blueprint.label>
+  <VFEPD_SteelATM_Frame.label>сталевий банкомат (будується)</VFEPD_SteelATM_Frame.label>
+  <VFEPD_SteelATM_Frame.description>Не функціональна машина для видачі грошей.</VFEPD_SteelATM_Frame.description>
+
+  <VFEPD_PlasteelATM.label>банкомат із пласталі</VFEPD_PlasteelATM.label>
+  <VFEPD_PlasteelATM.description>Не функціональна машина для видачі грошей із пласталі.</VFEPD_PlasteelATM.description>
+  <VFEPD_PlasteelATM_Blueprint.label>банкомат із пласталі (креслення)</VFEPD_PlasteelATM_Blueprint.label>
+  <VFEPD_PlasteelATM_Frame.label>банкомат із пласталі (будується)</VFEPD_PlasteelATM_Frame.label>
+  <VFEPD_PlasteelATM_Frame.description>Не функціональна машина для видачі грошей із пласталі.</VFEPD_PlasteelATM_Frame.description>
+
+  <VFEPD_SilverATM.label>срібний банкомат</VFEPD_SilverATM.label>
+  <VFEPD_SilverATM.description>Не функціональна срібна машина для видачі грошей.</VFEPD_SilverATM.description>
+  <VFEPD_SilverATM_Blueprint.label>срібний банкомат (креслення)</VFEPD_SilverATM_Blueprint.label>
+  <VFEPD_SilverATM_Frame.label>срібний банкомат (будується)</VFEPD_SilverATM_Frame.label>
+  <VFEPD_SilverATM_Frame.description>Не функціональна срібна машина для видачі грошей.</VFEPD_SilverATM_Frame.description>
+
+  <VFEPD_WoodenATM.label>деревʼяний банкомат</VFEPD_WoodenATM.label>
+  <VFEPD_WoodenATM.description>Не функціональна деревʼяна машина для видачі грошей.</VFEPD_WoodenATM.description>
+  <VFEPD_WoodenATM_Blueprint.label>деревʼяний банкомат (креслення)</VFEPD_WoodenATM_Blueprint.label>
+  <VFEPD_WoodenATM_Frame.label>деревʼяний банкомат (будується)</VFEPD_WoodenATM_Frame.label>
+  <VFEPD_WoodenATM_Frame.description>Не функціональна деревʼяна машина для видачі грошей.</VFEPD_WoodenATM_Frame.description>
+
+  <VFEPD_SteelBookshelf.label>сталева книжкова полиця</VFEPD_SteelBookshelf.label>
+  <VFEPD_SteelBookshelf.description>Книжкова полиця з безліччю нечитабельних фоліантів та видань.</VFEPD_SteelBookshelf.description>
+  <VFEPD_SteelBookshelf_Blueprint.label>сталева книжкова полиця (креслення)</VFEPD_SteelBookshelf_Blueprint.label>
+  <VFEPD_SteelBookshelf_Frame.label>сталева книжкова полиця (будується)</VFEPD_SteelBookshelf_Frame.label>
+  <VFEPD_SteelBookshelf_Frame.description>Книжкова полиця з безліччю нечитабельних фоліантів та видань.</VFEPD_SteelBookshelf_Frame.description>
+
+  <VFEPD_PlasteelBookshelf.label>книжкова полиця із пласталі</VFEPD_PlasteelBookshelf.label>
+  <VFEPD_PlasteelBookshelf.description>Книжкова полиця з безліччю нечитабельних фоліантів та видань.</VFEPD_PlasteelBookshelf.description>
+  <VFEPD_PlasteelBookshelf_Blueprint.label>книжкова полиця із пласталі (креслення)</VFEPD_PlasteelBookshelf_Blueprint.label>
+  <VFEPD_PlasteelBookshelf_Frame.label>книжкова полиця із пласталі (будується)</VFEPD_PlasteelBookshelf_Frame.label>
+  <VFEPD_PlasteelBookshelf_Frame.description>Книжкова полиця з безліччю нечитабельних фоліантів та видань.</VFEPD_PlasteelBookshelf_Frame.description>
+
+  <VFEPD_SilverBookshelf.label>срібна книжкова полиця</VFEPD_SilverBookshelf.label>
+  <VFEPD_SilverBookshelf.description>Книжкова полиця з безліччю нечитабельних фоліантів та видань.</VFEPD_SilverBookshelf.description>
+  <VFEPD_SilverBookshelf_Blueprint.label>срібна книжкова полиця (креслення)</VFEPD_SilverBookshelf_Blueprint.label>
+  <VFEPD_SilverBookshelf_Frame.label>срібна книжкова полиця (будується)</VFEPD_SilverBookshelf_Frame.label>
+  <VFEPD_SilverBookshelf_Frame.description>Книжкова полиця з безліччю нечитабельних фоліантів та видань.</VFEPD_SilverBookshelf_Frame.description>
+
+  <VFEPD_WoodenBookshelf.label>деревʼяна книжкова полиця</VFEPD_WoodenBookshelf.label>
+  <VFEPD_WoodenBookshelf.description>Книжкова полиця з безліччю нечитабельних фоліантів та видань.</VFEPD_WoodenBookshelf.description>
+  <VFEPD_WoodenBookshelf_Blueprint.label>деревʼяна книжкова полиця (креслення)</VFEPD_WoodenBookshelf_Blueprint.label>
+  <VFEPD_WoodenBookshelf_Frame.label>деревʼяна книжкова полиця (будується)</VFEPD_WoodenBookshelf_Frame.label>
+  <VFEPD_WoodenBookshelf_Frame.description>Книжкова полиця з безліччю нечитабельних фоліантів та видань.</VFEPD_WoodenBookshelf_Frame.description>
+
+  <VFEPD_SteelCupboard.label>сталева шафа</VFEPD_SteelCupboard.label>
+  <VFEPD_SteelCupboard.description>Пуста велика шафа.</VFEPD_SteelCupboard.description>
+  <VFEPD_SteelCupboard_Blueprint.label>сталева шафа (креслення)</VFEPD_SteelCupboard_Blueprint.label>
+  <VFEPD_SteelCupboard_Frame.label>сталева шафа (будується)</VFEPD_SteelCupboard_Frame.label>
+  <VFEPD_SteelCupboard_Frame.description>Пуста велика шафа.</VFEPD_SteelCupboard_Frame.description>
+
+  <VFEPD_PlasteelCupboard.label>шафа з пласталі</VFEPD_PlasteelCupboard.label>
+  <VFEPD_PlasteelCupboard.description>Пуста велика шафа.</VFEPD_PlasteelCupboard.description>
+  <VFEPD_PlasteelCupboard_Blueprint.label>шафа з пласталі (креслення)</VFEPD_PlasteelCupboard_Blueprint.label>
+  <VFEPD_PlasteelCupboard_Frame.label>шафа з пласталі (будується)</VFEPD_PlasteelCupboard_Frame.label>
+  <VFEPD_PlasteelCupboard_Frame.description>Пуста велика шафа.</VFEPD_PlasteelCupboard_Frame.description>
+
+  <VFEPD_SilverCupboard.label>срібна шафа</VFEPD_SilverCupboard.label>
+  <VFEPD_SilverCupboard.description>Пуста велика шафа.</VFEPD_SilverCupboard.description>
+  <VFEPD_SilverCupboard_Blueprint.label>срібна шафа (креслення)</VFEPD_SilverCupboard_Blueprint.label>
+  <VFEPD_SilverCupboard_Frame.label>срібна шафа (будується)</VFEPD_SilverCupboard_Frame.label>
+  <VFEPD_SilverCupboard_Frame.description>Пуста велика шафа.</VFEPD_SilverCupboard_Frame.description>
+
+  <VFEPD_WoodenCupboard.label>деревʼяна шафа</VFEPD_WoodenCupboard.label>
+  <VFEPD_WoodenCupboard.description>Пуста велика шафа.</VFEPD_WoodenCupboard.description>
+  <VFEPD_WoodenCupboard_Blueprint.label>деревʼяна шафа (креслення)</VFEPD_WoodenCupboard_Blueprint.label>
+  <VFEPD_WoodenCupboard_Frame.label>деревʼяна шафа (будується)</VFEPD_WoodenCupboard_Frame.label>
+  <VFEPD_WoodenCupboard_Frame.description>Пуста велика шафа.</VFEPD_WoodenCupboard_Frame.description>
+
+  <VFEPD_SteelCupboardDouble.label>сталева подвійна шафа</VFEPD_SteelCupboardDouble.label>
+  <VFEPD_SteelCupboardDouble.description>Пуста велика подвійна шафа.</VFEPD_SteelCupboardDouble.description>
+  <VFEPD_SteelCupboardDouble_Blueprint.label>сталева подвійна шафа (креслення)</VFEPD_SteelCupboardDouble_Blueprint.label>
+  <VFEPD_SteelCupboardDouble_Frame.label>сталева подвійна шафа (будується)</VFEPD_SteelCupboardDouble_Frame.label>
+  <VFEPD_SteelCupboardDouble_Frame.description>Пуста велика подвійна шафа.</VFEPD_SteelCupboardDouble_Frame.description>
+
+  <VFEPD_PlasteelCupboardDouble.label>подвійна шафа з пласталі</VFEPD_PlasteelCupboardDouble.label>
+  <VFEPD_PlasteelCupboardDouble.description>Пуста велика подвійна шафа.</VFEPD_PlasteelCupboardDouble.description>
+  <VFEPD_PlasteelCupboardDouble_Blueprint.label>подвійна шафа з пласталі (креслення)</VFEPD_PlasteelCupboardDouble_Blueprint.label>
+  <VFEPD_PlasteelCupboardDouble_Frame.label>подвійна шафа з пласталі (будується)</VFEPD_PlasteelCupboardDouble_Frame.label>
+  <VFEPD_PlasteelCupboardDouble_Frame.description>Пуста велика подвійна шафа.</VFEPD_PlasteelCupboardDouble_Frame.description>
+
+  <VFEPD_SilverCupboardDouble.label>срібна подвійна шафа</VFEPD_SilverCupboardDouble.label>
+  <VFEPD_SilverCupboardDouble.description>Пуста велика подвійна шафа.</VFEPD_SilverCupboardDouble.description>
+  <VFEPD_SilverCupboardDouble_Blueprint.label>срібна подвійна шафа (креслення)</VFEPD_SilverCupboardDouble_Blueprint.label>
+  <VFEPD_SilverCupboardDouble_Frame.label>срібна подвійна шафа (будується)</VFEPD_SilverCupboardDouble_Frame.label>
+  <VFEPD_SilverCupboardDouble_Frame.description>Пуста велика подвійна шафа.</VFEPD_SilverCupboardDouble_Frame.description>
+
+  <VFEPD_WoodenCupboardDouble.label>деревʼяна подвійна шафа</VFEPD_WoodenCupboardDouble.label>
+  <VFEPD_WoodenCupboardDouble.description>Пуста велика подвійна шафа.</VFEPD_WoodenCupboardDouble.description>
+  <VFEPD_WoodenCupboardDouble_Blueprint.label>деревʼяна подвійна шафа (креслення)</VFEPD_WoodenCupboardDouble_Blueprint.label>
+  <VFEPD_WoodenCupboardDouble_Frame.label>деревʼяна подвійна шафа (будується)</VFEPD_WoodenCupboardDouble_Frame.label>
+  <VFEPD_WoodenCupboardDouble_Frame.description>Пуста велика подвійна шафа.</VFEPD_WoodenCupboardDouble_Frame.description>
+
+  <VFEPD_SteelCupboardPlates.label>сталевий сервант</VFEPD_SteelCupboardPlates.label>
+  <VFEPD_SteelCupboardPlates.description>Великий сервант із тарілками.</VFEPD_SteelCupboardPlates.description>
+  <VFEPD_SteelCupboardPlates_Blueprint.label>сталевий сервант (креслення)</VFEPD_SteelCupboardPlates_Blueprint.label>
+  <VFEPD_SteelCupboardPlates_Frame.label>сталевий сервант (будується)</VFEPD_SteelCupboardPlates_Frame.label>
+  <VFEPD_SteelCupboardPlates_Frame.description>Великий сервант із тарілками.</VFEPD_SteelCupboardPlates_Frame.description>
+
+  <VFEPD_PlasteelCupboardPlates.label>сервант із пласталі</VFEPD_PlasteelCupboardPlates.label>
+  <VFEPD_PlasteelCupboardPlates.description>Великий сервант із тарілками.</VFEPD_PlasteelCupboardPlates.description>
+  <VFEPD_PlasteelCupboardPlates_Blueprint.label>сервант із пласталі (креслення)</VFEPD_PlasteelCupboardPlates_Blueprint.label>
+  <VFEPD_PlasteelCupboardPlates_Frame.label>сервант із пласталі (будується)</VFEPD_PlasteelCupboardPlates_Frame.label>
+  <VFEPD_PlasteelCupboardPlates_Frame.description>Великий сервант із тарілками.</VFEPD_PlasteelCupboardPlates_Frame.description>
+
+  <VFEPD_SilverCupboardPlates.label>срібний сервант</VFEPD_SilverCupboardPlates.label>
+  <VFEPD_SilverCupboardPlates.description>Великий сервант із тарілками.</VFEPD_SilverCupboardPlates.description>
+  <VFEPD_SilverCupboardPlates_Blueprint.label>срібний сервант (креслення)</VFEPD_SilverCupboardPlates_Blueprint.label>
+  <VFEPD_SilverCupboardPlates_Frame.label>срібний сервант (будується)</VFEPD_SilverCupboardPlates_Frame.label>
+  <VFEPD_SilverCupboardPlates_Frame.description>Великий сервант із тарілками.</VFEPD_SilverCupboardPlates_Frame.description>
+
+  <VFEPD_WoodenCupboardPlates.label>деревʼяний сервант</VFEPD_WoodenCupboardPlates.label>
+  <VFEPD_WoodenCupboardPlates.description>Великий сервант із тарілками.</VFEPD_WoodenCupboardPlates.description>
+  <VFEPD_WoodenCupboardPlates_Blueprint.label>деревʼяний сервант (креслення)</VFEPD_WoodenCupboardPlates_Blueprint.label>
+  <VFEPD_WoodenCupboardPlates_Frame.label>деревʼяний сервант (будується)</VFEPD_WoodenCupboardPlates_Frame.label>
+  <VFEPD_WoodenCupboardPlates_Frame.description>Великий сервант із тарілками.</VFEPD_WoodenCupboardPlates_Frame.description>
+
+  <VFEPD_SteelCupboardNarrow.label>сталевий вузький пенал</VFEPD_SteelCupboardNarrow.label>
+  <VFEPD_SteelCupboardNarrow.description>Пустий вузький пенал.</VFEPD_SteelCupboardNarrow.description>
+  <VFEPD_SteelCupboardNarrow_Blueprint.label>сталевий вузький пенал (креслення)</VFEPD_SteelCupboardNarrow_Blueprint.label>
+  <VFEPD_SteelCupboardNarrow_Frame.label>сталевий вузький пенал (будується)</VFEPD_SteelCupboardNarrow_Frame.label>
+  <VFEPD_SteelCupboardNarrow_Frame.description>Пустий вузький пенал.</VFEPD_SteelCupboardNarrow_Frame.description>
+
+  <VFEPD_PlasteelCupboardNarrow.label>вузький пенал із пласталі</VFEPD_PlasteelCupboardNarrow.label>
+  <VFEPD_PlasteelCupboardNarrow.description>Пустий вузький пенал.</VFEPD_PlasteelCupboardNarrow.description>
+  <VFEPD_PlasteelCupboardNarrow_Blueprint.label>вузький пенал із пласталі (креслення)</VFEPD_PlasteelCupboardNarrow_Blueprint.label>
+  <VFEPD_PlasteelCupboardNarrow_Frame.label>вузький пенал із пласталі (будується)</VFEPD_PlasteelCupboardNarrow_Frame.label>
+  <VFEPD_PlasteelCupboardNarrow_Frame.description>Пустий вузький пенал.</VFEPD_PlasteelCupboardNarrow_Frame.description>
+
+  <VFEPD_SilverCupboardNarrow.label>срібний вузький пенал</VFEPD_SilverCupboardNarrow.label>
+  <VFEPD_SilverCupboardNarrow.description>Пустий вузький пенал.</VFEPD_SilverCupboardNarrow.description>
+  <VFEPD_SilverCupboardNarrow_Blueprint.label>срібний вузький пенал (креслення)</VFEPD_SilverCupboardNarrow_Blueprint.label>
+  <VFEPD_SilverCupboardNarrow_Frame.label>срібний вузький пенал (будується)</VFEPD_SilverCupboardNarrow_Frame.label>
+  <VFEPD_SilverCupboardNarrow_Frame.description>Пустий вузький пенал.</VFEPD_SilverCupboardNarrow_Frame.description>
+
+  <VFEPD_WoodenCupboardNarrow.label>деревʼяний вузький пенал</VFEPD_WoodenCupboardNarrow.label>
+  <VFEPD_WoodenCupboardNarrow.description>Пустий вузький пенал.</VFEPD_WoodenCupboardNarrow.description>
+  <VFEPD_WoodenCupboardNarrow_Blueprint.label>деревʼяний вузький пенал (креслення)</VFEPD_WoodenCupboardNarrow_Blueprint.label>
+  <VFEPD_WoodenCupboardNarrow_Frame.label>деревʼяний вузький пенал (будується)</VFEPD_WoodenCupboardNarrow_Frame.label>
+  <VFEPD_WoodenCupboardNarrow_Frame.description>Пустий вузький пенал.</VFEPD_WoodenCupboardNarrow_Frame.description>
+
+  <VFEPD_SteelTallCabinet.label>сталева висока шафа</VFEPD_SteelTallCabinet.label>
+  <VFEPD_SteelTallCabinet.description>Висока шафа.</VFEPD_SteelTallCabinet.description>
+  <VFEPD_SteelTallCabinet_Blueprint.label>сталева висока шафа (креслення)</VFEPD_SteelTallCabinet_Blueprint.label>
+  <VFEPD_SteelTallCabinet_Frame.label>сталева висока шафа (будується)</VFEPD_SteelTallCabinet_Frame.label>
+  <VFEPD_SteelTallCabinet_Frame.description>Висока шафа.</VFEPD_SteelTallCabinet_Frame.description>
+
+  <VFEPD_PlasteelTallCabinet.label>висока шафа з пласталі</VFEPD_PlasteelTallCabinet.label>
+  <VFEPD_PlasteelTallCabinet.description>Висока шафа.</VFEPD_PlasteelTallCabinet.description>
+  <VFEPD_PlasteelTallCabinet_Blueprint.label>висока шафа з пласталі (креслення)</VFEPD_PlasteelTallCabinet_Blueprint.label>
+  <VFEPD_PlasteelTallCabinet_Frame.label>висока шафа з пласталі (будується)</VFEPD_PlasteelTallCabinet_Frame.label>
+  <VFEPD_PlasteelTallCabinet_Frame.description>Висока шафа.</VFEPD_PlasteelTallCabinet_Frame.description>
+
+  <VFEPD_SilverTallCabinet.label>срібна висока шафа</VFEPD_SilverTallCabinet.label>
+  <VFEPD_SilverTallCabinet.description>Висока шафа.</VFEPD_SilverTallCabinet.description>
+  <VFEPD_SilverTallCabinet_Blueprint.label>срібна висока шафа (креслення)</VFEPD_SilverTallCabinet_Blueprint.label>
+  <VFEPD_SilverTallCabinet_Frame.label>срібна висока шафа (будується)</VFEPD_SilverTallCabinet_Frame.label>
+  <VFEPD_SilverTallCabinet_Frame.description>Висока шафа.</VFEPD_SilverTallCabinet_Frame.description>
+
+  <VFEPD_WoodenTallCabinet.label>деревʼяна висока шафа</VFEPD_WoodenTallCabinet.label>
+  <VFEPD_WoodenTallCabinet.description>Висока шафа.</VFEPD_WoodenTallCabinet.description>
+  <VFEPD_WoodenTallCabinet_Blueprint.label>деревʼяна висока шафа (креслення)</VFEPD_WoodenTallCabinet_Blueprint.label>
+  <VFEPD_WoodenTallCabinet_Frame.label>деревʼяна висока шафа (будується)</VFEPD_WoodenTallCabinet_Frame.label>
+  <VFEPD_WoodenTallCabinet_Frame.description>Висока шафа.</VFEPD_WoodenTallCabinet_Frame.description>
+
+  <VFEPD_SteelShortCupboard.label>сталева низька шафа</VFEPD_SteelShortCupboard.label>
+  <VFEPD_SteelShortCupboard.description>Пуста низька шафа.</VFEPD_SteelShortCupboard.description>
+  <VFEPD_SteelShortCupboard_Blueprint.label>сталева низька шафа (креслення)</VFEPD_SteelShortCupboard_Blueprint.label>
+  <VFEPD_SteelShortCupboard_Frame.label>сталева низька шафа (будується)</VFEPD_SteelShortCupboard_Frame.label>
+  <VFEPD_SteelShortCupboard_Frame.description>Пуста низька шафа.</VFEPD_SteelShortCupboard_Frame.description>
+
+  <VFEPD_PlasteelShortCupboard.label>низька шафа з пласталі</VFEPD_PlasteelShortCupboard.label>
+  <VFEPD_PlasteelShortCupboard.description>Пуста низька шафа.</VFEPD_PlasteelShortCupboard.description>
+  <VFEPD_PlasteelShortCupboard_Blueprint.label>низька шафа з пласталі (креслення)</VFEPD_PlasteelShortCupboard_Blueprint.label>
+  <VFEPD_PlasteelShortCupboard_Frame.label>низька шафа з пласталі (будується)</VFEPD_PlasteelShortCupboard_Frame.label>
+  <VFEPD_PlasteelShortCupboard_Frame.description>Пуста низька шафа.</VFEPD_PlasteelShortCupboard_Frame.description>
+
+  <VFEPD_SilverShortCupboard.label>срібна низька шафа</VFEPD_SilverShortCupboard.label>
+  <VFEPD_SilverShortCupboard.description>Пуста низька шафа.</VFEPD_SilverShortCupboard.description>
+  <VFEPD_SilverShortCupboard_Blueprint.label>срібна низька шафа (креслення)</VFEPD_SilverShortCupboard_Blueprint.label>
+  <VFEPD_SilverShortCupboard_Frame.label>срібна низька шафа (будується)</VFEPD_SilverShortCupboard_Frame.label>
+  <VFEPD_SilverShortCupboard_Frame.description>Пуста низька шафа.</VFEPD_SilverShortCupboard_Frame.description>
+
+  <VFEPD_WoodenShortCupboard.label>деревʼяна низька шафа</VFEPD_WoodenShortCupboard.label>
+  <VFEPD_WoodenShortCupboard.description>Пуста низька шафа.</VFEPD_WoodenShortCupboard.description>
+  <VFEPD_WoodenShortCupboard_Blueprint.label>деревʼяна низька шафа (креслення)</VFEPD_WoodenShortCupboard_Blueprint.label>
+  <VFEPD_WoodenShortCupboard_Frame.label>деревʼяна низька шафа (будується)</VFEPD_WoodenShortCupboard_Frame.label>
+  <VFEPD_WoodenShortCupboard_Frame.description>Пуста низька шафа.</VFEPD_WoodenShortCupboard_Frame.description>
+
+  <VFEPD_SteelShortCupboardPlates.label>сталевий короткий сервант</VFEPD_SteelShortCupboardPlates.label>
+  <VFEPD_SteelShortCupboardPlates.description>Короткий сервант.</VFEPD_SteelShortCupboardPlates.description>
+  <VFEPD_SteelShortCupboardPlates_Blueprint.label>сталевий короткий сервант (креслення)</VFEPD_SteelShortCupboardPlates_Blueprint.label>
+  <VFEPD_SteelShortCupboardPlates_Frame.label>сталевий короткий сервант (будується)</VFEPD_SteelShortCupboardPlates_Frame.label>
+  <VFEPD_SteelShortCupboardPlates_Frame.description>Короткий сервант.</VFEPD_SteelShortCupboardPlates_Frame.description>
+
+  <VFEPD_PlasteelShortCupboardPlates.label>короткий сервант із пласталі</VFEPD_PlasteelShortCupboardPlates.label>
+  <VFEPD_PlasteelShortCupboardPlates.description>Короткий сервант.</VFEPD_PlasteelShortCupboardPlates.description>
+  <VFEPD_PlasteelShortCupboardPlates_Blueprint.label>короткий сервант із пласталі (креслення)</VFEPD_PlasteelShortCupboardPlates_Blueprint.label>
+  <VFEPD_PlasteelShortCupboardPlates_Frame.label>короткий сервант із пласталі (будується)</VFEPD_PlasteelShortCupboardPlates_Frame.label>
+  <VFEPD_PlasteelShortCupboardPlates_Frame.description>Короткий сервант.</VFEPD_PlasteelShortCupboardPlates_Frame.description>
+
+  <VFEPD_SilverShortCupboardPlates.label>срібний короткий сервант</VFEPD_SilverShortCupboardPlates.label>
+  <VFEPD_SilverShortCupboardPlates.description>Короткий сервант.</VFEPD_SilverShortCupboardPlates.description>
+  <VFEPD_SilverShortCupboardPlates_Blueprint.label>срібний короткий сервант (креслення)</VFEPD_SilverShortCupboardPlates_Blueprint.label>
+  <VFEPD_SilverShortCupboardPlates_Frame.label>срібний короткий сервант (будується)</VFEPD_SilverShortCupboardPlates_Frame.label>
+  <VFEPD_SilverShortCupboardPlates_Frame.description>Короткий сервант.</VFEPD_SilverShortCupboardPlates_Frame.description>
+
+  <VFEPD_WoodenShortCupboardPlates.label>деревʼяний короткий сервант</VFEPD_WoodenShortCupboardPlates.label>
+  <VFEPD_WoodenShortCupboardPlates.description>Короткий сервант.</VFEPD_WoodenShortCupboardPlates.description>
+  <VFEPD_WoodenShortCupboardPlates_Blueprint.label>деревʼяний короткий сервант (креслення)</VFEPD_WoodenShortCupboardPlates_Blueprint.label>
+  <VFEPD_WoodenShortCupboardPlates_Frame.label>деревʼяний короткий сервант (будується)</VFEPD_WoodenShortCupboardPlates_Frame.label>
+  <VFEPD_WoodenShortCupboardPlates_Frame.description>Короткий сервант.</VFEPD_WoodenShortCupboardPlates_Frame.description>
+
+  <VFEPD_Desk.label>робочий стіл</VFEPD_Desk.label>
+  <VFEPD_Desk.description>Великий робочий стіл.</VFEPD_Desk.description>
+  <VFEPD_Desk_Blueprint.label>робочий стіл (креслення)</VFEPD_Desk_Blueprint.label>
+  <VFEPD_Desk_Blueprint_Install.label>робочий стіл (креслення)</VFEPD_Desk_Blueprint_Install.label>
+  <VFEPD_Desk_Frame.label>робочий стіл (будується)</VFEPD_Desk_Frame.label>
+  <VFEPD_Desk_Frame.description>Великий робочий стіл.</VFEPD_Desk_Frame.description>
+
+  <VFEPD_CoffeeTable.label>журнальний столик (2x1)</VFEPD_CoffeeTable.label>
+  <VFEPD_CoffeeTable.description>Журнальний столик.</VFEPD_CoffeeTable.description>
+  <VFEPD_CoffeeTable_Blueprint.label>журнальний столик (2x1) (креслення)</VFEPD_CoffeeTable_Blueprint.label>
+  <VFEPD_CoffeeTable_Blueprint_Install.label>журнальний столик (2x1) (креслення)</VFEPD_CoffeeTable_Blueprint_Install.label>
+  <VFEPD_CoffeeTable_Frame.label>журнальний столик (2x1) (будується)</VFEPD_CoffeeTable_Frame.label>
+  <VFEPD_CoffeeTable_Frame.description>журнальний столик.</VFEPD_CoffeeTable_Frame.description>
+
+  <VFEPD_CoffeeTableSmall.label>журнальний столик (1x1)</VFEPD_CoffeeTableSmall.label>
+  <VFEPD_CoffeeTableSmall.description>Малий журнальний столик.</VFEPD_CoffeeTableSmall.description>
+  <VFEPD_CoffeeTableSmall_Blueprint.label>журнальний столик (1x1) (креслення)</VFEPD_CoffeeTableSmall_Blueprint.label>
+  <VFEPD_CoffeeTableSmall_Blueprint_Install.label>журнальний столик (1x1) (креслення)</VFEPD_CoffeeTableSmall_Blueprint_Install.label>
+  <VFEPD_CoffeeTableSmall_Frame.label>журнальний столик (1x1) (будується)</VFEPD_CoffeeTableSmall_Frame.label>
+  <VFEPD_CoffeeTableSmall_Frame.description>Малий журнальний столик.</VFEPD_CoffeeTableSmall_Frame.description>
+
+  <VFEPD_SteelDivider.label>сталева перегородка</VFEPD_SteelDivider.label>
+  <VFEPD_SteelDivider.description>Велика непрохідна перегородка для кімнати.</VFEPD_SteelDivider.description>
+  <VFEPD_SteelDivider_Blueprint.label>сталева перегородка (креслення)</VFEPD_SteelDivider_Blueprint.label>
+  <VFEPD_SteelDivider_Frame.label>сталева перегородка (будується)</VFEPD_SteelDivider_Frame.label>
+  <VFEPD_SteelDivider_Frame.description>Велика непрохідна перегородка для кімнати.</VFEPD_SteelDivider_Frame.description>
+
+  <VFEPD_PlasteelDivider.label>перегородка з пласталі</VFEPD_PlasteelDivider.label>
+  <VFEPD_PlasteelDivider.description>Велика непрохідна перегородка для кімнати.</VFEPD_PlasteelDivider.description>
+  <VFEPD_PlasteelDivider_Blueprint.label>перегородка з пласталі (креслення)</VFEPD_PlasteelDivider_Blueprint.label>
+  <VFEPD_PlasteelDivider_Frame.label>перегородка з пласталі (будується)</VFEPD_PlasteelDivider_Frame.label>
+  <VFEPD_PlasteelDivider_Frame.description>Велика непрохідна перегородка для кімнати.</VFEPD_PlasteelDivider_Frame.description>
+
+  <VFEPD_SilverDivider.label>срібна перегородка</VFEPD_SilverDivider.label>
+  <VFEPD_SilverDivider.description>Велика непрохідна перегородка для кімнати.</VFEPD_SilverDivider.description>
+  <VFEPD_SilverDivider_Blueprint.label>срібна перегородка (креслення)</VFEPD_SilverDivider_Blueprint.label>
+  <VFEPD_SilverDivider_Frame.label>срібна перегородка (будується)</VFEPD_SilverDivider_Frame.label>
+  <VFEPD_SilverDivider_Frame.description>Велика непрохідна перегородка для кімнати.</VFEPD_SilverDivider_Frame.description>
+
+  <VFEPD_WoodenDivider.label>деревʼяна перегородка</VFEPD_WoodenDivider.label>
+  <VFEPD_WoodenDivider.description>Велика непрохідна перегородка для кімнати.</VFEPD_WoodenDivider.description>
+  <VFEPD_WoodenDivider_Blueprint.label>деревʼяна перегородка (креслення)</VFEPD_WoodenDivider_Blueprint.label>
+  <VFEPD_WoodenDivider_Frame.label>деревʼяна перегородка (будується)</VFEPD_WoodenDivider_Frame.label>
+  <VFEPD_WoodenDivider_Frame.description>Велика непрохідна перегородка для кімнати.</VFEPD_WoodenDivider_Frame.description>
+
+  <VFEPD_SteelPlankDivider.label>сталева дощата перегородка</VFEPD_SteelPlankDivider.label>
+  <VFEPD_SteelPlankDivider.description>Велика непрохідна перегородка для кімнати.</VFEPD_SteelPlankDivider.description>
+  <VFEPD_SteelPlankDivider_Blueprint.label>сталева дощата перегородка (креслення)</VFEPD_SteelPlankDivider_Blueprint.label>
+  <VFEPD_SteelPlankDivider_Frame.label>сталева дощата перегородка (будується)</VFEPD_SteelPlankDivider_Frame.label>
+  <VFEPD_SteelPlankDivider_Frame.description>Велика непрохідна перегородка для кімнати.</VFEPD_SteelPlankDivider_Frame.description>
+
+  <VFEPD_PlasteelPlankDivider.label>дощата перегородка з пласталі</VFEPD_PlasteelPlankDivider.label>
+  <VFEPD_PlasteelPlankDivider.description>Велика непрохідна перегородка для кімнати.</VFEPD_PlasteelPlankDivider.description>
+  <VFEPD_PlasteelPlankDivider_Blueprint.label>дощата перегородка з пласталі (креслення)</VFEPD_PlasteelPlankDivider_Blueprint.label>
+  <VFEPD_PlasteelPlankDivider_Frame.label>дощата перегородка з пласталі (будується)</VFEPD_PlasteelPlankDivider_Frame.label>
+  <VFEPD_PlasteelPlankDivider_Frame.description>Велика непрохідна перегородка для кімнати.</VFEPD_PlasteelPlankDivider_Frame.description>
+
+  <VFEPD_SilverPlankDivider.label>срібна дощата перегородка</VFEPD_SilverPlankDivider.label>
+  <VFEPD_SilverPlankDivider.description>Велика непрохідна перегородка для кімнати.</VFEPD_SilverPlankDivider.description>
+  <VFEPD_SilverPlankDivider_Blueprint.label>срібна дощата перегородка (креслення)</VFEPD_SilverPlankDivider_Blueprint.label>
+  <VFEPD_SilverPlankDivider_Frame.label>срібна дощата перегородка (будується)</VFEPD_SilverPlankDivider_Frame.label>
+  <VFEPD_SilverPlankDivider_Frame.description>Велика непрохідна перегородка для кімнати.</VFEPD_SilverPlankDivider_Frame.description>
+
+  <VFEPD_WoodenPlankDivider.label>деревʼяна дощата перегородка</VFEPD_WoodenPlankDivider.label>
+  <VFEPD_WoodenPlankDivider.description>Велика непрохідна перегородка для кімнати.</VFEPD_WoodenPlankDivider.description>
+  <VFEPD_WoodenPlankDivider_Blueprint.label>деревʼяна дощата перегородка (креслення)</VFEPD_WoodenPlankDivider_Blueprint.label>
+  <VFEPD_WoodenPlankDivider_Frame.label>деревʼяна дощата перегородка (будується)</VFEPD_WoodenPlankDivider_Frame.label>
+  <VFEPD_WoodenPlankDivider_Frame.description>Велика непрохідна перегородка для кімнати.</VFEPD_WoodenPlankDivider_Frame.description>
+
+  <VFEPD_SteelMirror.label>сталеве дзеркало</VFEPD_SteelMirror.label>
+  <VFEPD_SteelMirror.description>Стояче дзеркало.</VFEPD_SteelMirror.description>
+  <VFEPD_SteelMirror_Blueprint.label>сталеве дзеркало (креслення)</VFEPD_SteelMirror_Blueprint.label>
+  <VFEPD_SteelMirror_Frame.label>сталеве дзеркало (будується)</VFEPD_SteelMirror_Frame.label>
+  <VFEPD_SteelMirror_Frame.description>Стояче дзеркало.</VFEPD_SteelMirror_Frame.description>
+
+  <VFEPD_PlasteelMirror.label>дзеркало з пласталі</VFEPD_PlasteelMirror.label>
+  <VFEPD_PlasteelMirror.description>Стояче дзеркало.</VFEPD_PlasteelMirror.description>
+  <VFEPD_PlasteelMirror_Blueprint.label>дзеркало з пласталі (креслення)</VFEPD_PlasteelMirror_Blueprint.label>
+  <VFEPD_PlasteelMirror_Frame.label>дзеркало з пласталі (будується)</VFEPD_PlasteelMirror_Frame.label>
+  <VFEPD_PlasteelMirror_Frame.description>Стояче дзеркало.</VFEPD_PlasteelMirror_Frame.description>
+
+  <VFEPD_SilverMirror.label>срібне дзеркало</VFEPD_SilverMirror.label>
+  <VFEPD_SilverMirror.description>Стояче дзеркало.</VFEPD_SilverMirror.description>
+  <VFEPD_SilverMirror_Blueprint.label>срібне дзеркало (креслення)</VFEPD_SilverMirror_Blueprint.label>
+  <VFEPD_SilverMirror_Frame.label>срібне дзеркало (будується)</VFEPD_SilverMirror_Frame.label>
+  <VFEPD_SilverMirror_Frame.description>Стояче дзеркало.</VFEPD_SilverMirror_Frame.description>
+
+  <VFEPD_WoodenMirror.label>деревʼяне дзеркало</VFEPD_WoodenMirror.label>
+  <VFEPD_WoodenMirror.description>Стояче дзеркало.</VFEPD_WoodenMirror.description>
+  <VFEPD_WoodenMirror_Blueprint.label>деревʼяне дзеркало (креслення)</VFEPD_WoodenMirror_Blueprint.label>
+  <VFEPD_WoodenMirror_Frame.label>деревʼяне дзеркало (будується)</VFEPD_WoodenMirror_Frame.label>
+  <VFEPD_WoodenMirror_Frame.description>Стояче дзеркало.</VFEPD_WoodenMirror_Frame.description>
+
+  <VFEPD_SteelVendingMachine.label>сталевий торговельний автомат</VFEPD_SteelVendingMachine.label>
+  <VFEPD_SteelVendingMachine.description>Неробочий торговельний автомат.</VFEPD_SteelVendingMachine.description>
+  <VFEPD_SteelVendingMachine_Blueprint.label>сталевий торговельний автомат (креслення)</VFEPD_SteelVendingMachine_Blueprint.label>
+  <VFEPD_SteelVendingMachine_Frame.label>сталевий торговельний автомат (будується)</VFEPD_SteelVendingMachine_Frame.label>
+  <VFEPD_SteelVendingMachine_Frame.description>Неробочий торговельний автомат.</VFEPD_SteelVendingMachine_Frame.description>
+
+  <VFEPD_PlasteelVendingMachine.label>торговельний автомат із пласталі</VFEPD_PlasteelVendingMachine.label>
+  <VFEPD_PlasteelVendingMachine.description>Неробочий торговельний автомат.</VFEPD_PlasteelVendingMachine.description>
+  <VFEPD_PlasteelVendingMachine_Blueprint.label>торговельний автомат із пласталі (креслення)</VFEPD_PlasteelVendingMachine_Blueprint.label>
+  <VFEPD_PlasteelVendingMachine_Frame.label>торговельний автомат із пласталі (будується)</VFEPD_PlasteelVendingMachine_Frame.label>
+  <VFEPD_PlasteelVendingMachine_Frame.description>Неробочий торговельний автомат.</VFEPD_PlasteelVendingMachine_Frame.description>
+
+  <VFEPD_SilverVendingMachine.label>срібний торговельний автомат</VFEPD_SilverVendingMachine.label>
+  <VFEPD_SilverVendingMachine.description>Неробочий торговельний автомат.</VFEPD_SilverVendingMachine.description>
+  <VFEPD_SilverVendingMachine_Blueprint.label>срібний торговельний автомат (креслення)</VFEPD_SilverVendingMachine_Blueprint.label>
+  <VFEPD_SilverVendingMachine_Frame.label>срібний торговельний автомат (будується)</VFEPD_SilverVendingMachine_Frame.label>
+  <VFEPD_SilverVendingMachine_Frame.description>Неробочий торговельний автомат.</VFEPD_SilverVendingMachine_Frame.description>
+
+  <VFEPD_WoodenVendingMachine.label>деревʼяний торговельний автомат</VFEPD_WoodenVendingMachine.label>
+  <VFEPD_WoodenVendingMachine.description>Неробочий торговельний автомат.</VFEPD_WoodenVendingMachine.description>
+  <VFEPD_WoodenVendingMachine_Blueprint.label>деревʼяний торговельний автомат (креслення)</VFEPD_WoodenVendingMachine_Blueprint.label>
+  <VFEPD_WoodenVendingMachine_Frame.label>деревʼяний торговельний автомат (будується)</VFEPD_WoodenVendingMachine_Frame.label>
+  <VFEPD_WoodenVendingMachine_Frame.description>Неробочий торговельний автомат.</VFEPD_WoodenVendingMachine_Frame.description>
+
+  <VFEPD_WashingMachine.label>пральна машинка</VFEPD_WashingMachine.label>
+  <VFEPD_WashingMachine.description>пральна машинка.</VFEPD_WashingMachine.description>
+  <VFEPD_WashingMachine_Blueprint.label>пральна машинка (креслення)</VFEPD_WashingMachine_Blueprint.label>
+  <VFEPD_WashingMachine_Frame.label>пральна машинка (будується)</VFEPD_WashingMachine_Frame.label>
+  <VFEPD_WashingMachine_Frame.description>пральна машинка.</VFEPD_WashingMachine_Frame.description>
+
+  <VFEPD_WarehouseShelfEmpty.label>складська полиця</VFEPD_WarehouseShelfEmpty.label>
+  <VFEPD_WarehouseShelfEmpty.description>Пуста непрохідна складська полиця.</VFEPD_WarehouseShelfEmpty.description>
+  <VFEPD_WarehouseShelfEmpty_Blueprint.label>складська полиця (креслення)</VFEPD_WarehouseShelfEmpty_Blueprint.label>
+  <VFEPD_WarehouseShelfEmpty_Frame.label>складська полиця (будується)</VFEPD_WarehouseShelfEmpty_Frame.label>
+  <VFEPD_WarehouseShelfEmpty_Frame.description>Пуста непрохідна складська полиця.</VFEPD_WarehouseShelfEmpty_Frame.description>
+
+  <VFEPD_WarehouseShelfBoxes.label>складська полиця з коробками</VFEPD_WarehouseShelfBoxes.label>
+  <VFEPD_WarehouseShelfBoxes.description>Непрохідна складська полиця з коробками.</VFEPD_WarehouseShelfBoxes.description>
+  <VFEPD_WarehouseShelfBoxes_Blueprint.label>складська полиця з коробками (креслення)</VFEPD_WarehouseShelfBoxes_Blueprint.label>
+  <VFEPD_WarehouseShelfBoxes_Frame.label>складська полиця з коробками (будується)</VFEPD_WarehouseShelfBoxes_Frame.label>
+  <VFEPD_WarehouseShelfBoxes_Frame.description>Непрохідна складська полиця з коробками.</VFEPD_WarehouseShelfBoxes_Frame.description>
+
+
+</LanguageData>

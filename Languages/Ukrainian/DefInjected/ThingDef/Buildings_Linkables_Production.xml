@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Drug Cabinet -->
+
+  <VFE_DrugCabinet.label>допоміжний стіл нарколаболаторії</VFE_DrugCabinet.label>
+  <VFE_DrugCabinet.description>Increases work speed when placed near a drug lab. One workbench links up to two drug cabinets.</VFE_DrugCabinet.description>
+  <VFE_DrugCabinet_Blueprint.label>drug cabinet (blueprint)</VFE_DrugCabinet_Blueprint.label>
+  <VFE_DrugCabinet_Blueprint_Install.label>drug cabinet (blueprint)</VFE_DrugCabinet_Blueprint_Install.label>
+  <VFE_DrugCabinet_Frame.label>drug cabinet (building)</VFE_DrugCabinet_Frame.label>
+  <VFE_DrugCabinet_Frame.description>Increases work speed when placed near a drug lab. One workbench links up to two drug cabinets.</VFE_DrugCabinet_Frame.description>
+
+
+  <!-- Machining Cabinet -->
+
+  <VFE_MachiningCabinet.label>допоміжний стіл ремісника</VFE_MachiningCabinet.label>
+  <VFE_MachiningCabinet.description>Increases work speed when placed near a machining table. One workbench links up to two machining cabinets.</VFE_MachiningCabinet.description>
+  <VFE_MachiningCabinet_Blueprint.label>machining cabinet (blueprint)</VFE_MachiningCabinet_Blueprint.label>
+  <VFE_MachiningCabinet_Blueprint_Install.label>machining cabinet (blueprint)</VFE_MachiningCabinet_Blueprint_Install.label>
+  <VFE_MachiningCabinet_Frame.label>machining cabinet (building)</VFE_MachiningCabinet_Frame.label>
+  <VFE_MachiningCabinet_Frame.description>Increases work speed when placed near a machining table. One workbench links up to two machining cabinets.</VFE_MachiningCabinet_Frame.description>
+
+
+  <!-- Smithy Cabinet -->
+
+  <VFE_SmithyCabinet.label>допоміжний стіл металурга</VFE_SmithyCabinet.label>
+  <VFE_SmithyCabinet.description>Increases work speed when placed near a smithy. One workbench links up to two smithy cabinets.</VFE_SmithyCabinet.description>
+  <VFE_SmithyCabinet_Blueprint.label>smithing cabinet (blueprint)</VFE_SmithyCabinet_Blueprint.label>
+  <VFE_SmithyCabinet_Blueprint_Install.label>smithing cabinet (blueprint)</VFE_SmithyCabinet_Blueprint_Install.label>
+  <VFE_SmithyCabinet_Frame.label>smithing cabinet (building)</VFE_SmithyCabinet_Frame.label>
+  <VFE_SmithyCabinet_Frame.description>Increases work speed when placed near a smithy. One workbench links up to two smithy cabinets.</VFE_SmithyCabinet_Frame.description>
+
+
+  <!-- Kitchen Sink Cabinet -->
+
+  <VFE_KitchenSinkCabinet.label>раковина кухаря</VFE_KitchenSinkCabinet.label>
+  <VFE_KitchenSinkCabinet.description>Increases work speed when placed nearby a cooking stove.</VFE_KitchenSinkCabinet.description>
+  <VFE_KitchenSinkCabinet_Blueprint.label>kitchen sink cabinet (blueprint)</VFE_KitchenSinkCabinet_Blueprint.label>
+  <VFE_KitchenSinkCabinet_Blueprint_Install.label>kitchen sink cabinet (blueprint)</VFE_KitchenSinkCabinet_Blueprint_Install.label>
+  <VFE_KitchenSinkCabinet_Frame.label>kitchen sink cabinet (building)</VFE_KitchenSinkCabinet_Frame.label>
+  <VFE_KitchenSinkCabinet_Frame.description>Increases work speed when placed nearby a cooking stove.</VFE_KitchenSinkCabinet_Frame.description>
+
+
+  <!-- Tailor Cabinet -->
+
+  <VFE_TailorCabinet.label>допоміжний стіл кравця</VFE_TailorCabinet.label>
+  <VFE_TailorCabinet.description>Increases work speed when placed near a tailoring table. One workbench links up to two tailor cabinets.</VFE_TailorCabinet.description>
+  <VFE_TailorCabinet_Blueprint.label>tailor cabinet (blueprint)</VFE_TailorCabinet_Blueprint.label>
+  <VFE_TailorCabinet_Blueprint_Install.label>tailor cabinet (blueprint)</VFE_TailorCabinet_Blueprint_Install.label>
+  <VFE_TailorCabinet_Frame.label>tailor cabinet (building)</VFE_TailorCabinet_Frame.label>
+  <VFE_TailorCabinet_Frame.description>Increases work speed when placed near a tailoring table. One workbench links up to two tailor cabinets.</VFE_TailorCabinet_Frame.description>
+
+
+  <!-- Fabrication Cabinet -->
+
+  <VFE_FabricationCabinet.label>промисловий комп'ютер</VFE_FabricationCabinet.label>
+  <VFE_FabricationCabinet.description>Підвищує швидкість роботи, якщо розміщений поруч із верстатом для виробництва. Один верстат може пришвидшувати до двох верстатів.</VFE_FabricationCabinet.description>
+  <VFE_FabricationCabinet_Blueprint.label>fabrication cabinet (blueprint)</VFE_FabricationCabinet_Blueprint.label>
+  <VFE_FabricationCabinet_Blueprint_Install.label>fabrication cabinet (blueprint)</VFE_FabricationCabinet_Blueprint_Install.label>
+  <VFE_FabricationCabinet_Frame.label>fabrication cabinet (building)</VFE_FabricationCabinet_Frame.label>
+  <VFE_FabricationCabinet_Frame.description>Increases work speed when placed near a fabrication bench. One workbench can link up to two fabrication cabinets.</VFE_FabricationCabinet_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_ConstructRearmTrap.label>перезарядати капкан</VFES_ConstructRearmTrap.label>
+  <VFES_ConstructRearmTrap.verb>перезарядати капкан</VFES_ConstructRearmTrap.verb>
+  <VFES_ConstructRearmTrap.gerund>перезаряджає капкан</VFES_ConstructRearmTrap.gerund>
+
+  <VFES_RearmTrap.label>перезарядати капкан</VFES_RearmTrap.label>
+  <VFES_RearmTrap.verb>перезарядати капкан</VFES_RearmTrap.verb>
+  <VFES_RearmTrap.gerund>перезаряджає капкан</VFES_RearmTrap.gerund>
+
+
+</LanguageData>

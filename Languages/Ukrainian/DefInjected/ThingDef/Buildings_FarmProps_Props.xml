@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_FoodBox.label>порожні коробки з-під їжі</VFEPD_FoodBox.label>
+  <VFEPD_FoodBox.description>Стос порожніх коробок з-під їжі.</VFEPD_FoodBox.description>
+  <VFEPD_FoodBox_Blueprint.label>порожні коробки з-під їжі (креслення)</VFEPD_FoodBox_Blueprint.label>
+  <VFEPD_FoodBox_Frame.label>порожні коробки з-під їжі (будуються)</VFEPD_FoodBox_Frame.label>
+  <VFEPD_FoodBox_Frame.description>Стос порожніх коробок з-під їжі.</VFEPD_FoodBox_Frame.description>
+
+  <VFEPD_HayBaleLarge.label>великий тюк сіна</VFEPD_HayBaleLarge.label>
+  <VFEPD_HayBaleLarge.description>великий тюк сіна.</VFEPD_HayBaleLarge.description>
+  <VFEPD_HayBaleLarge_Blueprint.label>великий тюк сіна (креслення)</VFEPD_HayBaleLarge_Blueprint.label>
+  <VFEPD_HayBaleLarge_Frame.label>великий тюк сіна (будується)</VFEPD_HayBaleLarge_Frame.label>
+  <VFEPD_HayBaleLarge_Frame.description>великий тюк сіна.</VFEPD_HayBaleLarge_Frame.description>
+
+  <VFEPD_HayBaleMedium.label>середній тюк сіна</VFEPD_HayBaleMedium.label>
+  <VFEPD_HayBaleMedium.description>середній тюк сіна.</VFEPD_HayBaleMedium.description>
+  <VFEPD_HayBaleMedium_Blueprint.label>середній тюк сіна (креслення)</VFEPD_HayBaleMedium_Blueprint.label>
+  <VFEPD_HayBaleMedium_Frame.label>середній тюк сіна (будується)</VFEPD_HayBaleMedium_Frame.label>
+  <VFEPD_HayBaleMedium_Frame.description>середній тюк сіна.</VFEPD_HayBaleMedium_Frame.description>
+
+  <VFEPD_HayBaleSmall.label>малий тюк сіна</VFEPD_HayBaleSmall.label>
+  <VFEPD_HayBaleSmall.description>малий тюк сіна.</VFEPD_HayBaleSmall.description>
+  <VFEPD_HayBaleSmall_Blueprint.label>малий тюк сіна (креслення)</VFEPD_HayBaleSmall_Blueprint.label>
+  <VFEPD_HayBaleSmall_Frame.label>малий тюк сіна (будується)</VFEPD_HayBaleSmall_Frame.label>
+  <VFEPD_HayBaleSmall_Frame.description>малий тюк сіна.</VFEPD_HayBaleSmall_Frame.description>
+
+  <VFEPD_Hedge.label>живопліт</VFEPD_Hedge.label>
+  <VFEPD_Hedge.description>Ряд густо посаджених кущів, що утворюють огорожу.</VFEPD_Hedge.description>
+  <VFEPD_Hedge_Blueprint.label>живопліт (креслення)</VFEPD_Hedge_Blueprint.label>
+  <VFEPD_Hedge_Frame.label>живопліт (будується)</VFEPD_Hedge_Frame.label>
+  <VFEPD_Hedge_Frame.description>Ряд густо посаджених кущів, що утворюють огорожу.</VFEPD_Hedge_Frame.description>
+
+  <VFEPD_WoodenLogs.label>Дрова</VFEPD_WoodenLogs.label>
+  <VFEPD_WoodenLogs.description>Малий прохідний стос дрів.</VFEPD_WoodenLogs.description>
+  <VFEPD_WoodenLogs_Blueprint.label>Дрова (креслення)</VFEPD_WoodenLogs_Blueprint.label>
+  <VFEPD_WoodenLogs_Frame.label>Дрова (будуються)</VFEPD_WoodenLogs_Frame.label>
+  <VFEPD_WoodenLogs_Frame.description>Малий прохідний стос дрів.</VFEPD_WoodenLogs_Frame.description>
+
+  <VFEPD_WoodenLogsLarge.label>Великий стос дрів</VFEPD_WoodenLogsLarge.label>
+  <VFEPD_WoodenLogsLarge.description>Великий непрохідний стос дрів.</VFEPD_WoodenLogsLarge.description>
+  <VFEPD_WoodenLogsLarge_Blueprint.label>Великий стос дрів (креслення)</VFEPD_WoodenLogsLarge_Blueprint.label>
+  <VFEPD_WoodenLogsLarge_Frame.label>Великий стос дрів (будується)</VFEPD_WoodenLogsLarge_Frame.label>
+  <VFEPD_WoodenLogsLarge_Frame.description>Великий непрохідний стос дрів.</VFEPD_WoodenLogsLarge_Frame.description>
+
+  <VFEPD_WoodenWagon.label>деревʼяний віз</VFEPD_WoodenWagon.label>
+  <VFEPD_WoodenWagon.description>Великий деревʼяний віз для товарів.</VFEPD_WoodenWagon.description>
+  <VFEPD_WoodenWagon_Blueprint.label>деревʼяний віз (креслення)</VFEPD_WoodenWagon_Blueprint.label>
+  <VFEPD_WoodenWagon_Frame.label>деревʼяний віз (будується)</VFEPD_WoodenWagon_Frame.label>
+  <VFEPD_WoodenWagon_Frame.description>Великий деревʼяний віз для товарів.</VFEPD_WoodenWagon_Frame.description>
+
+
+</LanguageData>

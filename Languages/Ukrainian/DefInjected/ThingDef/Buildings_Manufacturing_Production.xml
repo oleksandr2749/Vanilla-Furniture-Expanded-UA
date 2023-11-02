@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Large Machining Table -->
+
+  <VFE_TableMachiningLarge.label>великий верстат</VFE_TableMachiningLarge.label>
+  <VFE_TableMachiningLarge.description>A workbench equipped with advanced tools and enough space to produce technological marvels from simpler materials in shorter amounts of time. Consumes power.</VFE_TableMachiningLarge.description>
+  <VFE_TableMachiningLarge_Blueprint.label>large machining table (blueprint)</VFE_TableMachiningLarge_Blueprint.label>
+  <VFE_TableMachiningLarge_Frame.label>large machining table (building)</VFE_TableMachiningLarge_Frame.label>
+  <VFE_TableMachiningLarge_Frame.description>A workbench equipped with advanced tools and enough space to produce technological marvels from simpler materials in shorter amounts of time. Consumes power.</VFE_TableMachiningLarge_Frame.description>
+
+
+  <!-- Large Electric Smithy -->
+
+  <VFE_TableSmithyLarge.label>велика електрична куззня</VFE_TableSmithyLarge.label>
+  <VFE_TableSmithyLarge.description>An electric-powered work center for smithing non-mechanical weapons and tools. Consumes a lot of power.</VFE_TableSmithyLarge.description>
+  <VFE_TableSmithyLarge_Blueprint.label>large electric smithy (blueprint)</VFE_TableSmithyLarge_Blueprint.label>
+  <VFE_TableSmithyLarge_Frame.label>large electric smithy (building)</VFE_TableSmithyLarge_Frame.label>
+  <VFE_TableSmithyLarge_Frame.description>An electric-powered work center for smithing non-mechanical weapons and tools. Consumes a lot of power.</VFE_TableSmithyLarge_Frame.description>
+
+
+  <!-- Large Stove Table -->
+
+  <VFE_TableStoveLarge.label>велика електрична плита</VFE_TableStoveLarge.label>
+  <VFE_TableStoveLarge.description>A large size manufacturing stove as well as multiple ovens to prepare meals and cook significantly faster.</VFE_TableStoveLarge.description>
+  <VFE_TableStoveLarge_Blueprint.label>large stove (blueprint)</VFE_TableStoveLarge_Blueprint.label>
+  <VFE_TableStoveLarge_Frame.label>large stove (building)</VFE_TableStoveLarge_Frame.label>
+  <VFE_TableStoveLarge_Frame.description>A large size manufacturing stove as well as multiple ovens to prepare meals and cook significantly faster.</VFE_TableStoveLarge_Frame.description>
+
+
+  <!-- Large Tailoring Table -->
+
+  <VFE_TableTailorLarge.label>великий електричний стіл кравця</VFE_TableTailorLarge.label>
+  <VFE_TableTailorLarge.description>A large size manufacturing workbench with several tools for designers and a sewing machine for rapid tailoring of clothes. Can work without electricity at 33% of normal speed.</VFE_TableTailorLarge.description>
+  <VFE_TableTailorLarge_Blueprint.label>large tailoring table (blueprint)</VFE_TableTailorLarge_Blueprint.label>
+  <VFE_TableTailorLarge_Frame.label>large tailoring table (building)</VFE_TableTailorLarge_Frame.label>
+  <VFE_TableTailorLarge_Frame.description>A large size manufacturing workbench with several tools for designers and a sewing machine for rapid tailoring of clothes. Can work without electricity at 33% of normal speed.</VFE_TableTailorLarge_Frame.description>
+
+
+</LanguageData>

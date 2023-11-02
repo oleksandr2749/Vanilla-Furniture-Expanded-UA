@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_FilthDirt.label>земля</VFEPD_FilthDirt.label>
+  <VFEPD_FilthDirt.description>Невелика кількість гразюки.</VFEPD_FilthDirt.description>
+  <VFEPD_FilthDirt_Blueprint.label>земля (креслення)</VFEPD_FilthDirt_Blueprint.label>
+  <VFEPD_FilthDirt_Frame.label>земля (будується)</VFEPD_FilthDirt_Frame.label>
+  <VFEPD_FilthDirt_Frame.description>Невелика кількість гразюки.</VFEPD_FilthDirt_Frame.description>
+
+  <VFEPD_FilthAnimalFilth.label>тваринний бруд</VFEPD_FilthAnimalFilth.label>
+  <VFEPD_FilthAnimalFilth.description>Невелика кількість тваринного бруду.</VFEPD_FilthAnimalFilth.description>
+  <VFEPD_FilthAnimalFilth_Blueprint.label>тваринний бруд (креслення)</VFEPD_FilthAnimalFilth_Blueprint.label>
+  <VFEPD_FilthAnimalFilth_Frame.label>тваринний бруд (будується)</VFEPD_FilthAnimalFilth_Frame.label>
+  <VFEPD_FilthAnimalFilth_Frame.description>Невелика кількість тваринного бруду.</VFEPD_FilthAnimalFilth_Frame.description>
+
+  <VFEPD_FilthSand.label>пісок</VFEPD_FilthSand.label>
+  <VFEPD_FilthSand.description>Невелика кількість піску.</VFEPD_FilthSand.description>
+  <VFEPD_FilthSand_Blueprint.label>пісок (креслення)</VFEPD_FilthSand_Blueprint.label>
+  <VFEPD_FilthSand_Frame.label>пісок (будується)</VFEPD_FilthSand_Frame.label>
+  <VFEPD_FilthSand_Frame.description>Невелика кількість піску.</VFEPD_FilthSand_Frame.description>
+
+  <VFEPD_FilthTrпопіл.label>сміття</VFEPD_FilthTrпопіл.label>
+  <VFEPD_FilthTrпопіл.description>Невелика кількість сміття.</VFEPD_FilthTrпопіл.description>
+  <VFEPD_FilthTrпопіл_Blueprint.label>сміття (креслення)</VFEPD_FilthTrпопіл_Blueprint.label>
+  <VFEPD_FilthTrпопіл_Frame.label>сміття (будується)</VFEPD_FilthTrпопіл_Frame.label>
+  <VFEPD_FilthTrпопіл_Frame.description>Невелика кількість сміття.</VFEPD_FilthTrпопіл_Frame.description>
+
+  <VFEPD_FilthRubbleRock.label>щебінь</VFEPD_FilthRubbleRock.label>
+  <VFEPD_FilthRubbleRock.description>Невелика кількість щебеню.</VFEPD_FilthRubbleRock.description>
+  <VFEPD_FilthRubbleRock_Blueprint.label>щебінь (креслення)</VFEPD_FilthRubbleRock_Blueprint.label>
+  <VFEPD_FilthRubbleRock_Frame.label>щебінь (будується)</VFEPD_FilthRubbleRock_Frame.label>
+  <VFEPD_FilthRubbleRock_Frame.description>Невелика кількість щебеню.</VFEPD_FilthRubbleRock_Frame.description>
+
+  <VFEPD_FilthRubbleSlag.label>розкиданний шлак</VFEPD_FilthRubbleSlag.label>
+  <VFEPD_FilthRubbleSlag.description>Невелика кількість розкиданного шлаку.</VFEPD_FilthRubbleSlag.description>
+  <VFEPD_FilthRubbleSlag_Blueprint.label>розкиданний шлак (креслення)</VFEPD_FilthRubbleSlag_Blueprint.label>
+  <VFEPD_FilthRubbleSlag_Frame.label>розкиданний шлак (будується)</VFEPD_FilthRubbleSlag_Frame.label>
+  <VFEPD_FilthRubbleSlag_Frame.description>Невелика кількість розкиданного шлаку.</VFEPD_FilthRubbleSlag_Frame.description>
+
+  <VFEPD_FilthRubbleSandbags.label>розкиданні мішки з піском</VFEPD_FilthRubbleSandbags.label>
+  <VFEPD_FilthRubbleSandbags.description>Невелика кількість розкиданних мішків з піском.</VFEPD_FilthRubbleSandbags.description>
+  <VFEPD_FilthRubbleSandbags_Blueprint.label>розкиданні мішки з піском (креслення)</VFEPD_FilthRubbleSandbags_Blueprint.label>
+  <VFEPD_FilthRubbleSandbags_Frame.label>розкиданні мішки з піском (будується)</VFEPD_FilthRubbleSandbags_Frame.label>
+  <VFEPD_FilthRubbleSandbags_Frame.description>Невелика кількість розкиданних мішків з піском.</VFEPD_FilthRubbleSandbags_Frame.description>
+
+  <VFEPD_FilthBlood.label>кров</VFEPD_FilthBlood.label>
+  <VFEPD_FilthBlood.description>Бризки крові.</VFEPD_FilthBlood.description>
+  <VFEPD_FilthBlood_Blueprint.label>кров (креслення)</VFEPD_FilthBlood_Blueprint.label>
+  <VFEPD_FilthBlood_Frame.label>кров (будується)</VFEPD_FilthBlood_Frame.label>
+  <VFEPD_FilthBlood_Frame.description>Бризки крові.</VFEPD_FilthBlood_Frame.description>
+
+  <VFEPD_FilthBugBlood.label>кров комах</VFEPD_FilthBugBlood.label>
+  <VFEPD_FilthBugBlood.description>Бризки крові комах.</VFEPD_FilthBugBlood.description>
+  <VFEPD_FilthBugBlood_Blueprint.label>кров комах (креслення)</VFEPD_FilthBugBlood_Blueprint.label>
+  <VFEPD_FilthBugBlood_Frame.label>кров комах (будується)</VFEPD_FilthBugBlood_Frame.label>
+  <VFEPD_FilthBugBlood_Frame.description>Бризки крові комах.</VFEPD_FilthBugBlood_Frame.description>
+
+  <VFEPD_FilthMachineBits.label>шматки верстатів</VFEPD_FilthMachineBits.label>
+  <VFEPD_FilthMachineBits.description>Купа шматків від машин.</VFEPD_FilthMachineBits.description>
+  <VFEPD_FilthMachineBits_Blueprint.label>шматки верстатів (креслення)</VFEPD_FilthMachineBits_Blueprint.label>
+  <VFEPD_FilthMachineBits_Frame.label>шматки верстатів (будується)</VFEPD_FilthMachineBits_Frame.label>
+  <VFEPD_FilthMachineBits_Frame.description>Купа шматків від машин.</VFEPD_FilthMachineBits_Frame.description>
+
+  <VFEPD_FilthAmnioticFluid.label>навколоплідні води</VFEPD_FilthAmnioticFluid.label>
+  <VFEPD_FilthAmnioticFluid.description>Калюжа навколоплідних вод.</VFEPD_FilthAmnioticFluid.description>
+  <VFEPD_FilthAmnioticFluid_Blueprint.label>навколоплідні води (креслення)</VFEPD_FilthAmnioticFluid_Blueprint.label>
+  <VFEPD_FilthAmnioticFluid_Frame.label>навколоплідні води(будується)</VFEPD_FilthAmnioticFluid_Frame.label>
+  <VFEPD_FilthAmnioticFluid_Frame.description>Калюжа навколоплідних вод.</VFEPD_FilthAmnioticFluid_Frame.description>
+
+  <VFEPD_FilthSlime.label>слиз</VFEPD_FilthSlime.label>
+  <VFEPD_FilthSlime.description>Бризки слизу.</VFEPD_FilthSlime.description>
+  <VFEPD_FilthSlime_Blueprint.label>слиз (креслення)</VFEPD_FilthSlime_Blueprint.label>
+  <VFEPD_FilthSlime_Frame.label>слиз (будується)</VFEPD_FilthSlime_Frame.label>
+  <VFEPD_FilthSlime_Frame.description>Бризки слизу.</VFEPD_FilthSlime_Frame.description>
+
+  <VFEPD_FilthVomit.label>блювота</VFEPD_FilthVomit.label>
+  <VFEPD_FilthVomit.description>Невилика текуча калюжа блювоти.</VFEPD_FilthVomit.description>
+  <VFEPD_FilthVomit_Blueprint.label>блювота (креслення)</VFEPD_FilthVomit_Blueprint.label>
+  <VFEPD_FilthVomit_Frame.label>блювота (будується)</VFEPD_FilthVomit_Frame.label>
+  <VFEPD_FilthVomit_Frame.description>Невилика текуча калюжа блювоти.</VFEPD_FilthVomit_Frame.description>
+
+  <VFEPD_FilthFireFoam.label>пожежна піна</VFEPD_FilthFireFoam.label>
+  <VFEPD_FilthFireFoam.description>Велика купа пожежної піни.</VFEPD_FilthFireFoam.description>
+  <VFEPD_FilthFireFoam_Blueprint.label>пожежна піна (креслення)</VFEPD_FilthFireFoam_Blueprint.label>
+  <VFEPD_FilthFireFoam_Frame.label>пожежна піна (будується)</VFEPD_FilthFireFoam_Frame.label>
+  <VFEPD_FilthFireFoam_Frame.description>Велика купа пожежної піни.</VFEPD_FilthFireFoam_Frame.description>
+
+  <VFEPD_FilthChemfuel.label>Калюжа хімпалива</VFEPD_FilthChemfuel.label>
+  <VFEPD_FilthChemfuel.description>Калюжа легкозаймистого хімпалива.</VFEPD_FilthChemfuel.description>
+  <VFEPD_FilthChemfuel_Blueprint.label>Калюжа хімпалива (креслення)</VFEPD_FilthChemfuel_Blueprint.label>
+  <VFEPD_FilthChemfuel_Frame.label>Калюжа хімпалива (будується)</VFEPD_FilthChemfuel_Frame.label>
+  <VFEPD_FilthChemfuel_Frame.description>Калюжа легкозаймистого хімпалива.</VFEPD_FilthChemfuel_Frame.description>
+
+  <VFEPD_FilthCorpseBile.label>трупна жовч</VFEPD_FilthCorpseBile.label>
+  <VFEPD_FilthCorpseBile.description>Маленькі бризки трупної жовчі.</VFEPD_FilthCorpseBile.description>
+  <VFEPD_FilthCorpseBile_Blueprint.label>трупна жовч (креслення)</VFEPD_FilthCorpseBile_Blueprint.label>
+  <VFEPD_FilthCorpseBile_Frame.label>трупна жовч (будується)</VFEPD_FilthCorpseBile_Frame.label>
+  <VFEPD_FilthCorpseBile_Frame.description>Маленькі бризки трупної жовчі.</VFEPD_FilthCorpseBile_Frame.description>
+
+  <VFEPD_FilthAsh.label>попіл</VFEPD_FilthAsh.label>
+  <VFEPD_FilthAsh.description>Купка попелу.</VFEPD_FilthAsh.description>
+  <VFEPD_FilthAsh_Blueprint.label>попіл (креслення)</VFEPD_FilthAsh_Blueprint.label>
+  <VFEPD_FilthAsh_Frame.label>попіл (будується)</VFEPD_FilthAsh_Frame.label>
+  <VFEPD_FilthAsh_Frame.description>Купка попелу.</VFEPD_FilthAsh_Frame.description>
+
+
+</LanguageData>

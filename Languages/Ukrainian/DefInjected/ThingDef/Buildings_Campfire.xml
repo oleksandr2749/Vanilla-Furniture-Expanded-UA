@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stone_Campfire.label>багаття обкладене камнями</Stone_Campfire.label>
+  <Stone_Campfire.description>Cooks meals but produces less heat but more light, burns out slower than the standard campfire. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Stone_Campfire.description>
+  <Stone_Campfire_Blueprint.label>багаття обкладене камнями (креслення)</Stone_Campfire_Blueprint.label>
+  <Stone_Campfire_Frame.label>багаття обкладене камнями (building)</Stone_Campfire_Frame.label>
+  <Stone_Campfire_Frame.description>Cooks meals but produces less heat but more light, burns out slower than the standard campfire. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Stone_Campfire_Frame.description>
+
+
+</LanguageData>

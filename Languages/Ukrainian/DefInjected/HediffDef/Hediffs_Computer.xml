@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Computer_LearningBoost.label>Пришвидшення навчання</Computer_LearningBoost.label>
+  <Computer_LearningBoost.description>Пришвидшення навчання внаслідок використання комп'ютера</Computer_LearningBoost.description>
+  <Computer_LearningBoost.stages.0.label>Незначне</Computer_LearningBoost.stages.0.label>
+  <Computer_LearningBoost.stages.1.label>Значне</Computer_LearningBoost.stages.1.label>
+  <Computer_LearningBoost.stages.2.label>Максимальне</Computer_LearningBoost.stages.2.label>
+
+</LanguageData>

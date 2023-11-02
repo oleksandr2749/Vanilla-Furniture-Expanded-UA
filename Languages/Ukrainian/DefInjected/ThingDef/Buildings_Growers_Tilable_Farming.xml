@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PlanterBox_Tilable.label>модульний ящик для розсади</VFE_PlanterBox_Tilable.label>
+  <VFE_PlanterBox_Tilable.description>Вирощує рослини в ящику з ґрунтом. Не потребує електрики для роботи.\n\nМоже бути сконструйована в будь-якій бажаній формі.</VFE_PlanterBox_Tilable.description>
+  <VFE_PlanterBox_Tilable_Blueprint.label>tilable planter box (blueprint)</VFE_PlanterBox_Tilable_Blueprint.label>
+  <VFE_PlanterBox_Tilable_Frame.label>tilable planter box (building)</VFE_PlanterBox_Tilable_Frame.label>
+  <VFE_PlanterBox_Tilable_Frame.description>Grows plants in a box of soil. Does not require power to work.\n\nCan be constructed in any desired shape.</VFE_PlanterBox_Tilable_Frame.description>
+
+  <VFE_Hydroponics_Tilable.label>модульний гідропонний басей</VFE_Hydroponics_Tilable.label>
+  <VFE_Hydroponics_Tilable.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.\n\nThis version is modular and can be assembled in any shape necessary.</VFE_Hydroponics_Tilable.description>
+  <VFE_Hydroponics_Tilable_Blueprint.label>tilable hydroponics basin (blueprint)</VFE_Hydroponics_Tilable_Blueprint.label>
+  <VFE_Hydroponics_Tilable_Frame.label>tilable hydroponics basin (building)</VFE_Hydroponics_Tilable_Frame.label>
+  <VFE_Hydroponics_Tilable_Frame.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.\n\nThis version is modular and can be assembled in any shape necessary.</VFE_Hydroponics_Tilable_Frame.description>
+
+  <VFE_Ecosystem_Tilable.label>модульна штучна екосистема</VFE_Ecosystem_Tilable.label>
+  <VFE_Ecosystem_Tilable.description>Grows plants quickly in an artificial, sealed ecosystem which can be configured to effectively grow even picky plants. Requires a high amount of power to work; plants will die if power is cut. Contains a built-in sun lamp to provide light for the plants.\n\nThis version is modular and can be assembled in any shape necessary.</VFE_Ecosystem_Tilable.description>
+  <VFE_Ecosystem_Tilable_Blueprint.label>tilable artificial ecosystem (blueprint)</VFE_Ecosystem_Tilable_Blueprint.label>
+  <VFE_Ecosystem_Tilable_Frame.label>tilable artificial ecosystem (building)</VFE_Ecosystem_Tilable_Frame.label>
+  <VFE_Ecosystem_Tilable_Frame.description>Grows plants quickly in an artificial, sealed ecosystem which can be configured to effectively grow even picky plants. Requires a high amount of power to work; plants will die if power is cut. Contains a built-in sun lamp to provide light for the plants.\n\nThis version is modular and can be assembled in any shape necessary.</VFE_Ecosystem_Tilable_Frame.description>
+
+
+</LanguageData>

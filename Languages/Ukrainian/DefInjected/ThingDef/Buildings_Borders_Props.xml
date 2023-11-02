@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Carpet Border -->
+
+  <VFE_CarpetBorder_Straight.label>килимовий бордюр</VFE_CarpetBorder_Straight.label>
+  <VFE_CarpetBorder_Straight.description>Простий бордюр, зроблений із тканини. Можна фарбувати.</VFE_CarpetBorder_Straight.description>
+  <VFE_CarpetBorder_Straight_Blueprint.label>килимовий бордюр (креслення)</VFE_CarpetBorder_Straight_Blueprint.label>
+  <VFE_CarpetBorder_Straight_Frame.label>килимовий бордюр (будується)</VFE_CarpetBorder_Straight_Frame.label>
+  <VFE_CarpetBorder_Straight_Frame.description>Простий бордюр, зроблений із тканини. Можна фарбувати.</VFE_CarpetBorder_Straight_Frame.description>
+
+  <VFE_CarpetBorder_Corner.label>кут килимового бордюру</VFE_CarpetBorder_Corner.label>
+  <VFE_CarpetBorder_Corner.description>Простий кут килимового бордюру. Встановлювати в кутку. Можна фарбувати.</VFE_CarpetBorder_Corner.description>
+  <VFE_CarpetBorder_Corner_Blueprint.label>кут килимового бордюру (креслення)</VFE_CarpetBorder_Corner_Blueprint.label>
+  <VFE_CarpetBorder_Corner_Frame.label>кут килимового бордюру (будується)</VFE_CarpetBorder_Corner_Frame.label>
+  <VFE_CarpetBorder_Corner_Frame.description>Простий кут килимового бордюру. Встановлювати в кутку. Можна фарбувати.</VFE_CarpetBorder_Corner_Frame.description>
+
+
+  <!-- Flagstone Border -->
+
+  <VFE_FlagstoneBorder_Straight.label>бордюр з камʼяних плит</VFE_FlagstoneBorder_Straight.label>
+  <VFE_FlagstoneBorder_Straight.description>Простий бордюр з камʼяних плит. Можна фарбувати.</VFE_FlagstoneBorder_Straight.description>
+  <VFE_FlagstoneBorder_Straight_Blueprint.label>бордюр з камʼяних плит (креслення)</VFE_FlagstoneBorder_Straight_Blueprint.label>
+  <VFE_FlagstoneBorder_Straight_Frame.label>бордюр з камʼяних плит (будується)</VFE_FlagstoneBorder_Straight_Frame.label>
+  <VFE_FlagstoneBorder_Straight_Frame.description>Простий бордюр з камʼяних плит. Можна фарбувати.</VFE_FlagstoneBorder_Straight_Frame.description>
+
+  <VFE_FlagstoneBorder_Corner.label>кут бордюру з камʼяних плит</VFE_FlagstoneBorder_Corner.label>
+  <VFE_FlagstoneBorder_Corner.description>Простий кут бордюру з камʼяних плит. Встановлювати в кутку. Можна фарбувати.</VFE_FlagstoneBorder_Corner.description>
+  <VFE_FlagstoneBorder_Corner_Blueprint.label>кут бордюру з камʼяних плит (креслення)</VFE_FlagstoneBorder_Corner_Blueprint.label>
+  <VFE_FlagstoneBorder_Corner_Frame.label>кут бордюру з камʼяних плит (будується)</VFE_FlagstoneBorder_Corner_Frame.label>
+  <VFE_FlagstoneBorder_Corner_Frame.description>Простий кут бордюру з камʼяних плит. Встановлювати в кутку. Можна фарбувати.</VFE_FlagstoneBorder_Corner_Frame.description>
+
+
+  <!-- Stone Border -->
+
+  <VFE_StoneBorder_Straight.label>камʼяний бордюр</VFE_StoneBorder_Straight.label>
+  <VFE_StoneBorder_Straight.description>Простий камʼяний бордюр. Можна фарбувати.</VFE_StoneBorder_Straight.description>
+  <VFE_StoneBorder_Straight_Blueprint.label>камʼяний бордюр (креслення)</VFE_StoneBorder_Straight_Blueprint.label>
+  <VFE_StoneBorder_Straight_Frame.label>камʼяний бордюр (будується)</VFE_StoneBorder_Straight_Frame.label>
+  <VFE_StoneBorder_Straight_Frame.description>Простий камʼяний бордюр. Можна фарбувати.</VFE_StoneBorder_Straight_Frame.description>
+
+  <VFE_StoneBorder_Corner.label>кут камʼяного бордюру</VFE_StoneBorder_Corner.label>
+  <VFE_StoneBorder_Corner.description>Простий кут камʼяного бордюру. Встановлювати в кутку. Можна фарбувати.</VFE_StoneBorder_Corner.description>
+  <VFE_StoneBorder_Corner_Blueprint.label>кут камʼяного бордюру (креслення)</VFE_StoneBorder_Corner_Blueprint.label>
+  <VFE_StoneBorder_Corner_Frame.label>кут камʼяного бордюру (будується)</VFE_StoneBorder_Corner_Frame.label>
+  <VFE_StoneBorder_Corner_Frame.description>Простий кут камʼяного бордюру. Встановлювати в кутку. Можна фарбувати.</VFE_StoneBorder_Corner_Frame.description>
+
+
+  <!-- Metal Border -->
+
+  <VFE_MetalBorder_Straight.label>бордюр з металу</VFE_MetalBorder_Straight.label>
+  <VFE_MetalBorder_Straight.description>Простий бордюр з металу. Можна фарбувати.</VFE_MetalBorder_Straight.description>
+  <VFE_MetalBorder_Straight_Blueprint.label>бордюр з металу (креслення)</VFE_MetalBorder_Straight_Blueprint.label>
+  <VFE_MetalBorder_Straight_Frame.label>бордюр з металу (будується)</VFE_MetalBorder_Straight_Frame.label>
+  <VFE_MetalBorder_Straight_Frame.description>Простий бордюр з металу. Можна фарбувати.</VFE_MetalBorder_Straight_Frame.description>
+
+  <VFE_MetalBorder_Corner.label>кут бордюру з металу</VFE_MetalBorder_Corner.label>
+  <VFE_MetalBorder_Corner.description>Простий кут бордюру з металу. Встановлювати в кутку. Можна фарбувати.</VFE_MetalBorder_Corner.description>
+  <VFE_MetalBorder_Corner_Blueprint.label>кут бордюру з металу (креслення)</VFE_MetalBorder_Corner_Blueprint.label>
+  <VFE_MetalBorder_Corner_Frame.label>кут бордюру з металу (будується)</VFE_MetalBorder_Corner_Frame.label>
+  <VFE_MetalBorder_Corner_Frame.description>Простий кут бордюру з металу. Встановлювати в кутку. Можна фарбувати.</VFE_MetalBorder_Corner_Frame.description>
+
+
+  <!-- Wooden Border -->
+
+  <VFE_WoodenBorder_Straight.label>деревʼяний бордюр</VFE_WoodenBorder_Straight.label>
+  <VFE_WoodenBorder_Straight.description>Простий деревʼяний бордюр. Можна фарбувати.</VFE_WoodenBorder_Straight.description>
+  <VFE_WoodenBorder_Straight_Blueprint.label>деревʼяний бордюр (креслення)</VFE_WoodenBorder_Straight_Blueprint.label>
+  <VFE_WoodenBorder_Straight_Frame.label>деревʼяний бордюр (будується)</VFE_WoodenBorder_Straight_Frame.label>
+  <VFE_WoodenBorder_Straight_Frame.description>Простий деревʼяний бордюр. Можна фарбувати.</VFE_WoodenBorder_Straight_Frame.description>
+
+  <VFE_WoodenBorder_Corner.label>кут деревʼяного бордюру</VFE_WoodenBorder_Corner.label>
+  <VFE_WoodenBorder_Corner.description>Простий кут деревʼяного бордюру. Встановлювати в кутку. Можна фарбувати.</VFE_WoodenBorder_Corner.description>
+  <VFE_WoodenBorder_Corner_Blueprint.label>кут деревʼяного бордюру (креслення)</VFE_WoodenBorder_Corner_Blueprint.label>
+  <VFE_WoodenBorder_Corner_Frame.label>кут деревʼяного бордюру (будується)</VFE_WoodenBorder_Corner_Frame.label>
+  <VFE_WoodenBorder_Corner_Frame.description>Простий кут деревʼяного бордюру. Встановлювати в кутку. Можна фарбувати.</VFE_WoodenBorder_Corner_Frame.description>
+
+
+</LanguageData>

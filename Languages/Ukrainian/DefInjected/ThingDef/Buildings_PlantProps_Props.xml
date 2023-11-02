@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_Glowstool.label>світлогриб</VFEPD_Glowstool.label>
+  <VFEPD_Glowstool.description>Маленький коричневий гриб, який зазвичай зустрічається в печерах. Він пахне старою брудною ганчіркою, витягнутою зі шлунку гниючого муффало, але напрочуд смачний, якщо його приготувати.</VFEPD_Glowstool.description>
+  <VFEPD_Glowstool_Blueprint.label>світлогриб (креслення)</VFEPD_Glowstool_Blueprint.label>
+  <VFEPD_Glowstool_Frame.label>світлогриб (будується)</VFEPD_Glowstool_Frame.label>
+  <VFEPD_Glowstool_Frame.description>Маленький коричневий гриб, який зазвичай зустрічається в печерах. Він пахне старою брудною ганчіркою, витягнутою зі шлунку гниючого муффало, але напрочуд смачний, якщо його приготувати.</VFEPD_Glowstool_Frame.description>
+
+  <VFEPD_Agarilux.label>агарілюкс</VFEPD_Agarilux.label>
+  <VFEPD_Agarilux.description>Величезний штучний фіолетовий гриб. Через його сяйво на нього приємно дивитися.</VFEPD_Agarilux.description>
+  <VFEPD_Agarilux_Blueprint.label>агарілюкс (креслення)</VFEPD_Agarilux_Blueprint.label>
+  <VFEPD_Agarilux_Frame.label>агарілюкс (будується)</VFEPD_Agarilux_Frame.label>
+  <VFEPD_Agarilux_Frame.description>Величезний штучний фіолетовий гриб. Через його сяйво на нього приємно дивитися.</VFEPD_Agarilux_Frame.description>
+
+  <VFEPD_Bryolux.label>бріолюкс</VFEPD_Bryolux.label>
+  <VFEPD_Bryolux.description>Штучний синій мох, який зазвичай зустрічається в глибоких темних печерах. Він липкий, зі сплутаними волокнами, що уповільнює рух по ньому.</VFEPD_Bryolux.description>
+  <VFEPD_Bryolux_Blueprint.label>бріолюкс (креслення)</VFEPD_Bryolux_Blueprint.label>
+  <VFEPD_Bryolux_Frame.label>бріолюкс (будується)</VFEPD_Bryolux_Frame.label>
+  <VFEPD_Bryolux_Frame.description>Штучний синій мох, який зазвичай зустрічається в глибоких темних печерах. Він липкий, зі сплутаними волокнами, що уповільнює рух по ньому.</VFEPD_Bryolux_Frame.description>
+
+  <VFEPD_Rose.label>троянда</VFEPD_Rose.label>
+  <VFEPD_Rose.description>Чарівна культивована рослина, вважалась символом кохання ще з часів давньої епохи Землі.</VFEPD_Rose.description>
+  <VFEPD_Rose_Blueprint.label>троянда (креслення)</VFEPD_Rose_Blueprint.label>
+  <VFEPD_Rose_Frame.label>троянда (будується)</VFEPD_Rose_Frame.label>
+  <VFEPD_Rose_Frame.description>Чарівна культивована рослина, вважалась символом кохання ще з часів давньої епохи Землі.</VFEPD_Rose_Frame.description>
+
+  <VFEPD_Daylily.label>лілія</VFEPD_Daylily.label>
+  <VFEPD_Daylily.description>Штучна культивована квітка з білими пелюстками та короткою тривалістю життя. Лілії дуже гарні, але їх потрібно часто пересаджувати.</VFEPD_Daylily.description>
+  <VFEPD_Daylily_Blueprint.label>лілія (креслення)</VFEPD_Daylily_Blueprint.label>
+  <VFEPD_Daylily_Frame.label>лілія (будується)</VFEPD_Daylily_Frame.label>
+  <VFEPD_Daylily_Frame.description>Штучна культивована квітка з білими пелюстками та короткою тривалістю життя. Лілії дуже гарні, але їх потрібно часто пересаджувати.</VFEPD_Daylily_Frame.description>
+
+  <VFEPD_Rice.label>рис</VFEPD_Rice.label>
+  <VFEPD_Rice.description>Штучна низька, гінка культура, яка дає дрібні їстівні зерна. Його велика поживна цінність і простота вирощування зробили його економічним ядром багатьох великих цивілізацій. Всупереч тому, що рис швидко росте, він чутливий до родючості ґрунту і погано почувається на бідному ґрунті.</VFEPD_Rice.description>
+  <VFEPD_Rice_Blueprint.label>рис (креслення)</VFEPD_Rice_Blueprint.label>
+  <VFEPD_Rice_Frame.label>рис (будується)</VFEPD_Rice_Frame.label>
+  <VFEPD_Rice_Frame.description>Штучна низька, гінка культура, яка дає дрібні їстівні зерна. Його велика поживна цінність і простота вирощування зробили його економічним ядром багатьох великих цивілізацій. Всупереч тому, що рис швидко росте, він чутливий до родючості ґрунту і погано почувається на бідному ґрунті.</VFEPD_Rice_Frame.description>
+
+  <VFEPD_Potato.label>картопля</VFEPD_Potato.label>
+  <VFEPD_Potato.description>Дуже поживна кульбаба. Картопля росте добре навіть у порівняно бідних ґрунтах. Обсмажена в олії картопля утворює смачну та хрустку скоринку.</VFEPD_Potato.description>
+  <VFEPD_Potato_Blueprint.label>картопля (креслення)</VFEPD_Potato_Blueprint.label>
+  <VFEPD_Potato_Frame.label>картопля (будується)</VFEPD_Potato_Frame.label>
+  <VFEPD_Potato_Frame.description>Дуже поживна кульбаба. Картопля росте добре навіть у порівняно бідних ґрунтах. Обсмажена в олії картопля утворює смачну та хрустку скоринку.</VFEPD_Potato_Frame.description>
+
+  <VFEPD_Corn.label>кукурудза</VFEPD_Corn.label>
+  <VFEPD_Corn.description>Висока злакова рослина, що дає качани мʼякого їстівного насіння. Росте довго, але має більшу врожайність у порівнянні з іншими культурами. Зібрана кукурудза може довго зберігатися у сирому вигляді.</VFEPD_Corn.description>
+  <VFEPD_Corn_Blueprint.label>кукурудза (креслення)</VFEPD_Corn_Blueprint.label>
+  <VFEPD_Corn_Frame.label>кукурудза (будується)</VFEPD_Corn_Frame.label>
+  <VFEPD_Corn_Frame.description>Висока злакова рослина, що дає качани мʼякого їстівного насіння. Росте довго, але має більшу врожайність у порівнянні з іншими культурами. Зібрана кукурудза може довго зберігатися у сирому вигляді.</VFEPD_Corn_Frame.description>
+
+  <VFEPD_Strawягідний.label>полуниця</VFEPD_Strawягідний.label>
+  <VFEPD_Strawягідний.description>Штучна кущова рослина, що плодить дрібні та смачні ягоди. Хоч у перерахунку на калорії ці кущі менш плодовиті, ніж інші рослини, полуниці смачні навіть у сирому вигляді.</VFEPD_Strawягідний.description>
+  <VFEPD_Strawягідний_Blueprint.label>полуниця (креслення)</VFEPD_Strawягідний_Blueprint.label>
+  <VFEPD_Strawягідний_Frame.label>полуниця (будується)</VFEPD_Strawягідний_Frame.label>
+  <VFEPD_Strawягідний_Frame.description>Штучна кущова рослина, що плодить дрібні та смачні ягоди. Хоч у перерахунку на калорії ці кущі менш плодовиті, ніж інші рослини, полуниці смачні навіть у сирому вигляді.</VFEPD_Strawягідний_Frame.description>
+
+  <VFEPD_Haygrass.label>сінотрава</VFEPD_Haygrass.label>
+  <VFEPD_Haygrass.description>Штучна суміш поживних трав, що дають багато сіна. Скошені та висушені стебла цих трав застосовуються як харчові продукти для сільськогосподарських тварин.</VFEPD_Haygrass.description>
+  <VFEPD_Haygrass_Blueprint.label>сінотрава (креслення)</VFEPD_Haygrass_Blueprint.label>
+  <VFEPD_Haygrass_Frame.label>сінотрава (будується)</VFEPD_Haygrass_Frame.label>
+  <VFEPD_Haygrass_Frame.description>Штучна суміш поживних трав, що дають багато сіна. Скошені та висушені стебла цих трав застосовуються як харчові продукти для сільськогосподарських тварин.</VFEPD_Haygrass_Frame.description>
+
+  <VFEPD_Cotton.label>бавовна</VFEPD_Cotton.label>
+  <VFEPD_Cotton.description>Штучна рослина середнього розміру. Дає тонкі білі волокна, з яких можна прясти тканину.</VFEPD_Cotton.description>
+  <VFEPD_Cotton_Blueprint.label>бавовна (креслення)</VFEPD_Cotton_Blueprint.label>
+  <VFEPD_Cotton_Frame.label>бавовна (будується)</VFEPD_Cotton_Frame.label>
+  <VFEPD_Cotton_Frame.description>Штучна рослина середнього розміру. Дає тонкі білі волокна, з яких можна прясти тканину.</VFEPD_Cotton_Frame.description>
+
+  <VFEPD_Devilstrand.label>дияволокно</VFEPD_Devilstrand.label>
+  <VFEPD_Devilstrand.description>Цей крихкий гриб був генетично розроблений для створення шовкової сітки найвищої якості, яку важко порвати та при цьому вона буде залишатися мʼякою на дотик. Попри те, що гриб росте дуже повільно, його нитки поступаються за властивостями лише ультратехнологічним волокнам.\n\nХтось каже, що його називають дияволокном через червоний колір. Інші вважають, що воно завдячує своїм імʼям жадібності, яку пробуджує в серцях людей.</VFEPD_Devilstrand.description>
+  <VFEPD_Devilstrand_Blueprint.label>дияволокно (креслення)</VFEPD_Devilstrand_Blueprint.label>
+  <VFEPD_Devilstrand_Frame.label>дияволокно (будується)</VFEPD_Devilstrand_Frame.label>
+  <VFEPD_Devilstrand_Frame.description>TЦей крихкий гриб був генетично розроблений для створення шовкової сітки найвищої якості, яку важко порвати та при цьому вона буде залишатися мʼякою на дотик. Попри те, що гриб росте дуже повільно, його нитки поступаються за властивостями лише ультратехнологічним волокнам.\n\nХтось каже, що його називають дияволокном через червоний колір. Інші вважають, що воно завдячує своїм імʼям жадібності, яку пробуджує в серцях людей.</VFEPD_Devilstrand_Frame.description>
+
+  <VFEPD_Healroot.label>цілющий корінь</VFEPD_Healroot.label>
+  <VFEPD_Healroot.description>Штучна травʼяниста лікарська рослина. Повільно зростає, складна в посіві та зборі через свої крихітні пагони.\n\nЦя рослина селекційно виводилась колонізаторами-вченими протягом кількох століть. Мешканці племен іноді навіть називають його "рукою цілителя" через пʼять лікувальних властивостей, що притаманні йому.</VFEPD_Healroot.description>
+  <VFEPD_Healroot_Blueprint.label>цілющий корінь (креслення)</VFEPD_Healroot_Blueprint.label>
+  <VFEPD_Healroot_Frame.label>цілющий корінь (будується)</VFEPD_Healroot_Frame.label>
+  <VFEPD_Healroot_Frame.description>Штучна травʼяниста лікарська рослина. Повільно зростає, складна в посіві та зборі через свої крихітні пагони.\n\nЦя рослина селекційно виводилась колонізаторами-вченими протягом кількох століть. Мешканці племен іноді навіть називають його "рукою цілителя" через пʼять лікувальних властивостей, що притаманні йому.</VFEPD_Healroot_Frame.description>
+
+  <VFEPD_Hops.label>хміль</VFEPD_Hops.label>
+  <VFEPD_Hops.description>Штучна квітуча рослина, що є важливим інгредієнтом пива.</VFEPD_Hops.description>
+  <VFEPD_Hops_Blueprint.label>хміль (креслення)</VFEPD_Hops_Blueprint.label>
+  <VFEPD_Hops_Frame.label>хміль (будується)</VFEPD_Hops_Frame.label>
+  <VFEPD_Hops_Frame.description>Штучна квітуча рослина, що є важливим інгредієнтом пива.</VFEPD_Hops_Frame.description>
+
+  <VFEPD_Smokeleaf.label>димолист</VFEPD_Smokeleaf.label>
+  <VFEPD_Smokeleaf.description>Листяна культура, вирощена заради психологічного впливу хімічних речовин у її листі. Димолист можна приготувати власноруч. При курінні змушує почуватися розслабленим, але знижує мотивацію та може викликати залежність.</VFEPD_Smokeleaf.description>
+  <VFEPD_Smokeleaf_Blueprint.label>димолист (креслення)</VFEPD_Smokeleaf_Blueprint.label>
+  <VFEPD_Smokeleaf_Frame.label>димолист (будується)</VFEPD_Smokeleaf_Frame.label>
+  <VFEPD_Smokeleaf_Frame.description>Листяна культура, вирощена заради психологічного впливу хімічних речовин у її листі. Димолист можна приготувати власноруч. При курінні змушує почуватися розслабленим, але знижує мотивацію та може викликати залежність.</VFEPD_Smokeleaf_Frame.description>
+
+  <VFEPD_Psychoid.label>психолист</VFEPD_Psychoid.label>
+  <VFEPD_Psychoid.description>Листяна рослина, яка виробляє хімічну сполуку психін. Спочатку розвинений як захисний механізм для захисту від рослиноїдних тварин шляхом надмірної стимуляції та викликання у них нудоти, психотропний препарат можна видобути та переробити в різні форми рекреаційного використання. Це викликає звикання.</VFEPD_Psychoid.description>
+  <VFEPD_Psychoid_Blueprint.label>психолист (креслення)</VFEPD_Psychoid_Blueprint.label>
+  <VFEPD_Psychoid_Frame.label>психолист (будується)</VFEPD_Psychoid_Frame.label>
+  <VFEPD_Psychoid_Frame.description>Листяна рослина, яка виробляє хімічну сполуку психін. Спочатку розвинений як захисний механізм для захисту від рослиноїдних тварин шляхом надмірної стимуляції та викликання у них нудоти, психотропний препарат можна видобути та переробити в різні форми рекреаційного використання. Це викликає звикання.</VFEPD_Psychoid_Frame.description>
+
+  <VFEPD_BurnedTree.label>обгорілий пеньок</VFEPD_BurnedTree.label>
+  <VFEPD_BurnedTree.description>Штучний повністю обгорілий пеньок.</VFEPD_BurnedTree.description>
+  <VFEPD_BurnedTree_Blueprint.label>обгорілий пеньок (креслення)</VFEPD_BurnedTree_Blueprint.label>
+  <VFEPD_BurnedTree_Frame.label>обгорілий пеньок (будується)</VFEPD_BurnedTree_Frame.label>
+  <VFEPD_BurnedTree_Frame.description>Штучний повністю обгорілий пеньок.</VFEPD_BurnedTree_Frame.description>
+
+  <VFEPD_WillowTree.label>верба</VFEPD_WillowTree.label>
+  <VFEPD_WillowTree.description>Штучна верба — швидкоросле дерево з широким, гарним листяним покровом. Дає небагато деревини.</VFEPD_WillowTree.description>
+  <VFEPD_WillowTree_Blueprint.label>верба (креслення)</VFEPD_WillowTree_Blueprint.label>
+  <VFEPD_WillowTree_Frame.label>верба (будується)</VFEPD_WillowTree_Frame.label>
+  <VFEPD_WillowTree_Frame.description>Штучна верба — швидкоросле дерево з широким, гарним листяним покровом. Дає небагато деревини.</VFEPD_WillowTree_Frame.description>
+
+  <VFEPD_CypressTree.label>болотяний кипарис</VFEPD_CypressTree.label>
+  <VFEPD_CypressTree.description>Штучне високе хвойне дерево, часто зустрічається на болотах. Попри повільний ріст, посадка цих дерев може бути вигідною, як легка довгострокова інвестиція, оскільки кипарис дає багато деревини.</VFEPD_CypressTree.description>
+  <VFEPD_CypressTree_Blueprint.label>болотяний кипарис (креслення)</VFEPD_CypressTree_Blueprint.label>
+  <VFEPD_CypressTree_Frame.label>болотяний кипарис (будується)</VFEPD_CypressTree_Frame.label>
+  <VFEPD_CypressTree_Frame.description>Штучне високе хвойне дерево, часто зустрічається на болотах. Попри повільний ріст, посадка цих дерев може бути вигідною, як легка довгострокова інвестиція, оскільки кипарис дає багато деревини.</VFEPD_CypressTree_Frame.description>
+
+  <VFEPD_MapleTree.label>клен</VFEPD_MapleTree.label>
+  <VFEPD_MapleTree.description>Звичайне штучне дерево середнього розміру, яке легко впізнати за виразною формою листя.</VFEPD_MapleTree.description>
+  <VFEPD_MapleTree_Blueprint.label>клен (креслення)</VFEPD_MapleTree_Blueprint.label>
+  <VFEPD_MapleTree_Frame.label>клен (будується)</VFEPD_MapleTree_Frame.label>
+  <VFEPD_MapleTree_Frame.description>Звичайне штучне дерево середнього розміру, яке легко впізнати за виразною формою листя.</VFEPD_MapleTree_Frame.description>
+
+  <VFEPD_Chokevine.label>лозовий кущ</VFEPD_Chokevine.label>
+  <VFEPD_Chokevine.description>Штучні, заплутані маси шнуроподібних, колючих ліан, які в'ються по землі. Кущ сповільнює будь-якого, хто рухається через нього. Різні племена незалежно один від одного розповідають історії про те, як кущ душить дітей вночі, щоб налякати їх і змусити повертатися додому до настання темряви.</VFEPD_Chokevine.description>
+  <VFEPD_Chokevine_Blueprint.label>лозовий кущ (креслення)</VFEPD_Chokevine_Blueprint.label>
+  <VFEPD_Chokevine_Frame.label>лозовий кущ (будується)</VFEPD_Chokevine_Frame.label>
+  <VFEPD_Chokevine_Frame.description>Штучні, заплутані маси шнуроподібних, колючих ліан, які в'ються по землі. Кущ сповільнює будь-якого, хто рухається через нього. Різні племена незалежно один від одного розповідають історії про те, як кущ душить дітей вночі, щоб налякати їх і змусити повертатися додому до настання темряви.</VFEPD_Chokevine_Frame.description>
+
+  <VFEPD_OakTree.label>дуб</VFEPD_OakTree.label>
+  <VFEPD_OakTree.description>Штучне широколисте дерево твердих сортів. Дуби довго ростуть, але їхня деревина настільки міцна, що слово "дуб" стало метафорою міцності у багатьох культурах.</VFEPD_OakTree.description>
+  <VFEPD_OakTree_Blueprint.label>дуб (креслення)</VFEPD_OakTree_Blueprint.label>
+  <VFEPD_OakTree_Frame.label>дуб (будується)</VFEPD_OakTree_Frame.label>
+  <VFEPD_OakTree_Frame.description>тучне широколисте дерево твердих сортів. Дуби довго ростуть, але їхня деревина настільки міцна, що слово "дуб" стало метафорою міцності у багатьох культурах.</VFEPD_OakTree_Frame.description>
+
+  <VFEPD_PoplarTree.label>тополя</VFEPD_PoplarTree.label>
+  <VFEPD_PoplarTree.description>Штучне швидкоросле дерево мʼяких сортів. На жаль, така деревина є крихкою і дає менше корисного матеріалу, ніж дерева твердих сортів.</VFEPD_PoplarTree.description>
+  <VFEPD_PoplarTree_Blueprint.label>тополя (креслення)</VFEPD_PoplarTree_Blueprint.label>
+  <VFEPD_PoplarTree_Frame.label>тополя (будується)</VFEPD_PoplarTree_Frame.label>
+  <VFEPD_PoplarTree_Frame.description>Штучне швидкоросле дерево мʼяких сортів. На жаль, така деревина є крихкою і дає менше корисного матеріалу, ніж дерева твердих сортів.</VFEPD_PoplarTree_Frame.description>
+
+  <VFEPD_PineTree.label>сосна</VFEPD_PineTree.label>
+  <VFEPD_PineTree.description>Штучний великий хвойник, вкритий колючими сосновими шишками. Виростає у виразній формі.</VFEPD_PineTree.description>
+  <VFEPD_PineTree_Blueprint.label>сосна (креслення)</VFEPD_PineTree_Blueprint.label>
+  <VFEPD_PineTree_Frame.label>сосна (будується)</VFEPD_PineTree_Frame.label>
+  <VFEPD_PineTree_Frame.description>Штучний великий хвойник, вкритий колючими сосновими шишками. Виростає у виразній формі.</VFEPD_PineTree_Frame.description>
+
+  <VFEPD_BirchTree.label>береза</VFEPD_BirchTree.label>
+  <VFEPD_BirchTree.description>Штучне дерево з помірного біому, відоме своєю тонкою, паперово-білою корою.</VFEPD_BirchTree.description>
+  <VFEPD_BirchTree_Blueprint.label>береза (креслення)</VFEPD_BirchTree_Blueprint.label>
+  <VFEPD_BirchTree_Frame.label>береза (будується)</VFEPD_BirchTree_Frame.label>
+  <VFEPD_BirchTree_Frame.description>Штучне дерево з помірного біому, відоме своєю тонкою, паперово-білою корою.</VFEPD_BirchTree_Frame.description>
+
+  <VFEPD_TeakTree.label>тикове дерево</VFEPD_TeakTree.label>
+  <VFEPD_TeakTree.description>Штучне, виключно міцне листяне дерево, яке росте в теплому кліматі. Оскільки тикове дерево є міцним і водостійким, у стародавні часи його використовували для формування кіля деревʼяних вітрильних кораблів.</VFEPD_TeakTree.description>
+  <VFEPD_TeakTree_Blueprint.label>тикове дерево (креслення)</VFEPD_TeakTree_Blueprint.label>
+  <VFEPD_TeakTree_Frame.label>тикове дерево (будується)</VFEPD_TeakTree_Frame.label>
+  <VFEPD_TeakTree_Frame.description>Штучне, виключно міцне листяне дерево, яке росте в теплому кліматі. Оскільки тикове дерево є міцним і водостійким, у стародавні часи його використовували для формування кіля деревʼяних вітрильних кораблів.</VFEPD_TeakTree_Frame.description>
+
+  <VFEPD_CecropiaTree.label>цекропія</VFEPD_CecropiaTree.label>
+  <VFEPD_CecropiaTree.description>Одне з найпоширеніших тропічних дерев. Цекропія росте дуже щшвидко, але з неї можна здобути мало корисної деревини.</VFEPD_CecropiaTree.description>
+  <VFEPD_CecropiaTree_Blueprint.label>цекропія (креслення)</VFEPD_CecropiaTree_Blueprint.label>
+  <VFEPD_CecropiaTree_Frame.label>цекропія (будується)</VFEPD_CecropiaTree_Frame.label>
+  <VFEPD_CecropiaTree_Frame.description>Одне з найпоширеніших тропічних дерев. Цекропія росте дуже щшвидко, але з неї можна здобути мало корисної деревини.</VFEPD_CecropiaTree_Frame.description>
+
+  <VFEPD_PalmTree.label>пальма</VFEPD_PalmTree.label>
+  <VFEPD_PalmTree.description>Штучне тропічне дерево з високим голим стовбуром, увінчаним пучком широкого листя. На жаль, цей сорт не дає їстівних кокосів.</VFEPD_PalmTree.description>
+  <VFEPD_PalmTree_Blueprint.label>пальма (креслення)</VFEPD_PalmTree_Blueprint.label>
+  <VFEPD_PalmTree_Frame.label>пальма (будується)</VFEPD_PalmTree_Frame.label>
+  <VFEPD_PalmTree_Frame.description>Штучне тропічне дерево з високим голим стовбуром, увінчаним пучком широкого листя. На жаль, цей сорт не дає їстівних кокосів.</VFEPD_PalmTree_Frame.description>
+
+  <VFEPD_BambooTree.label>бамбук</VFEPD_BambooTree.label>
+  <VFEPD_BambooTree.description>Штучна, гінка, схожа на дерево рослина, яка росте густими гаями. Бамбук можна використовувати як дерево, через його схожість властивостями з деревиною. Сама рослина не дуже гарна.</VFEPD_BambooTree.description>
+  <VFEPD_BambooTree_Blueprint.label>бамбук (креслення)</VFEPD_BambooTree_Blueprint.label>
+  <VFEPD_BambooTree_Frame.label>бамбук (будується)</VFEPD_BambooTree_Frame.label>
+  <VFEPD_BambooTree_Frame.description>Штучна, гінка, схожа на дерево рослина, яка росте густими гаями. Бамбук можна використовувати як дерево, через його схожість властивостями з деревиною. Сама рослина не дуже гарна.</VFEPD_BambooTree_Frame.description>
+
+  <VFEPD_DragoTree.label>драконяче дерево</VFEPD_DragoTree.label>
+  <VFEPD_DragoTree.description>Штучне витривале пустельне дерево з товстим загостреним листям.</VFEPD_DragoTree.description>
+  <VFEPD_DragoTree_Blueprint.label>драконяче дерево (креслення)</VFEPD_DragoTree_Blueprint.label>
+  <VFEPD_DragoTree_Frame.label>драконяче дерево (будується)</VFEPD_DragoTree_Frame.label>
+  <VFEPD_DragoTree_Frame.description>Штучне витривале пустельне дерево з товстим загостреним листям.</VFEPD_DragoTree_Frame.description>
+
+  <VFEPD_SaguaroCactus.label>кактус сагуаро</VFEPD_SaguaroCactus.label>
+  <VFEPD_SaguaroCactus.description>Штучний великий кактус, корінний для сухих земних умов. Хоч він і не є деревом, в ньому є трошки волокнистого материалу, який можна використовувати як дерево.</VFEPD_SaguaroCactus.description>
+  <VFEPD_SaguaroCactus_Blueprint.label>кактус сагуаро (креслення)</VFEPD_SaguaroCactus_Blueprint.label>
+  <VFEPD_SaguaroCactus_Frame.label>кактус сагуаро (будується)</VFEPD_SaguaroCactus_Frame.label>
+  <VFEPD_SaguaroCactus_Frame.description>Штучний великий кактус, корінний для сухих земних умов. Хоч він і не є деревом, в ньому є трошки волокнистого материалу, який можна використовувати як дерево.</VFEPD_SaguaroCactus_Frame.description>
+
+  <VFEPD_Agave.label>агава</VFEPD_Agave.label>
+  <VFEPD_Agave.description>Штучна пустельна рослина з великим листям та їстівними квітками та стеблами.</VFEPD_Agave.description>
+  <VFEPD_Agave_Blueprint.label>агава (креслення)</VFEPD_Agave_Blueprint.label>
+  <VFEPD_Agave_Frame.label>агава (будується)</VFEPD_Agave_Frame.label>
+  <VFEPD_Agave_Frame.description>Штучна пустельна рослина з великим листям та їстівними квітками та стеблами.</VFEPD_Agave_Frame.description>
+
+  <VFEPD_PincushionCactus.label>кактус-голечник</VFEPD_PincushionCactus.label>
+  <VFEPD_PincushionCactus.description>Штучний короткий кактус. Названий він так тому, що схожий на подушечку для шпильок.</VFEPD_PincushionCactus.description>
+  <VFEPD_PincushionCactus_Blueprint.label>кактус-голечник (креслення)</VFEPD_PincushionCactus_Blueprint.label>
+  <VFEPD_PincushionCactus_Frame.label>кактус-голечник (будується)</VFEPD_PincushionCactus_Frame.label>
+  <VFEPD_PincushionCactus_Frame.description>Штучний короткий кактус. Названий він так тому, що схожий на подушечку для шпильок.</VFEPD_PincushionCactus_Frame.description>
+
+  <VFEPD_GrassShort.label>коротка трава</VFEPD_GrassShort.label>
+  <VFEPD_GrassShort.description>Штучна дика трава. Росте будь-де при світлі та мінімально фертильному ґрунті.</VFEPD_GrassShort.description>
+  <VFEPD_GrassShort_Blueprint.label>коротка трава (креслення)</VFEPD_GrassShort_Blueprint.label>
+  <VFEPD_GrassShort_Frame.label>коротка трава (будується)</VFEPD_GrassShort_Frame.label>
+  <VFEPD_GrassShort_Frame.description>Штучна дика трава. Росте будь-де при світлі та мінімально фертильному ґрунті.</VFEPD_GrassShort_Frame.description>
+
+  <VFEPD_GrassLong.label>висока трава</VFEPD_GrassLong.label>
+  <VFEPD_GrassLong.description>Штучна висока дика трава. Сповільнює будь-кого, хто пересувається по ній..</VFEPD_GrassLong.description>
+  <VFEPD_GrassLong_Blueprint.label>lвисока трава (креслення)</VFEPD_GrassLong_Blueprint.label>
+  <VFEPD_GrassLong_Frame.label>висока трава (будується)</VFEPD_GrassLong_Frame.label>
+  <VFEPD_GrassLong_Frame.description>Штучна висока дика трава. Сповільнює будь-кого, хто пересувається по ній..</VFEPD_GrassLong_Frame.description>
+
+  <VFEPD_Bush.label>кущ</VFEPD_Bush.label>
+  <VFEPD_Bush.description>Короткий кущ. Зазвичай не говорить.</VFEPD_Bush.description>
+  <VFEPD_Bush_Blueprint.label>кущ (креслення)</VFEPD_Bush_Blueprint.label>
+  <VFEPD_Bush_Frame.label>кущ (будується)</VFEPD_Bush_Frame.label>
+  <VFEPD_Bush_Frame.description>Короткий кущ. Зазвичай не говорить.</VFEPD_Bush_Frame.description>
+
+  <VFEPD_Brambles.label>колючки</VFEPD_Brambles.label>
+  <VFEPD_Brambles.description>Штучні заплутані колючі дерев'янисті пагони, вкриті листям. Колючки ростуть гронами і сповільнюють рух тих, хто пересувається по ним.</VFEPD_Brambles.description>
+  <VFEPD_Brambles_Blueprint.label>колючки (креслення)</VFEPD_Brambles_Blueprint.label>
+  <VFEPD_Brambles_Frame.label>колючки (будується)</VFEPD_Brambles_Frame.label>
+  <VFEPD_Brambles_Frame.description>Штучні заплутані колючі дерев'янисті пагони, вкриті листям. Колючки ростуть гронами і сповільнюють рух тих, хто пересувається по ним.</VFEPD_Brambles_Frame.description>
+
+  <VFEPD_BerryBush.label>ягідний кущ</VFEPD_BerryBush.label>
+  <VFEPD_BerryBush.description>Штучна кущиста дика рослина, що плодить смачними ягодами. Ягоди можна приготувати, але їх також можна їсти й у сирому вигляді.</VFEPD_BerryBush.description>
+  <VFEPD_BerryBush_Blueprint.label>ягідний кущ (креслення)</VFEPD_BerryBush_Blueprint.label>
+  <VFEPD_BerryBush_Frame.label>ягідний кущ (будується)</VFEPD_BerryBush_Frame.label>
+  <VFEPD_BerryBush_Frame.description>Штучна кущиста дика рослина, що плодить смачними ягодами. Ягоди можна приготувати, але їх також можна їсти й у сирому вигляді.</VFEPD_BerryBush_Frame.description>
+
+  <VFEPD_Alocasia.label>алоказія</VFEPD_Alocasia.label>
+  <VFEPD_Alocasia.description>Штучна тропічна рослина. Її широке листя – відома ознака тропічних лісів.</VFEPD_Alocasia.description>
+  <VFEPD_Alocasia_Blueprint.label>алоказія (креслення)</VFEPD_Alocasia_Blueprint.label>
+  <VFEPD_Alocasia_Frame.label>алоказія (будується)</VFEPD_Alocasia_Frame.label>
+  <VFEPD_Alocasia_Frame.description>Штучна тропічна рослина. Її широке листя – відома ознака тропічних лісів.</VFEPD_Alocasia_Frame.description>
+
+  <VFEPD_Clivia.label>клівія</VFEPD_Clivia.label>
+  <VFEPD_Clivia.description>Штучна незвичайна рослина, з високими й красивими квітками. Деякі називають її "кущом-лілією".</VFEPD_Clivia.description>
+  <VFEPD_Clivia_Blueprint.label>клівія (креслення)</VFEPD_Clivia_Blueprint.label>
+  <VFEPD_Clivia_Frame.label>клівія (будується)</VFEPD_Clivia_Frame.label>
+  <VFEPD_Clivia_Frame.description>Штучна незвичайна рослина, з високими й красивими квітками. Деякі називають її "кущом-лілією".</VFEPD_Clivia_Frame.description>
+
+  <VFEPD_Rafflesia.label>гігантська рафлезія</VFEPD_Rafflesia.label>
+  <VFEPD_Rafflesia.description>Рідкісна гігантська квітка, яку можна знайти глибоко в джунглях. Можна подумати, що гігантська квітка має бути красивою, але ця виглядає й пахне наче гниле мʼясо.</VFEPD_Rafflesia.description>
+  <VFEPD_Rafflesia_Blueprint.label>гігантська рафлезія (креслення)</VFEPD_Rafflesia_Blueprint.label>
+  <VFEPD_Rafflesia_Frame.label>гігантська рафлезія (будується)</VFEPD_Rafflesia_Frame.label>
+  <VFEPD_Rafflesia_Frame.description>Рідкісна гігантська квітка, яку можна знайти глибоко в джунглях. Можна подумати, що гігантська квітка має бути красивою, але ця виглядає й пахне наче гниле мʼясо.</VFEPD_Rafflesia_Frame.description>
+
+
+</LanguageData>

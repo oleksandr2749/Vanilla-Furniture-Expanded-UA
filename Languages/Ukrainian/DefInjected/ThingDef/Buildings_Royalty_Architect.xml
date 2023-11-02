@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_FineWall.label>якісна стіна</VFEArch_FineWall.label>
+  <VFEArch_FineWall.description>A beautiful, impassable wall. Capable of holding up a roof.</VFEArch_FineWall.description>
+  <VFEArch_FineWall_Blueprint.label>fine wall (blueprint)</VFEArch_FineWall_Blueprint.label>
+  <VFEArch_FineWall_Frame.label>fine wall (building)</VFEArch_FineWall_Frame.label>
+  <VFEArch_FineWall_Frame.description>A beautiful, impassable wall. Capable of holding up a roof.</VFEArch_FineWall_Frame.description>
+
+
+</LanguageData>

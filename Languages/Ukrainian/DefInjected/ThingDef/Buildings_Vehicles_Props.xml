@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_CarForklift.label>Навантажувач</VFEPD_CarForklift.label>
+  <VFEPD_CarForklift.description>Навантажувач в індустріальному стилі.</VFEPD_CarForklift.description>
+  <VFEPD_CarForklift_Blueprint.label>Навантажувач (blueprint)</VFEPD_CarForklift_Blueprint.label>
+  <VFEPD_CarForklift_Frame.label>Навантажувач (building)</VFEPD_CarForklift_Frame.label>
+  <VFEPD_CarForklift_Frame.description>Навантажувач в індустріальному стилі.</VFEPD_CarForklift_Frame.description>
+
+  <VFEPD_CarDeliveryBlack.label>чорна вантажівка</VFEPD_CarDeliveryBlack.label>
+  <VFEPD_CarDeliveryBlack.description>Велика чорна вантажівка.</VFEPD_CarDeliveryBlack.description>
+  <VFEPD_CarDeliveryBlack_Blueprint.label>чорна вантажівка (blueprint)</VFEPD_CarDeliveryBlack_Blueprint.label>
+  <VFEPD_CarDeliveryBlack_Frame.label>чорна вантажівка (building)</VFEPD_CarDeliveryBlack_Frame.label>
+  <VFEPD_CarDeliveryBlack_Frame.description>Велика чорна вантажівка.</VFEPD_CarDeliveryBlack_Frame.description>
+
+  <VFEPD_CarFamilyBlack.label>чорне сімейне авто</VFEPD_CarFamilyBlack.label>
+  <VFEPD_CarFamilyBlack.description>чорне сімейне авто.</VFEPD_CarFamilyBlack.description>
+  <VFEPD_CarFamilyBlack_Blueprint.label>чорне сімейне авто (blueprint)</VFEPD_CarFamilyBlack_Blueprint.label>
+  <VFEPD_CarFamilyBlack_Frame.label>чорне сімейне авто (building)</VFEPD_CarFamilyBlack_Frame.label>
+  <VFEPD_CarFamilyBlack_Frame.description>чорне сімейне авто.</VFEPD_CarFamilyBlack_Frame.description>
+
+  <VFEPD_CarPickupBlack.label>чорний пікап</VFEPD_CarPickupBlack.label>
+  <VFEPD_CarPickupBlack.description>чорний пікап.</VFEPD_CarPickupBlack.description>
+  <VFEPD_CarPickupBlack_Blueprint.label>чорний пікап (blueprint)</VFEPD_CarPickupBlack_Blueprint.label>
+  <VFEPD_CarPickupBlack_Frame.label>чорний пікап (building)</VFEPD_CarPickupBlack_Frame.label>
+  <VFEPD_CarPickupBlack_Frame.description>чорний пікап.</VFEPD_CarPickupBlack_Frame.description>
+
+  <VFEPD_CarVintageBlack.label>чорний ретро-автомобіль</VFEPD_CarVintageBlack.label>
+  <VFEPD_CarVintageBlack.description>чорний ретро-автомобіль.</VFEPD_CarVintageBlack.description>
+  <VFEPD_CarVintageBlack_Blueprint.label>чорний ретро-автомобіль (blueprint)</VFEPD_CarVintageBlack_Blueprint.label>
+  <VFEPD_CarVintageBlack_Frame.label>чорний ретро-автомобіль (building)</VFEPD_CarVintageBlack_Frame.label>
+  <VFEPD_CarVintageBlack_Frame.description>чорний ретро-автомобіль.</VFEPD_CarVintageBlack_Frame.description>
+
+  <VFEPD_CarDeliveryWhite.label>біла вантажівка</VFEPD_CarDeliveryWhite.label>
+  <VFEPD_CarDeliveryWhite.description>Велика біла вантажівка.</VFEPD_CarDeliveryWhite.description>
+  <VFEPD_CarDeliveryWhite_Blueprint.label>біла вантажівка (blueprint)</VFEPD_CarDeliveryWhite_Blueprint.label>
+  <VFEPD_CarDeliveryWhite_Frame.label>біла вантажівка (building)</VFEPD_CarDeliveryWhite_Frame.label>
+  <VFEPD_CarDeliveryWhite_Frame.description>Велика біла вантажівка.</VFEPD_CarDeliveryWhite_Frame.description>
+
+  <VFEPD_CarFamilyWhite.label>біле сімейне авто</VFEPD_CarFamilyWhite.label>
+  <VFEPD_CarFamilyWhite.description>біле сімейне авто.</VFEPD_CarFamilyWhite.description>
+  <VFEPD_CarFamilyWhite_Blueprint.label>біле сімейне авто (blueprint)</VFEPD_CarFamilyWhite_Blueprint.label>
+  <VFEPD_CarFamilyWhite_Frame.label>біле сімейне авто (building)</VFEPD_CarFamilyWhite_Frame.label>
+  <VFEPD_CarFamilyWhite_Frame.description>біле сімейне авто.</VFEPD_CarFamilyWhite_Frame.description>
+
+  <VFEPD_CarPickupWhite.label>білий пікап</VFEPD_CarPickupWhite.label>
+  <VFEPD_CarPickupWhite.description>білий пікап.</VFEPD_CarPickupWhite.description>
+  <VFEPD_CarPickupWhite_Blueprint.label>білий пікап (blueprint)</VFEPD_CarPickupWhite_Blueprint.label>
+  <VFEPD_CarPickupWhite_Frame.label>білий пікап (building)</VFEPD_CarPickupWhite_Frame.label>
+  <VFEPD_CarPickupWhite_Frame.description>білий пікап.</VFEPD_CarPickupWhite_Frame.description>
+
+  <VFEPD_CarVintageWhite.label>білий ретро-автомобіль</VFEPD_CarVintageWhite.label>
+  <VFEPD_CarVintageWhite.description>білий ретро-автомобіль.</VFEPD_CarVintageWhite.description>
+  <VFEPD_CarVintageWhite_Blueprint.label>білий ретро-автомобіль (blueprint)</VFEPD_CarVintageWhite_Blueprint.label>
+  <VFEPD_CarVintageWhite_Frame.label>білий ретро-автомобіль (building)</VFEPD_CarVintageWhite_Frame.label>
+  <VFEPD_CarVintageWhite_Frame.description>білий ретро-автомобіль.</VFEPD_CarVintageWhite_Frame.description>
+
+  <VFEPD_CarDeliverySilver.label>срібна вантажівка</VFEPD_CarDeliverySilver.label>
+  <VFEPD_CarDeliverySilver.description>Велика срібна вантажівка.</VFEPD_CarDeliverySilver.description>
+  <VFEPD_CarDeliverySilver_Blueprint.label>срібна вантажівка (blueprint)</VFEPD_CarDeliverySilver_Blueprint.label>
+  <VFEPD_CarDeliverySilver_Frame.label>срібна вантажівка (building)</VFEPD_CarDeliverySilver_Frame.label>
+  <VFEPD_CarDeliverySilver_Frame.description>Велика срібна вантажівка.</VFEPD_CarDeliverySilver_Frame.description>
+
+  <VFEPD_CarFamilySilver.label>срібне сімейне авто</VFEPD_CarFamilySilver.label>
+  <VFEPD_CarFamilySilver.description>срібне сімейне авто.</VFEPD_CarFamilySilver.description>
+  <VFEPD_CarFamilySilver_Blueprint.label>срібне сімейне авто (blueprint)</VFEPD_CarFamilySilver_Blueprint.label>
+  <VFEPD_CarFamilySilver_Frame.label>срібне сімейне авто (building)</VFEPD_CarFamilySilver_Frame.label>
+  <VFEPD_CarFamilySilver_Frame.description>срібне сімейне авто.</VFEPD_CarFamilySilver_Frame.description>
+
+  <VFEPD_CarPickupSilver.label>срібний пікап</VFEPD_CarPickupSilver.label>
+  <VFEPD_CarPickupSilver.description>срібний пікап.</VFEPD_CarPickupSilver.description>
+  <VFEPD_CarPickupSilver_Blueprint.label>срібний пікап (blueprint)</VFEPD_CarPickupSilver_Blueprint.label>
+  <VFEPD_CarPickupSilver_Frame.label>срібний пікап (building)</VFEPD_CarPickupSilver_Frame.label>
+  <VFEPD_CarPickupSilver_Frame.description>срібний пікап.</VFEPD_CarPickupSilver_Frame.description>
+
+  <VFEPD_CarVintageSilver.label>срібний ретро-автомобіль</VFEPD_CarVintageSilver.label>
+  <VFEPD_CarVintageSilver.description>срібний ретро-автомобіль.</VFEPD_CarVintageSilver.description>
+  <VFEPD_CarVintageSilver_Blueprint.label>срібний ретро-автомобіль (blueprint)</VFEPD_CarVintageSilver_Blueprint.label>
+  <VFEPD_CarVintageSilver_Frame.label>срібний ретро-автомобіль (building)</VFEPD_CarVintageSilver_Frame.label>
+  <VFEPD_CarVintageSilver_Frame.description>срібний ретро-автомобіль.</VFEPD_CarVintageSilver_Frame.description>
+
+  <VFEPD_CarDeliveryBlue.label>блакитна вантажівка</VFEPD_CarDeliveryBlue.label>
+  <VFEPD_CarDeliveryBlue.description>Велика блакитна вантажівка.</VFEPD_CarDeliveryBlue.description>
+  <VFEPD_CarDeliveryBlue_Blueprint.label>блакитна вантажівка (blueprint)</VFEPD_CarDeliveryBlue_Blueprint.label>
+  <VFEPD_CarDeliveryBlue_Frame.label>блакитна вантажівка (building)</VFEPD_CarDeliveryBlue_Frame.label>
+  <VFEPD_CarDeliveryBlue_Frame.description>Велика блакитна вантажівка.</VFEPD_CarDeliveryBlue_Frame.description>
+
+  <VFEPD_CarFamilyBlue.label>блакитне сімейне авто</VFEPD_CarFamilyBlue.label>
+  <VFEPD_CarFamilyBlue.description>блакитне сімейне авто.</VFEPD_CarFamilyBlue.description>
+  <VFEPD_CarFamilyBlue_Blueprint.label>блакитне сімейне авто (blueprint)</VFEPD_CarFamilyBlue_Blueprint.label>
+  <VFEPD_CarFamilyBlue_Frame.label>блакитне сімейне авто (building)</VFEPD_CarFamilyBlue_Frame.label>
+  <VFEPD_CarFamilyBlue_Frame.description>блакитне сімейне авто.</VFEPD_CarFamilyBlue_Frame.description>
+
+  <VFEPD_CarPickupBlue.label>блакитний пікап</VFEPD_CarPickupBlue.label>
+  <VFEPD_CarPickupBlue.description>блакитний пікап.</VFEPD_CarPickupBlue.description>
+  <VFEPD_CarPickupBlue_Blueprint.label>блакитний пікап (blueprint)</VFEPD_CarPickupBlue_Blueprint.label>
+  <VFEPD_CarPickupBlue_Frame.label>блакитний пікап (building)</VFEPD_CarPickupBlue_Frame.label>
+  <VFEPD_CarPickupBlue_Frame.description>блакитний пікап.</VFEPD_CarPickupBlue_Frame.description>
+
+  <VFEPD_CarVintageBlue.label>блакитний ретро-автомобіль</VFEPD_CarVintageBlue.label>
+  <VFEPD_CarVintageBlue.description>блакитний ретро-автомобіль.</VFEPD_CarVintageBlue.description>
+  <VFEPD_CarVintageBlue_Blueprint.label>блакитний ретро-автомобіль (blueprint)</VFEPD_CarVintageBlue_Blueprint.label>
+  <VFEPD_CarVintageBlue_Frame.label>блакитний ретро-автомобіль (building)</VFEPD_CarVintageBlue_Frame.label>
+  <VFEPD_CarVintageBlue_Frame.description>блакитний ретро-автомобіль.</VFEPD_CarVintageBlue_Frame.description>
+
+  <VFEPD_CarDeliveryRed.label>червона вантажівка</VFEPD_CarDeliveryRed.label>
+  <VFEPD_CarDeliveryRed.description>Велика червона вантажівка.</VFEPD_CarDeliveryRed.description>
+  <VFEPD_CarDeliveryRed_Blueprint.label>червона вантажівка (blueprint)</VFEPD_CarDeliveryRed_Blueprint.label>
+  <VFEPD_CarDeliveryRed_Frame.label>червона вантажівка (building)</VFEPD_CarDeliveryRed_Frame.label>
+  <VFEPD_CarDeliveryRed_Frame.description>A large червона вантажівка.</VFEPD_CarDeliveryRed_Frame.description>
+
+  <VFEPD_CarFamilyRed.label>червоне сімейне авто</VFEPD_CarFamilyRed.label>
+  <VFEPD_CarFamilyRed.description>червоне сімейне авто.</VFEPD_CarFamilyRed.description>
+  <VFEPD_CarFamilyRed_Blueprint.label>червоне сімейне авто (blueprint)</VFEPD_CarFamilyRed_Blueprint.label>
+  <VFEPD_CarFamilyRed_Frame.label>червоне сімейне авто (building)</VFEPD_CarFamilyRed_Frame.label>
+  <VFEPD_CarFamilyRed_Frame.description>червоне сімейне авто.</VFEPD_CarFamilyRed_Frame.description>
+
+  <VFEPD_CarPickupRed.label>червоний пікап</VFEPD_CarPickupRed.label>
+  <VFEPD_CarPickupRed.description>червоний пікап.</VFEPD_CarPickupRed.description>
+  <VFEPD_CarPickupRed_Blueprint.label>червоний пікап (blueprint)</VFEPD_CarPickupRed_Blueprint.label>
+  <VFEPD_CarPickupRed_Frame.label>червоний пікап (building)</VFEPD_CarPickupRed_Frame.label>
+  <VFEPD_CarPickupRed_Frame.description>червоний пікап.</VFEPD_CarPickupRed_Frame.description>
+
+  <VFEPD_CarVintageRed.label>червоний ретро-автомобіль</VFEPD_CarVintageRed.label>
+  <VFEPD_CarVintageRed.description>червоний ретро-автомобіль.</VFEPD_CarVintageRed.description>
+  <VFEPD_CarVintageRed_Blueprint.label>червоний ретро-автомобіль (blueprint)</VFEPD_CarVintageRed_Blueprint.label>
+  <VFEPD_CarVintageRed_Frame.label>червоний ретро-автомобіль (building)</VFEPD_CarVintageRed_Frame.label>
+  <VFEPD_CarVintageRed_Frame.description>червоний ретро-автомобіль.</VFEPD_CarVintageRed_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Seat_Cushion.label>подушка для сидіння</Seat_Cushion.label>
+  <Seat_Cushion.description>Проста подушка для сидіння, популярна серед племен. Може використовуватись за столом робочого місця.</Seat_Cushion.description>
+
+  <Seat_Bench.label>лавка</Seat_Bench.label>
+  <Seat_Bench.description>Проста лавка, на якій одночасно можуть сидіти кілька людей, не надто зручна, але набагато краща, ніж нічогон. Може використовуватись за столом для їжі та робочого місця.</Seat_Bench.description>
+
+  <Seat_SquareChair.label>квадратне крісло</Seat_SquareChair.label>
+  <Seat_SquareChair.description>A comfortable and attractive chair not specifically used for dining. Can be used at tables, work stations, and elsewhere.</Seat_SquareChair.description>
+
+</LanguageData>

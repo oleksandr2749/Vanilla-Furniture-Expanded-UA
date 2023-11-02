@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TargetLightRadius>Радіус освітлення</TargetLightRadius>
+  <CurrentLightOpacity>Інтенсивність</CurrentLightOpacity>
+
+  <CommandRaiseLightRDesc>Збільшити радіус.</CommandRaiseLightRDesc>
+  <CommandLowerLightRDesc>Зменшити радіус.</CommandLowerLightRDesc>
+
+  <CommandRaiseLightIntDesc>Increase the current intensity.</CommandRaiseLightIntDesc>
+  <CommandLowerLightIntDesc>Lower the current intensity.</CommandLowerLightIntDesc>
+
+  <LightIntensityPercent>% інтенсивність.</LightIntensityPercent>
+  <LightRadiusCells> Радіус клітини.</LightRadiusCells>
+
+  <SwitchedColourDesc>Перемкніть світлий колір на </SwitchedColourDesc>
+  <LightColourRed>Черовний</LightColourRed>
+  <LightColourGreen>Зелений</LightColourGreen>
+  <LightColourBlue>Синій</LightColourBlue>
+  <LightColourWhite>Білий</LightColourWhite>
+
+  <EnableAutoForbid>Увімкнути автоматичну заборону</EnableAutoForbid>
+  <EnableAutoForbidExplanation>Зброя та одяг, що зберігаються тут, будуть автоматично заборонені до тих пір, поки не відновлять прочність</EnableAutoForbidExplanation>
+
+</LanguageData>

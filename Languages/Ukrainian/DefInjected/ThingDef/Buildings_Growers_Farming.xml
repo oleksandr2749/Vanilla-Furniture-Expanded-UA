@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PlanterBox.label>розсадочний ящик</VFE_PlanterBox.label>
+  <VFE_PlanterBox.description>Вирощує рослини в ящику з ґрунтом. Не потребує електрики для роботи.</VFE_PlanterBox.description>
+  <VFE_PlanterBox_Blueprint.label>planter box (blueprint)</VFE_PlanterBox_Blueprint.label>
+  <VFE_PlanterBox_Frame.label>planter box (building)</VFE_PlanterBox_Frame.label>
+  <VFE_PlanterBox_Frame.description>Grows plants in a box of soil. Does not require power to work.</VFE_PlanterBox_Frame.description>
+
+  <VFE_Ecosystem.label>штучна екосистема</VFE_Ecosystem.label>
+  <VFE_Ecosystem.description>Швидко вирощує рослини у штучній, закритій екосистемі. Потребує великої кількості електрики для роботи; рослини загинуть, якщо відключити живлення.\n\nМістить вбудовану сонячну лампу для забезпечення рослин світлом.</VFE_Ecosystem.description>
+  <VFE_Ecosystem_Blueprint.label>artificial ecosystem (blueprint)</VFE_Ecosystem_Blueprint.label>
+  <VFE_Ecosystem_Frame.label>artificial ecosystem (building)</VFE_Ecosystem_Frame.label>
+  <VFE_Ecosystem_Frame.description>Grows plants quickly in an artificial, sealed ecosystem. Requires a high amount of power to work; plants will die if power is cut.\n\nContains a built-in sun lamp to provide light for the plants.</VFE_Ecosystem_Frame.description>
+
+
+</LanguageData>

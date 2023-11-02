@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_BasicFurniture.label>базові меблі</MF_BasicFurniture.label>
+  <MF_BasicFurniture.description>Будуйте прості меблі, такі як базові столи, табуретки, лавки та інше.</MF_BasicFurniture.description>
+
+  <ComplexFurniture.label>складні меблі</ComplexFurniture.label>
+  <ComplexFurniture.description>Будуйте складні меблі, такі як столики, стільці для обіднього столу, крісла, комоди, шафи для інструментів, більярдні столи, покерні столи, вентиляційні шахти, саркофаги та інше.</ComplexFurniture.description>
+
+  <MF_RoyalFurniture.label>вишукані меблі</MF_RoyalFurniture.label>
+  <MF_RoyalFurniture.description>Будуйте розкішні меблі, які часто красиві, а не практичні. Зазвичай ці меблі можна зустріти лише в будинках заможних еліт. Це королівські столи, стільці та крісла.</MF_RoyalFurniture.description>
+
+  <MF_ModernFurniture.label>сучасні меблі</MF_ModernFurniture.label>
+  <MF_ModernFurniture.description>Будуйте меблі сучасності, які спрямовані на практичність, а не на красу, такі як стіл для рулетки, шафа для одягу, дошка для дартсу, боксерська груша та інше.</MF_ModernFurniture.description>
+
+  <MF_WasteDisposal.label>прибирання відходів</MF_WasteDisposal.label>
+  <MF_WasteDisposal.description>Будуйте малий та великий сміттєвий контейнер, які автоматично, але повільно очищують навколишнє середовище..</MF_WasteDisposal.description>
+
+  <TubeTelevision.label>базова електротехніка</TubeTelevision.label>
+  <TubeTelevision.description>Будуйте прості електроннні пристрої, такі як кінескопний телевізор, радіоприймач, аркадний автомат та інше.</TubeTelevision.description>
+
+  <FlatscreenTelevision.label>складна електротехніка</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>>Будуйте складні електроннні пристрої,такі як плоский телевізор,довгохвильовий радіоприймач, сучасний комп'ютер та інше.</FlatscreenTelevision.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Table_1x1c.label>стіл (1х1)</Table_1x1c.label>
+
+  <Table_Counter.label>шинквас</Table_Counter.label>
+  <Table_Counter.description>Стіл за яким корчмар подає напої. Головний атрибут будь-якої корчми.</Table_Counter.description>
+
+</LanguageData>

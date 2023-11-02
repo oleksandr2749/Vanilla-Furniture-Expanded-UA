@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_BinBag.label>пакет для сміття</VFEPD_BinBag.label>
+  <VFEPD_BinBag.description>Чорний сміттєвий пакет із різноманітними відходами.</VFEPD_BinBag.description>
+  <VFEPD_BinBag_Blueprint.label>пакет для сміття (креслення)</VFEPD_BinBag_Blueprint.label>
+  <VFEPD_BinBag_Frame.label>пакет для сміття (будується)</VFEPD_BinBag_Frame.label>
+  <VFEPD_BinBag_Frame.description>Чорний сміттєвий пакет із різноманітними відходами.</VFEPD_BinBag_Frame.description>
+
+  <VFEPD_BoxLarge.label>велика деревʼяна коробка</VFEPD_BoxLarge.label>
+  <VFEPD_BoxLarge.description>велика деревʼяна коробка з різноманітним наповненням.</VFEPD_BoxLarge.description>
+  <VFEPD_BoxLarge_Blueprint.label>велика деревʼяна коробка (креслення)</VFEPD_BoxLarge_Blueprint.label>
+  <VFEPD_BoxLarge_Frame.label>велика деревʼяна коробка (будується)</VFEPD_BoxLarge_Frame.label>
+  <VFEPD_BoxLarge_Frame.description>велика деревʼяна коробка з різноманітним наповненням.</VFEPD_BoxLarge_Frame.description>
+
+  <VFEPD_BoxSmall.label>мала деревʼяна коробка</VFEPD_BoxSmall.label>
+  <VFEPD_BoxSmall.description>маленька деревʼяна коробка з різноманітним наповненням.</VFEPD_BoxSmall.description>
+  <VFEPD_BoxSmall_Blueprint.label>мала деревʼяна коробка (креслення)</VFEPD_BoxSmall_Blueprint.label>
+  <VFEPD_BoxSmall_Frame.label>мала деревʼяна коробка (будується)</VFEPD_BoxSmall_Frame.label>
+  <VFEPD_BoxSmall_Frame.description>маленька деревʼяна коробка з різноманітним наповненням.</VFEPD_BoxSmall_Frame.description>
+
+  <VFEPD_CardboardBoxLarge.label>велика картонна коробка</VFEPD_CardboardBoxLarge.label>
+  <VFEPD_CardboardBoxLarge.description>велика картонна коробка з різноманітним наповненням.</VFEPD_CardboardBoxLarge.description>
+  <VFEPD_CardboardBoxLarge_Blueprint.label>велика картонна коробка (креслення)</VFEPD_CardboardBoxLarge_Blueprint.label>
+  <VFEPD_CardboardBoxLarge_Frame.label>велика картонна коробка (будується)</VFEPD_CardboardBoxLarge_Frame.label>
+  <VFEPD_CardboardBoxLarge_Frame.description>велика картонна коробка з різноманітним наповненням.</VFEPD_CardboardBoxLarge_Frame.description>
+
+  <VFEPD_CardboardBoxSmall.label>мала картонна коробка</VFEPD_CardboardBoxSmall.label>
+  <VFEPD_CardboardBoxSmall.description>мала картонна коробка з різноманітним наповненням.</VFEPD_CardboardBoxSmall.description>
+  <VFEPD_CardboardBoxSmall_Blueprint.label>мала картонна коробка (креслення)</VFEPD_CardboardBoxSmall_Blueprint.label>
+  <VFEPD_CardboardBoxSmall_Frame.label>мала картонна коробка (будується)</VFEPD_CardboardBoxSmall_Frame.label>
+  <VFEPD_CardboardBoxSmall_Frame.description>мала картонна коробка з різноманітним наповненням.</VFEPD_CardboardBoxSmall_Frame.description>
+
+  <VFEPD_BrickPile.label>купа цегли</VFEPD_BrickPile.label>
+  <VFEPD_BrickPile.description>купа цегли.</VFEPD_BrickPile.description>
+  <VFEPD_BrickPile_Blueprint.label>купа цегли (креслення)</VFEPD_BrickPile_Blueprint.label>
+  <VFEPD_BrickPile_Frame.label>купа цегли (будується)</VFEPD_BrickPile_Frame.label>
+  <VFEPD_BrickPile_Frame.description>купа цегли.</VFEPD_BrickPile_Frame.description>
+
+  <VFEPD_BarrelGreen.label>зелена бочка</VFEPD_BarrelGreen.label>
+  <VFEPD_BarrelGreen.description>зелена металева бочка.</VFEPD_BarrelGreen.description>
+  <VFEPD_BarrelGreen_Blueprint.label>зелена бочка (креслення)</VFEPD_BarrelGreen_Blueprint.label>
+  <VFEPD_BarrelGreen_Frame.label>зелена бочка (будується)</VFEPD_BarrelGreen_Frame.label>
+  <VFEPD_BarrelGreen_Frame.description>зелена металева бочка.</VFEPD_BarrelGreen_Frame.description>
+
+  <VFEPD_BarrelGrey.label>сіра бочка</VFEPD_BarrelGrey.label>
+  <VFEPD_BarrelGrey.description>сіра металева бочка.</VFEPD_BarrelGrey.description>
+  <VFEPD_BarrelGrey_Blueprint.label>сіра бочка (креслення)</VFEPD_BarrelGrey_Blueprint.label>
+  <VFEPD_BarrelGrey_Frame.label>сіра бочка (будується)</VFEPD_BarrelGrey_Frame.label>
+  <VFEPD_BarrelGrey_Frame.description>сіра металева бочка.</VFEPD_BarrelGrey_Frame.description>
+
+  <VFEPD_BarrelRed.label>червона бочка</VFEPD_BarrelRed.label>
+  <VFEPD_BarrelRed.description>червона металева бочка.</VFEPD_BarrelRed.description>
+  <VFEPD_BarrelRed_Blueprint.label>червона бочка (креслення)</VFEPD_BarrelRed_Blueprint.label>
+  <VFEPD_BarrelRed_Frame.label>червона бочка (будується)</VFEPD_BarrelRed_Frame.label>
+  <VFEPD_BarrelRed_Frame.description>червона металева бочка.</VFEPD_BarrelRed_Frame.description>
+
+  <VFEPD_BarrelYellow.label>жовта бочка</VFEPD_BarrelYellow.label>
+  <VFEPD_BarrelYellow.description>жовта металева бочка.</VFEPD_BarrelYellow.description>
+  <VFEPD_BarrelYellow_Blueprint.label>жовта бочка (креслення)</VFEPD_BarrelYellow_Blueprint.label>
+  <VFEPD_BarrelYellow_Frame.label>жовта бочка (будується)</VFEPD_BarrelYellow_Frame.label>
+  <VFEPD_BarrelYellow_Frame.description>жовта металева бочка.</VFEPD_BarrelYellow_Frame.description>
+
+  <VFEPD_BarrelBlue.label>блакитна бочка</VFEPD_BarrelBlue.label>
+  <VFEPD_BarrelBlue.description>блакитна металева бочка.</VFEPD_BarrelBlue.description>
+  <VFEPD_BarrelBlue_Blueprint.label>блакитна бочка (креслення)</VFEPD_BarrelBlue_Blueprint.label>
+  <VFEPD_BarrelBlue_Frame.label>блакитна бочка (будується)</VFEPD_BarrelBlue_Frame.label>
+  <VFEPD_BarrelBlue_Frame.description>блакитна металева бочка.</VFEPD_BarrelBlue_Frame.description>
+
+  <VFEPD_PalletCardboard.label>піддон з картонними ящиками</VFEPD_PalletCardboard.label>
+  <VFEPD_PalletCardboard.description>Великий піддон з кількома картонними ящиками.</VFEPD_PalletCardboard.description>
+  <VFEPD_PalletCardboard_Blueprint.label>піддон з картонними ящиками (креслення)</VFEPD_PalletCardboard_Blueprint.label>
+  <VFEPD_PalletCardboard_Frame.label>піддон з картонними ящиками (будується)</VFEPD_PalletCardboard_Frame.label>
+  <VFEPD_PalletCardboard_Frame.description>Великий піддон з кількома картонними ящиками.</VFEPD_PalletCardboard_Frame.description>
+
+  <VFEPD_PalletBoxes.label>піддон з деревʼяними ящиками</VFEPD_PalletBoxes.label>
+  <VFEPD_PalletBoxes.description>Великий піддон з кількома деревʼяними ящиками.</VFEPD_PalletBoxes.description>
+  <VFEPD_PalletBoxes_Blueprint.label>піддон з деревʼяними ящиками (креслення)</VFEPD_PalletBoxes_Blueprint.label>
+  <VFEPD_PalletBoxes_Frame.label>піддон з деревʼяними ящиками (будується)</VFEPD_PalletBoxes_Frame.label>
+  <VFEPD_PalletBoxes_Frame.description>Великий піддон з кількома деревʼяними ящиками.</VFEPD_PalletBoxes_Frame.description>
+
+  <VFEPD_Pallet.label>піддон</VFEPD_Pallet.label>
+  <VFEPD_Pallet.description>великий піддон.</VFEPD_Pallet.description>
+  <VFEPD_Pallet_Blueprint.label>піддон (креслення)</VFEPD_Pallet_Blueprint.label>
+  <VFEPD_Pallet_Frame.label>піддон (будується)</VFEPD_Pallet_Frame.label>
+  <VFEPD_Pallet_Frame.description>великий піддон.</VFEPD_Pallet_Frame.description>
+
+  <VFEPD_PalletBarrelGreen.label>піддон із зеленими бочками</VFEPD_PalletBarrelGreen.label>
+  <VFEPD_PalletBarrelGreen.description>зелені металеві бочки на деревʼяному піддоні.</VFEPD_PalletBarrelGreen.description>
+  <VFEPD_PalletBarrelGreen_Blueprint.label>піддон із зеленими бочками (креслення)</VFEPD_PalletBarrelGreen_Blueprint.label>
+  <VFEPD_PalletBarrelGreen_Frame.label>піддон із зеленими бочками (будується)</VFEPD_PalletBarrelGreen_Frame.label>
+  <VFEPD_PalletBarrelGreen_Frame.description>зелені металеві бочки на деревʼяному піддоні.</VFEPD_PalletBarrelGreen_Frame.description>
+
+  <VFEPD_PalletBarrelGrey.label>піддон із сірими бочками</VFEPD_PalletBarrelGrey.label>
+  <VFEPD_PalletBarrelGrey.description>сірі металеві бочки на деревʼяному піддоні.</VFEPD_PalletBarrelGrey.description>
+  <VFEPD_PalletBarrelGrey_Blueprint.label>піддон із сірими бочками (креслення)</VFEPD_PalletBarrelGrey_Blueprint.label>
+  <VFEPD_PalletBarrelGrey_Frame.label>піддон із сірими бочками (будується)</VFEPD_PalletBarrelGrey_Frame.label>
+  <VFEPD_PalletBarrelGrey_Frame.description>сірі металеві бочки на деревʼяному піддоні.</VFEPD_PalletBarrelGrey_Frame.description>
+
+  <VFEPD_PalletBarrelRed.label>піддон із червоними бочками</VFEPD_PalletBarrelRed.label>
+  <VFEPD_PalletBarrelRed.description>червоні металеві бочки на деревʼяному піддоні.</VFEPD_PalletBarrelRed.description>
+  <VFEPD_PalletBarrelRed_Blueprint.label>піддон із червоними бочками (креслення)</VFEPD_PalletBarrelRed_Blueprint.label>
+  <VFEPD_PalletBarrelRed_Frame.label>піддон із червоними бочками (будується)</VFEPD_PalletBarrelRed_Frame.label>
+  <VFEPD_PalletBarrelRed_Frame.description>червоні металеві бочки на деревʼяному піддоні.</VFEPD_PalletBarrelRed_Frame.description>
+
+  <VFEPD_PalletBarrelYellow.label>піддон із жовтими бочками</VFEPD_PalletBarrelYellow.label>
+  <VFEPD_PalletBarrelYellow.description>жовті металеві бочки на деревʼяному піддоні.</VFEPD_PalletBarrelYellow.description>
+  <VFEPD_PalletBarrelYellow_Blueprint.label>піддон із жовтими бочками (креслення)</VFEPD_PalletBarrelYellow_Blueprint.label>
+  <VFEPD_PalletBarrelYellow_Frame.label>піддон із жовтими бочками (будується)</VFEPD_PalletBarrelYellow_Frame.label>
+  <VFEPD_PalletBarrelYellow_Frame.description>жовті металеві бочки на деревʼяному піддоні.</VFEPD_PalletBarrelYellow_Frame.description>
+
+  <VFEPD_PalletBarrelBlue.label>піддон із блакитними бочками</VFEPD_PalletBarrelBlue.label>
+  <VFEPD_PalletBarrelBlue.description>блакитні металеві бочки на деревʼяному піддоні.</VFEPD_PalletBarrelBlue.description>
+  <VFEPD_PalletBarrelBlue_Blueprint.label>піддон із блакитними бочками (креслення)</VFEPD_PalletBarrelBlue_Blueprint.label>
+  <VFEPD_PalletBarrelBlue_Frame.label>піддон із блакитними бочками (будується)</VFEPD_PalletBarrelBlue_Frame.label>
+  <VFEPD_PalletBarrelBlue_Frame.description>блакитні металеві бочки на деревʼяному піддоні.</VFEPD_PalletBarrelBlue_Frame.description>
+
+  <VFEPD_ContainerGreen.label>зелений вантажний контейнер</VFEPD_ContainerGreen.label>
+  <VFEPD_ContainerGreen.description>Зелений металевий вантажний контейнер. Непрохідний. Не підтримує стелю.</VFEPD_ContainerGreen.description>
+  <VFEPD_ContainerGreen_Blueprint.label>зелений вантажний контейнер (креслення)</VFEPD_ContainerGreen_Blueprint.label>
+  <VFEPD_ContainerGreen_Frame.label>зелений вантажний контейнер (будується)</VFEPD_ContainerGreen_Frame.label>
+  <VFEPD_ContainerGreen_Frame.description>Зелений металевий вантажний контейнер. Непрохідний. Не підтримує стелю.</VFEPD_ContainerGreen_Frame.description>
+
+  <VFEPD_ContainerGrey.label>сірий вантажний контейнер</VFEPD_ContainerGrey.label>
+  <VFEPD_ContainerGrey.description>Сірий металевий вантажний контейнер. Непрохідний. Не підтримує стелю.</VFEPD_ContainerGrey.description>
+  <VFEPD_ContainerGrey_Blueprint.label>сірий вантажний контейнер (креслення)</VFEPD_ContainerGrey_Blueprint.label>
+  <VFEPD_ContainerGrey_Frame.label>сірий вантажний контейнер (будується)</VFEPD_ContainerGrey_Frame.label>
+  <VFEPD_ContainerGrey_Frame.description>Сірий металевий вантажний контейнер. Непрохідний. Не підтримує стелю.</VFEPD_ContainerGrey_Frame.description>
+
+  <VFEPD_ContainerRed.label>червоний вантажний контейнер</VFEPD_ContainerRed.label>
+  <VFEPD_ContainerRed.description>Червоний металевий вантажний контейнер. Непрохідний. Не підтримує стелю.</VFEPD_ContainerRed.description>
+  <VFEPD_ContainerRed_Blueprint.label>червоний вантажний контейнер (креслення)</VFEPD_ContainerRed_Blueprint.label>
+  <VFEPD_ContainerRed_Frame.label>червоний вантажний контейнер (будується)</VFEPD_ContainerRed_Frame.label>
+  <VFEPD_ContainerRed_Frame.description>Червоний металевий вантажний контейнер. Непрохідний. Не підтримує стелю.</VFEPD_ContainerRed_Frame.description>
+
+  <VFEPD_ContainerYellow.label>жовтий вантажний контейнер</VFEPD_ContainerYellow.label>
+  <VFEPD_ContainerYellow.description>Жовтий металевий вантажний контейнер. Непрохідний. Не підтримує стелю.</VFEPD_ContainerYellow.description>
+  <VFEPD_ContainerYellow_Blueprint.label>жовтий вантажний контейнер (креслення)</VFEPD_ContainerYellow_Blueprint.label>
+  <VFEPD_ContainerYellow_Frame.label>жовтий вантажний контейнер (будується)</VFEPD_ContainerYellow_Frame.label>
+  <VFEPD_ContainerYellow_Frame.description>Жовтий металевий вантажний контейнер. Непрохідний. Не підтримує стелю.</VFEPD_ContainerYellow_Frame.description>
+
+  <VFEPD_ContainerBlue.label>блакитний вантажний контейнер</VFEPD_ContainerBlue.label>
+  <VFEPD_ContainerBlue.description>Блакитний металевий вантажний контейнер. Непрохідний. Не підтримує стелю.</VFEPD_ContainerBlue.description>
+  <VFEPD_ContainerBlue_Blueprint.label>блакитний вантажний контейнер (креслення)</VFEPD_ContainerBlue_Blueprint.label>
+  <VFEPD_ContainerBlue_Frame.label>блакитний вантажний контейнер (будується)</VFEPD_ContainerBlue_Frame.label>
+  <VFEPD_ContainerBlue_Frame.description>Блакитний металевий вантажний контейнер. Непрохідний. Не підтримує стелю.</VFEPD_ContainerBlue_Frame.description>
+
+  <VFEPD_Pipes.label>стос труб</VFEPD_Pipes.label>
+  <VFEPD_Pipes.description>Великий стос індустріальних труб.</VFEPD_Pipes.description>
+  <VFEPD_Pipes_Blueprint.label>стос труб (креслення)</VFEPD_Pipes_Blueprint.label>
+  <VFEPD_Pipes_Frame.label>стос труб (будується)</VFEPD_Pipes_Frame.label>
+  <VFEPD_Pipes_Frame.description>Великий стос індустріальних труб.</VFEPD_Pipes_Frame.description>
+
+  <VFEPD_Planks.label>купа дошок</VFEPD_Planks.label>
+  <VFEPD_Planks.description>Великий стос деревʼяних дошок.</VFEPD_Planks.description>
+  <VFEPD_Planks_Blueprint.label>купа дошок (креслення)</VFEPD_Planks_Blueprint.label>
+  <VFEPD_Planks_Frame.label>купа дошок (будується)</VFEPD_Planks_Frame.label>
+  <VFEPD_Planks_Frame.description>Великий стос деревʼяних дошок.</VFEPD_Planks_Frame.description>
+
+  <VFEPD_Cone.label>Дорожній конус</VFEPD_Cone.label>
+  <VFEPD_Cone.description>Дорожній конус.</VFEPD_Cone.description>
+  <VFEPD_Cone_Blueprint.label>Дорожній конус (креслення)</VFEPD_Cone_Blueprint.label>
+  <VFEPD_Cone_Frame.label>Дорожній конус (будується)</VFEPD_Cone_Frame.label>
+  <VFEPD_Cone_Frame.description>Дорожній конус.</VFEPD_Cone_Frame.description>
+
+  <VFEPD_ConcreteBags.label>мішки з бетоном</VFEPD_ConcreteBags.label>
+  <VFEPD_ConcreteBags.description>Великий стос мішків з бетоном.</VFEPD_ConcreteBags.description>
+  <VFEPD_ConcreteBags_Blueprint.label>мішки з бетоном (креслення)</VFEPD_ConcreteBags_Blueprint.label>
+  <VFEPD_ConcreteBags_Frame.label>мішки з бетоном (будується)</VFEPD_ConcreteBags_Frame.label>
+  <VFEPD_ConcreteBags_Frame.description>Великий стос мішків з бетоном.</VFEPD_ConcreteBags_Frame.description>
+
+  <VFEPD_WaterTank.label>водяний бак</VFEPD_WaterTank.label>
+  <VFEPD_WaterTank.description>Індустріальний водяний бак.</VFEPD_WaterTank.description>
+  <VFEPD_WaterTank_Blueprint.label>водяний бак (креслення)</VFEPD_WaterTank_Blueprint.label>
+  <VFEPD_WaterTank_Frame.label>водяний бак (будується)</VFEPD_WaterTank_Frame.label>
+  <VFEPD_WaterTank_Frame.description>Індустріальний водяний бак.</VFEPD_WaterTank_Frame.description>
+
+  <VFEPD_VentilationShaft.label>вентиляційна шахта</VFEPD_VentilationShaft.label>
+  <VFEPD_VentilationShaft.description>Вихлоп до вентиляційної системи.</VFEPD_VentilationShaft.description>
+  <VFEPD_VentilationShaft_Blueprint.label>вентиляційна шахта (креслення)</VFEPD_VentilationShaft_Blueprint.label>
+  <VFEPD_VentilationShaft_Frame.label>вентиляційна шахта (будується)</VFEPD_VentilationShaft_Frame.label>
+  <VFEPD_VentilationShaft_Frame.description>Вихлоп до вентиляційної системи.</VFEPD_VentilationShaft_Frame.description>
+
+  <VFEPD_ElectricalCabinet.label>шафа для електроприладдя</VFEPD_ElectricalCabinet.label>
+  <VFEPD_ElectricalCabinet.description>Мала металева шафа з електричними ланцюгами та запобіжниками.</VFEPD_ElectricalCabinet.description>
+  <VFEPD_ElectricalCabinet_Blueprint.label>шафа для електроприладдя (креслення)</VFEPD_ElectricalCabinet_Blueprint.label>
+  <VFEPD_ElectricalCabinet_Frame.label>шафа для електроприладдя (будується)</VFEPD_ElectricalCabinet_Frame.label>
+  <VFEPD_ElectricalCabinet_Frame.description>Мала металева шафа з електричними ланцюгами та запобіжниками.</VFEPD_ElectricalCabinet_Frame.description>
+
+  <VFEPD_Lockers.label>шафки</VFEPD_Lockers.label>
+  <VFEPD_Lockers.description>Металеві шафки, в яких працівники зберігають цінні речі.</VFEPD_Lockers.description>
+  <VFEPD_Lockers_Blueprint.label>шафки (креслення)</VFEPD_Lockers_Blueprint.label>
+  <VFEPD_Lockers_Frame.label>шафки (будується)</VFEPD_Lockers_Frame.label>
+  <VFEPD_Lockers_Frame.description>Металеві шафки, в яких працівники зберігають цінні речі.</VFEPD_Lockers_Frame.description>
+
+  <VFEPD_GasTank.label>газовий бак</VFEPD_GasTank.label>
+  <VFEPD_GasTank.description>Великий металевий газовий бак.</VFEPD_GasTank.description>
+  <VFEPD_GasTank_Blueprint.label>газовий бак (креслення)</VFEPD_GasTank_Blueprint.label>
+  <VFEPD_GasTank_Frame.label>газовий бак (будується)</VFEPD_GasTank_Frame.label>
+  <VFEPD_GasTank_Frame.description>Великий металевий газовий бак.</VFEPD_GasTank_Frame.description>
+
+
+</LanguageData>

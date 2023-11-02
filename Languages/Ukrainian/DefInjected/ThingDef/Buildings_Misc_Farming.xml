@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scarecrow -->
+
+  <VFE_Scarecrow.label>опудало</VFE_Scarecrow.label>
+  <VFE_Scarecrow.description>Людиноподібна фігура з сіна, одягнена в старий одяг, щоб відлякувати тварин.</VFE_Scarecrow.description>
+  <VFE_Scarecrow_Blueprint.label>scarecrow (blueprint)</VFE_Scarecrow_Blueprint.label>
+  <VFE_Scarecrow_Blueprint_Install.label>scarecrow (blueprint)</VFE_Scarecrow_Blueprint_Install.label>
+  <VFE_Scarecrow_Frame.label>scarecrow (building)</VFE_Scarecrow_Frame.label>
+  <VFE_Scarecrow_Frame.description>A humanoid figure made out of hay, dressed in old clothes to deter animals in a large radius. Small animals will be too afraid to approach.</VFE_Scarecrow_Frame.description>
+
+
+  <!-- Sprinkler -->
+
+  <VFE_Sprinkler.label>поливалка</VFE_Sprinkler.label>
+  <VFE_Sprinkler.description>Пристрій для автоматичноо поливу. Посилює ріст навколишніх рослин.</VFE_Sprinkler.description>
+  <VFE_Sprinkler_Blueprint.label>sprinkler (blueprint)</VFE_Sprinkler_Blueprint.label>
+  <VFE_Sprinkler_Blueprint_Install.label>sprinkler (blueprint)</VFE_Sprinkler_Blueprint_Install.label>
+  <VFE_Sprinkler_Frame.label>sprinkler (building)</VFE_Sprinkler_Frame.label>
+  <VFE_Sprinkler_Frame.description>A water sprinkler, providing an area around it with water. Enhances the growth of surrounding plants.</VFE_Sprinkler_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Sculpture -->
+
+  <VFE_ArchotechSculpture.label>скульптура в стилі архотеків</VFE_ArchotechSculpture.label>
+  <VFE_ArchotechSculpture.description>An ancient, human-sized mysterious machine. Creates a detailed imagery in the minds of surrounding pawns. Works through walls.</VFE_ArchotechSculpture.description>
+  <VFE_ArchotechSculpture_Blueprint_Install.label>archotech sculpture (blueprint)</VFE_ArchotechSculpture_Blueprint_Install.label>
+
+
+</LanguageData>

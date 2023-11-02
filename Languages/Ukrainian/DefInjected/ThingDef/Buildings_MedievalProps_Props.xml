@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_Anvil.label>ковадло</VFEPD_Anvil.label>
+  <VFEPD_Anvil.description>Важке ковадло для кузні.</VFEPD_Anvil.description>
+  <VFEPD_Anvil_Blueprint.label>ковадло (креслення)</VFEPD_Anvil_Blueprint.label>
+  <VFEPD_Anvil_Frame.label>ковадло (будується)</VFEPD_Anvil_Frame.label>
+  <VFEPD_Anvil_Frame.description>Важке ковадло для кузні.</VFEPD_Anvil_Frame.description>
+
+  <VFEPD_ArmorStandEmpty.label>пуста підставка для обладунків</VFEPD_ArmorStandEmpty.label>
+  <VFEPD_ArmorStandEmpty.description>Підставка для обладунків. Зараз вона пуста.</VFEPD_ArmorStandEmpty.description>
+  <VFEPD_ArmorStandEmpty_Blueprint.label>пуста підставка для обладунків (креслення)</VFEPD_ArmorStandEmpty_Blueprint.label>
+  <VFEPD_ArmorStandEmpty_Frame.label>пуста підставка для обладунків (будується)</VFEPD_ArmorStandEmpty_Frame.label>
+  <VFEPD_ArmorStandEmpty_Frame.description>Підставка для обладунків. Зараз вона пуста.</VFEPD_ArmorStandEmpty_Frame.description>
+
+  <VFEPD_ArmorStandFull.label>повна підставка для обладунків</VFEPD_ArmorStandFull.label>
+  <VFEPD_ArmorStandFull.description>Підставка для обладунків. Зараз на ній встановлена пластинчаста броня.</VFEPD_ArmorStandFull.description>
+  <VFEPD_ArmorStandFull_Blueprint.label>повна підставка для обладунків (креслення)</VFEPD_ArmorStandFull_Blueprint.label>
+  <VFEPD_ArmorStandFull_Frame.label>повна підставка для обладунків (будується)</VFEPD_ArmorStandFull_Frame.label>
+  <VFEPD_ArmorStandFull_Frame.description>Підставка для обладунків. Зараз на ній встановлена пластинчаста броня.</VFEPD_ArmorStandFull_Frame.description>
+
+  <VFEPD_ArrowCage.label>підставка для стріл</VFEPD_ArrowCage.label>
+  <VFEPD_ArrowCage.description>Мала решітчаста підставка для стріл.</VFEPD_ArrowCage.description>
+  <VFEPD_ArrowCage_Blueprint.label>підставка для стріл (креслення)</VFEPD_ArrowCage_Blueprint.label>
+  <VFEPD_ArrowCage_Frame.label>підставка для стріл (будується)</VFEPD_ArrowCage_Frame.label>
+  <VFEPD_ArrowCage_Frame.description>Мала решітчаста підставка для стріл.</VFEPD_ArrowCage_Frame.description>
+
+  <VFEPD_Banner.label>стяг</VFEPD_Banner.label>
+  <VFEPD_Banner.description>Декоративний стяг, що висить на вертикальному деревʼяному каркасі.</VFEPD_Banner.description>
+  <VFEPD_Banner_Blueprint.label>стяг (креслення)</VFEPD_Banner_Blueprint.label>
+  <VFEPD_Banner_Blueprint_Install.label>стяг (креслення)</VFEPD_Banner_Blueprint_Install.label>
+  <VFEPD_Banner_Frame.label>стяг (будується)</VFEPD_Banner_Frame.label>
+  <VFEPD_Banner_Frame.description>Декоративний стяг, що висить на вертикальному деревʼяному каркасі.</VFEPD_Banner_Frame.description>
+
+  <VFEPD_BrazierEmpty.label>пуста жаровня</VFEPD_BrazierEmpty.label>
+  <VFEPD_BrazierEmpty.description>Облаштоване місце у формі чаші, що використовується для розведення вогню.</VFEPD_BrazierEmpty.description>
+  <VFEPD_BrazierEmpty_Blueprint.label>пуста жаровня (креслення)</VFEPD_BrazierEmpty_Blueprint.label>
+  <VFEPD_BrazierEmpty_Blueprint_Install.label>пуста жаровня (креслення)</VFEPD_BrazierEmpty_Blueprint_Install.label>
+  <VFEPD_BrazierEmpty_Frame.label>пуста жаровня (будується)</VFEPD_BrazierEmpty_Frame.label>
+  <VFEPD_BrazierEmpty_Frame.description>Облаштоване місце у формі чаші, що використовується для розведення вогню.</VFEPD_BrazierEmpty_Frame.description>
+
+  <VFEPD_BucketEmpty.label>пусте відро</VFEPD_BucketEmpty.label>
+  <VFEPD_BucketEmpty.description>Деревʼяне відро.</VFEPD_BucketEmpty.description>
+  <VFEPD_BucketEmpty_Blueprint.label>пусте відро (креслення)</VFEPD_BucketEmpty_Blueprint.label>
+  <VFEPD_BucketEmpty_Frame.label>пусте відро (будується)</VFEPD_BucketEmpty_Frame.label>
+  <VFEPD_BucketEmpty_Frame.description>Деревʼяне відро.</VFEPD_BucketEmpty_Frame.description>
+
+  <VFEPD_BucketwithWater.label>відро з водою</VFEPD_BucketwithWater.label>
+  <VFEPD_BucketwithWater.description>Деревʼяне відро, наповнене водою.</VFEPD_BucketwithWater.description>
+  <VFEPD_BucketwithWater_Blueprint.label>відро з водою (креслення)</VFEPD_BucketwithWater_Blueprint.label>
+  <VFEPD_BucketwithWater_Frame.label>відро з водою (будується)</VFEPD_BucketwithWater_Frame.label>
+  <VFEPD_BucketwithWater_Frame.description>Деревʼяне відро, наповнене водою.</VFEPD_BucketwithWater_Frame.description>
+
+  <VFEPD_CageBrazier.label>решітчаста жаровня</VFEPD_CageBrazier.label>
+  <VFEPD_CageBrazier.description>Пуста решітчаста  жаровня.</VFEPD_CageBrazier.description>
+  <VFEPD_CageBrazier_Blueprint.label>решітчаста жаровня (креслення)</VFEPD_CageBrazier_Blueprint.label>
+  <VFEPD_CageBrazier_Blueprint_Install.label>решітчаста жаровня (креслення)</VFEPD_CageBrazier_Blueprint_Install.label>
+  <VFEPD_CageBrazier_Frame.label>решітчаста жаровня (будується)</VFEPD_CageBrazier_Frame.label>
+  <VFEPD_CageBrazier_Frame.description>Пуста решітчаста жаровня.</VFEPD_CageBrazier_Frame.description>
+
+  <VFEPD_WoodenChest.label>деревʼяна скриня</VFEPD_WoodenChest.label>
+  <VFEPD_WoodenChest.description>Середня деревʼяна скриня.</VFEPD_WoodenChest.description>
+  <VFEPD_WoodenChest_Blueprint.label>деревʼяна скриня (креслення)</VFEPD_WoodenChest_Blueprint.label>
+  <VFEPD_WoodenChest_Frame.label>деревʼяна скриня (будується)</VFEPD_WoodenChest_Frame.label>
+  <VFEPD_WoodenChest_Frame.description>Середня деревʼяна скриня.</VFEPD_WoodenChest_Frame.description>
+
+  <VFEPD_WoodenChestLarge.label>велика деревʼяна скриня</VFEPD_WoodenChestLarge.label>
+  <VFEPD_WoodenChestLarge.description>Велика деревʼяна скриня.</VFEPD_WoodenChestLarge.description>
+  <VFEPD_WoodenChestLarge_Blueprint.label>велика деревʼяна скриня (креслення)</VFEPD_WoodenChestLarge_Blueprint.label>
+  <VFEPD_WoodenChestLarge_Frame.label>велика деревʼяна скриня (будується)</VFEPD_WoodenChestLarge_Frame.label>
+  <VFEPD_WoodenChestLarge_Frame.description>Велика деревʼяна скриня.</VFEPD_WoodenChestLarge_Frame.description>
+
+  <VFEPD_WeaponRackEmpty.label>пустий стелаж для зброї</VFEPD_WeaponRackEmpty.label>
+  <VFEPD_WeaponRackEmpty.description>Довгий стелаж для зброї. Зараз він пустий.</VFEPD_WeaponRackEmpty.description>
+  <VFEPD_WeaponRackEmpty_Blueprint.label>пустий стелаж для зброї (креслення)</VFEPD_WeaponRackEmpty_Blueprint.label>
+  <VFEPD_WeaponRackEmpty_Frame.label>пустий стелаж для зброї (будується)</VFEPD_WeaponRackEmpty_Frame.label>
+  <VFEPD_WeaponRackEmpty_Frame.description>Довгий стелаж для зброї. Зараз він пустий.</VFEPD_WeaponRackEmpty_Frame.description>
+
+  <VFEPD_WeaponRackSwords.label>стелаж для мечів</VFEPD_WeaponRackSwords.label>
+  <VFEPD_WeaponRackSwords.description>Довгий стелаж для зброї. Зараз на ньому встановлені різні мечі.</VFEPD_WeaponRackSwords.description>
+  <VFEPD_WeaponRackSwords_Blueprint.label>стелаж для мечів (креслення)</VFEPD_WeaponRackSwords_Blueprint.label>
+  <VFEPD_WeaponRackSwords_Frame.label>стелаж для мечів (будується)</VFEPD_WeaponRackSwords_Frame.label>
+  <VFEPD_WeaponRackSwords_Frame.description>Довгий стелаж для зброї. Зараз на ньому встановлені різні мечі.</VFEPD_WeaponRackSwords_Frame.description>
+
+  <VFEPD_WeaponRackSpears.label>стелаж для списів</VFEPD_WeaponRackSpears.label>
+  <VFEPD_WeaponRackSpears.description>Довгий стелаж для зброї. Зараз на ньому встановлені різні списи.</VFEPD_WeaponRackSpears.description>
+  <VFEPD_WeaponRackSpears_Blueprint.label>стелаж для списів (креслення)</VFEPD_WeaponRackSpears_Blueprint.label>
+  <VFEPD_WeaponRackSpears_Frame.label>стелаж для списів (будується)</VFEPD_WeaponRackSpears_Frame.label>
+  <VFEPD_WeaponRackSpears_Frame.description>Довгий стелаж для зброї. Зараз на ньому встановлені різні списи.</VFEPD_WeaponRackSpears_Frame.description>
+
+  <VFEPD_WoodenSign.label>деревʼяний знак</VFEPD_WoodenSign.label>
+  <VFEPD_WoodenSign.description>Високий стовп з табличками, що вказують у різні сторони.</VFEPD_WoodenSign.description>
+  <VFEPD_WoodenSign_Blueprint.label>деревʼяний знак (креслення)</VFEPD_WoodenSign_Blueprint.label>
+  <VFEPD_WoodenSign_Frame.label>деревʼяний знак (будується)</VFEPD_WoodenSign_Frame.label>
+  <VFEPD_WoodenSign_Frame.description>Високий стовп з табличками, що вказують у різні сторони.</VFEPD_WoodenSign_Frame.description>
+
+  <VFEPD_TanningRack.label>стійка для дублення</VFEPD_TanningRack.label>
+  <VFEPD_TanningRack.description>Стійка для дублення зі шкурою на ній.</VFEPD_TanningRack.description>
+  <VFEPD_TanningRack_Blueprint.label>стійка для дублення (креслення)</VFEPD_TanningRack_Blueprint.label>
+  <VFEPD_TanningRack_Frame.label>стійка для дублення (будується)</VFEPD_TanningRack_Frame.label>
+  <VFEPD_TanningRack_Frame.description>Стійка для дублення зі шкурою на ній.</VFEPD_TanningRack_Frame.description>
+
+  <VFEPD_WoodenPlatform.label>деревʼяна платформа</VFEPD_WoodenPlatform.label>
+  <VFEPD_WoodenPlatform.description>Деревʼяна платформа, по якій можна ходити.</VFEPD_WoodenPlatform.description>
+  <VFEPD_WoodenPlatform_Blueprint.label>деревʼяна платформа (креслення)</VFEPD_WoodenPlatform_Blueprint.label>
+  <VFEPD_WoodenPlatform_Frame.label>деревʼяна платформа (будується)</VFEPD_WoodenPlatform_Frame.label>
+  <VFEPD_WoodenPlatform_Frame.description>Деревʼяна платформа, по якій можна ходити.</VFEPD_WoodenPlatform_Frame.description>
+
+  <VFEPD_CagePlatform.label>решітчаста платформа</VFEPD_CagePlatform.label>
+  <VFEPD_CagePlatform.description>Решітчаста платформа, по якій можна ходити.</VFEPD_CagePlatform.description>
+  <VFEPD_CagePlatform_Blueprint.label>решітчаста платформа (креслення)</VFEPD_CagePlatform_Blueprint.label>
+  <VFEPD_CagePlatform_Frame.label>решітчаста платформа (будується)</VFEPD_CagePlatform_Frame.label>
+  <VFEPD_CagePlatform_Frame.description>Решітчаста платформа, по якій можна ходити.</VFEPD_CagePlatform_Frame.description>
+
+
+</LanguageData>

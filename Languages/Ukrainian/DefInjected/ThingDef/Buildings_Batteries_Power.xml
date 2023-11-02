@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_LargeBattery.label>великий акумулятор</VFE_LargeBattery.label>
+  <VFE_LargeBattery.description>Stores a large amount of electricity for later use. Charged large batteries explode when exposed to rain or fire.</VFE_LargeBattery.description>
+  <VFE_LargeBattery_Blueprint.label>large battery (blueprint)</VFE_LargeBattery_Blueprint.label>
+  <VFE_LargeBattery_Blueprint_Install.label>large battery (blueprint)</VFE_LargeBattery_Blueprint_Install.label>
+  <VFE_LargeBattery_Frame.label>large battery (building)</VFE_LargeBattery_Frame.label>
+  <VFE_LargeBattery_Frame.description>Stores a large amount of electricity for later use. Charged large batteries explode when exposed to rain or fire.</VFE_LargeBattery_Frame.description>
+
+  <VFE_SmallBattery.label>малий акумулятор</VFE_SmallBattery.label>
+  <VFE_SmallBattery.description>Stores a small amount of electricity for later use. Charged batteries explode when exposed to rain or fire.</VFE_SmallBattery.description>
+  <VFE_SmallBattery_Blueprint.label>small battery (blueprint)</VFE_SmallBattery_Blueprint.label>
+  <VFE_SmallBattery_Blueprint_Install.label>small battery (blueprint)</VFE_SmallBattery_Blueprint_Install.label>
+  <VFE_SmallBattery_Frame.label>small battery (building)</VFE_SmallBattery_Frame.label>
+  <VFE_SmallBattery_Frame.description>Stores a small amount of electricity for later use. Charged batteries explode when exposed to rain or fire.</VFE_SmallBattery_Frame.description>
+
+  <VFE_AdvancedBattery.label>вдосконалений акумулятор</VFE_AdvancedBattery.label>
+  <VFE_AdvancedBattery.description>Stores electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged advanced batteries are waterproof and don't explode when exposed to rain.</VFE_AdvancedBattery.description>
+  <VFE_AdvancedBattery_Blueprint.label>advanced battery (blueprint)</VFE_AdvancedBattery_Blueprint.label>
+  <VFE_AdvancedBattery_Blueprint_Install.label>advanced battery (blueprint)</VFE_AdvancedBattery_Blueprint_Install.label>
+  <VFE_AdvancedBattery_Frame.label>advanced battery (building)</VFE_AdvancedBattery_Frame.label>
+  <VFE_AdvancedBattery_Frame.description>Stores electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged advanced batteries are waterproof and don't explode when exposed to rain.</VFE_AdvancedBattery_Frame.description>
+
+  <VFE_LargeAdvancedBattery.label>великий вдосконалений акумулятор</VFE_LargeAdvancedBattery.label>
+  <VFE_LargeAdvancedBattery.description>Stores large amounts of electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged large advanced batteries are waterproof and don't explode when exposed to rain.</VFE_LargeAdvancedBattery.description>
+  <VFE_LargeAdvancedBattery_Blueprint.label>large advanced battery (blueprint)</VFE_LargeAdvancedBattery_Blueprint.label>
+  <VFE_LargeAdvancedBattery_Blueprint_Install.label>large advanced battery (blueprint)</VFE_LargeAdvancedBattery_Blueprint_Install.label>
+  <VFE_LargeAdvancedBattery_Frame.label>large advanced battery (building)</VFE_LargeAdvancedBattery_Frame.label>
+  <VFE_LargeAdvancedBattery_Frame.description>Stores large amounts of electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged large advanced batteries are waterproof and don't explode when exposed to rain.</VFE_LargeAdvancedBattery_Frame.description>
+
+
+</LanguageData>

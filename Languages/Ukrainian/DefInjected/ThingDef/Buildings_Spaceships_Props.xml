@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_Superpod.label>суперкапсула</VFEPD_Superpod.label>
+  <VFEPD_Superpod.description>Великий, неробочий, багатофункціональний вантажний контейнер.</VFEPD_Superpod.description>
+  <VFEPD_Superpod_Blueprint.label>суперкапсула (креслення)</VFEPD_Superpod_Blueprint.label>
+  <VFEPD_Superpod_Frame.label>суперкапсула (будується)</VFEPD_Superpod_Frame.label>
+  <VFEPD_Superpod_Frame.description>Великий, неробочий, багатофункціональний вантажний контейнер.</VFEPD_Superpod_Frame.description>
+
+  <VFEPD_SkipBlack.label>чорний транспортний корабель </VFEPD_SkipBlack.label>
+  <VFEPD_SkipBlack.description>Легкий, непрацюючий транспортний корабель, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipBlack.description>
+  <VFEPD_SkipBlack_Blueprint.label>чорний транспортний корабель  (креслення)</VFEPD_SkipBlack_Blueprint.label>
+  <VFEPD_SkipBlack_Frame.label>чорний транспортний корабель  (будується)</VFEPD_SkipBlack_Frame.label>
+  <VFEPD_SkipBlack_Frame.description>Легкий, непрацюючий транспортний корабель, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipBlack_Frame.description>
+
+  <VFEPD_AlbatrossBlack.label>чорний військовий корабель </VFEPD_AlbatrossBlack.label>
+  <VFEPD_AlbatrossBlack.description>Великий багатопасажирний космічний корабель. Наразі не експлуатується.</VFEPD_AlbatrossBlack.description>
+  <VFEPD_AlbatrossBlack_Blueprint.label>чорний військовий корабель  (креслення)</VFEPD_AlbatrossBlack_Blueprint.label>
+  <VFEPD_AlbatrossBlack_Frame.label>чорний військовий корабель  (будується)</VFEPD_AlbatrossBlack_Frame.label>
+  <VFEPD_AlbatrossBlack_Frame.description>Великий багатопасажирний космічний корабель. Наразі не експлуатується.</VFEPD_AlbatrossBlack_Frame.description>
+
+  <VFEPD_SkipWhite.label>білий транспортний корабель </VFEPD_SkipWhite.label>
+  <VFEPD_SkipWhite.description>Легкий, непрацюючий транспортний корабель, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipWhite.description>
+  <VFEPD_SkipWhite_Blueprint.label>білий транспортний корабель  (креслення)</VFEPD_SkipWhite_Blueprint.label>
+  <VFEPD_SkipWhite_Frame.label>білий транспортний корабель  (будується)</VFEPD_SkipWhite_Frame.label>
+  <VFEPD_SkipWhite_Frame.description>Легкий, непрацюючий транспортний корабель, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipWhite_Frame.description>
+
+  <VFEPD_AlbatrossWhite.label>білий військовий корабель </VFEPD_AlbatrossWhite.label>
+  <VFEPD_AlbatrossWhite.description>Великий багатопасажирний космічний корабель. Наразі не експлуатується.</VFEPD_AlbatrossWhite.description>
+  <VFEPD_AlbatrossWhite_Blueprint.label>білий військовий корабель  (креслення)</VFEPD_AlbatrossWhite_Blueprint.label>
+  <VFEPD_AlbatrossWhite_Frame.label>білий військовий корабель  (будується)</VFEPD_AlbatrossWhite_Frame.label>
+  <VFEPD_AlbatrossWhite_Frame.description>Великий багатопасажирний космічний корабель. Наразі не експлуатується.</VFEPD_AlbatrossWhite_Frame.description>
+
+  <VFEPD_SkipSilver.label>срібний транспортний корабель </VFEPD_SkipSilver.label>
+  <VFEPD_SkipSilver.description>Легкий, непрацюючий транспортний корабель, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipSilver.description>
+  <VFEPD_SkipSilver_Blueprint.label>срібний транспортний корабель  (креслення)</VFEPD_SkipSilver_Blueprint.label>
+  <VFEPD_SkipSilver_Frame.label>срібний транспортний корабель  (будується)</VFEPD_SkipSilver_Frame.label>
+  <VFEPD_SkipSilver_Frame.description>Легкий, непрацюючий транспортний корабель, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipSilver_Frame.description>
+
+  <VFEPD_AlbatrossSilver.label>срібний військовий корабель </VFEPD_AlbatrossSilver.label>
+  <VFEPD_AlbatrossSilver.description>Великий багатопасажирний космічний корабель. Наразі не експлуатується.</VFEPD_AlbatrossSilver.description>
+  <VFEPD_AlbatrossSilver_Blueprint.label>срібний військовий корабель  (креслення)</VFEPD_AlbatrossSilver_Blueprint.label>
+  <VFEPD_AlbatrossSilver_Frame.label>срібний військовий корабель  (будується)</VFEPD_AlbatrossSilver_Frame.label>
+  <VFEPD_AlbatrossSilver_Frame.description>Великий багатопасажирний космічний корабель. Наразі не експлуатується.</VFEPD_AlbatrossSilver_Frame.description>
+
+  <VFEPD_SkipBlue.label>блакитний транспортний корабель </VFEPD_SkipBlue.label>
+  <VFEPD_SkipBlue.description>Легкий, непрацюючий транспортний корабель, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipBlue.description>
+  <VFEPD_SkipBlue_Blueprint.label>блакитний транспортний корабель  (креслення)</VFEPD_SkipBlue_Blueprint.label>
+  <VFEPD_SkipBlue_Frame.label>блакитний транспортний корабель  (будується)</VFEPD_SkipBlue_Frame.label>
+  <VFEPD_SkipBlue_Frame.description>Легкий, непрацюючий транспортний корабель, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipBlue_Frame.description>
+
+  <VFEPD_AlbatrossBlue.label>блакитний військовий корабель </VFEPD_AlbatrossBlue.label>
+  <VFEPD_AlbatrossBlue.description>Великий багатопасажирний космічний корабель. Наразі не експлуатується.</VFEPD_AlbatrossBlue.description>
+  <VFEPD_AlbatrossBlue_Blueprint.label>блакитний військовий корабель  (креслення)</VFEPD_AlbatrossBlue_Blueprint.label>
+  <VFEPD_AlbatrossBlue_Frame.label>блакитний військовий корабель  (будується)</VFEPD_AlbatrossBlue_Frame.label>
+  <VFEPD_AlbatrossBlue_Frame.description>Великий багатопасажирний космічний корабель. Наразі не експлуатується.</VFEPD_AlbatrossBlue_Frame.description>
+
+  <VFEPD_SkipRed.label>червоний транспортний корабель </VFEPD_SkipRed.label>
+  <VFEPD_SkipRed.description>Легкий, непрацюючий транспортний корабель, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipRed.description>
+  <VFEPD_SkipRed_Blueprint.label>червоний транспортний корабель  (креслення)</VFEPD_SkipRed_Blueprint.label>
+  <VFEPD_SkipRed_Frame.label>червоний транспортний корабель  (будується)</VFEPD_SkipRed_Frame.label>
+  <VFEPD_SkipRed_Frame.description>Легкий, непрацюючий транспортний корабель, що дозволяє користувачам комфортно подорожувати на невеликі відстані.</VFEPD_SkipRed_Frame.description>
+
+  <VFEPD_AlbatrossRed.label>червоний військовий корабель </VFEPD_AlbatrossRed.label>
+  <VFEPD_AlbatrossRed.description>Великий багатопасажирний космічний корабель. Наразі не експлуатується.</VFEPD_AlbatrossRed.description>
+  <VFEPD_AlbatrossRed_Blueprint.label>червоний військовий корабель  (креслення)</VFEPD_AlbatrossRed_Blueprint.label>
+  <VFEPD_AlbatrossRed_Frame.label>червоний військовий корабель  (будується)</VFEPD_AlbatrossRed_Frame.label>
+  <VFEPD_AlbatrossRed_Frame.description>Великий багатопасажирний космічний корабель. Наразі не експлуатується.</VFEPD_AlbatrossRed_Frame.description>
+
+
+</LanguageData>

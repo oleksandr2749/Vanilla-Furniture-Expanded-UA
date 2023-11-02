@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Barbed wire -->
+
+  <VFES_BarbedWire.label>колючий паркан</VFES_BarbedWire.label>
+  <VFES_BarbedWire.description>A type of steel fencing wire consisting of sharp edges and points arranged at intervals. Not only does it slow movement of enemies, but it inflicts cuts and puncture wounds.</VFES_BarbedWire.description>
+
+
+  <!-- Trench -->
+
+  <VFES_Trench.label>траншея</VFES_Trench.label>
+  <VFES_Trench.description>Довга та вузька канава. Її перетин суттєво сповільнює швидкість руху. Солдати всередині траншеї мають меншу дальність стрільба, але отримують гарне прикриття.</VFES_Trench.description>
+
+
+  <!-- Platform -->
+
+  <VFES_Platform.label>платформа</VFES_Platform.label>
+  <VFES_Platform.description>Довга, вузька дерев'яна платформа.  Перетин займає багато часу. Солдати на вершині платформи мають більшу дальність стрільби, але також стають вразливими для ворожих куль. Хороша позиція для снайперів.</VFES_Platform.description>
+
+
+  <!-- Ammo crate -->
+
+  <VFES_AmmoCrate.label>ящик для боєприпасів</VFES_AmmoCrate.label>
+  <VFES_AmmoCrate.description>Підвищує швидкість стрільби навколишніх солдатів.</VFES_AmmoCrate.description>
+
+</LanguageData>

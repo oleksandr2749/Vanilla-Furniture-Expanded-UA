@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Misc_FileCabinet.label>картотека</Misc_FileCabinet.label>
+  <Misc_FileCabinet.description>Шафа з файлами, папером та документами. Підвищує  швидкість дослідження якщо розмістити поблизу дослідницького стола.</Misc_FileCabinet.description>
+
+  <Shelf_WeaponRack.label>стійка для зброї</Shelf_WeaponRack.label>
+  <Shelf_WeaponRack.description>Міцна стійка для зберігання зброї. Зброя не псується навіть якщо стійка знаходиться на вулиці.</Shelf_WeaponRack.description>
+
+  <Bin_Small.label>бак для сміття</Bin_Small.label>
+  <Bin_Small.description>Невеликий смітник, який повільно видаляє сміття та бруд в радіусі 10 клітин. Працює навіть через стіни.</Bin_Small.description>
+
+  <Bin_Large.label>контейнер для сміття</Bin_Large.label>
+  <Bin_Large.description>Великий смітник, який повільно видаляє сміття та бруд в радіусі 20 клітин. Працює навіть через стіни.</Bin_Large.description>
+
+</LanguageData>

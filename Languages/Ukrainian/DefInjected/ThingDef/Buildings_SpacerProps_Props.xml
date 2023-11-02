@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPD_DataConsole.label>консоль даних</VFEPD_DataConsole.label>
+  <VFEPD_DataConsole.description>Розширена консоль даних, що підтримує кілька різних типів форматування файлів.</VFEPD_DataConsole.description>
+  <VFEPD_DataConsole_Blueprint.label>консоль даних (креслення)</VFEPD_DataConsole_Blueprint.label>
+  <VFEPD_DataConsole_Frame.label>консоль даних (будується)</VFEPD_DataConsole_Frame.label>
+  <VFEPD_DataConsole_Frame.description>Розширена консоль даних, що підтримує кілька різних типів форматування файлів.</VFEPD_DataConsole_Frame.description>
+
+  <VFEPD_DataConveyor.label>транспортер даних</VFEPD_DataConveyor.label>
+  <VFEPD_DataConveyor.description>Велика коробка з кабелями та трубами для передачі даних.</VFEPD_DataConveyor.description>
+  <VFEPD_DataConveyor_Blueprint.label>транспортер даних (креслення)</VFEPD_DataConveyor_Blueprint.label>
+  <VFEPD_DataConveyor_Frame.label>транспортер даних (будується)</VFEPD_DataConveyor_Frame.label>
+  <VFEPD_DataConveyor_Frame.description>Велика коробка з кабелями та трубами для передачі даних.</VFEPD_DataConveyor_Frame.description>
+
+  <VFEPD_DisplayScreen.label>дисплей</VFEPD_DisplayScreen.label>
+  <VFEPD_DisplayScreen.description>Великий екран для відображення даних.</VFEPD_DisplayScreen.description>
+  <VFEPD_DisplayScreen_Blueprint.label>дисплей (креслення)</VFEPD_DisplayScreen_Blueprint.label>
+  <VFEPD_DisplayScreen_Frame.label>дисплей (будується)</VFEPD_DisplayScreen_Frame.label>
+  <VFEPD_DisplayScreen_Frame.description>Великий екран для відображення даних.</VFEPD_DisplayScreen_Frame.description>
+
+  <VFEPD_DisplayTable.label>дисплей на столі</VFEPD_DisplayTable.label>
+  <VFEPD_DisplayTable.description>Великий екран, встановлений на великому столі.</VFEPD_DisplayTable.description>
+  <VFEPD_DisplayTable_Blueprint.label>дисплей на столі (креслення)</VFEPD_DisplayTable_Blueprint.label>
+  <VFEPD_DisplayTable_Frame.label>дисплей на столі (будується)</VFEPD_DisplayTable_Frame.label>
+  <VFEPD_DisplayTable_Frame.description>Великий екран, встановлений на великому столі.</VFEPD_DisplayTable_Frame.description>
+
+  <VFEPD_LongCommandConsole.label>довга командна консоль</VFEPD_LongCommandConsole.label>
+  <VFEPD_LongCommandConsole.description>Довга консоль з декількома різними командними модулями.</VFEPD_LongCommandConsole.description>
+  <VFEPD_LongCommandConsole_Blueprint.label>довга командна консоль (креслення)</VFEPD_LongCommandConsole_Blueprint.label>
+  <VFEPD_LongCommandConsole_Frame.label>довга командна консоль (будується)</VFEPD_LongCommandConsole_Frame.label>
+  <VFEPD_LongCommandConsole_Frame.description>Довга консоль з декількома різними командними модулями.</VFEPD_LongCommandConsole_Frame.description>
+
+  <VFEPD_PlanningScreen.label>екран планування</VFEPD_PlanningScreen.label>
+  <VFEPD_PlanningScreen.description>Скляний екран, що ідеально підходить для планування бойових сценаріїв.</VFEPD_PlanningScreen.description>
+  <VFEPD_PlanningScreen_Blueprint.label>екран планування (креслення)</VFEPD_PlanningScreen_Blueprint.label>
+  <VFEPD_PlanningScreen_Frame.label>екран планування (будується)</VFEPD_PlanningScreen_Frame.label>
+  <VFEPD_PlanningScreen_Frame.description>Скляний екран, що ідеально підходить для планування бойових сценаріїв.</VFEPD_PlanningScreen_Frame.description>
+
+  <VFEPD_PlanningTable.label>стіл для планування</VFEPD_PlanningTable.label>
+  <VFEPD_PlanningTable.description>Екран планування великого розміру, встановлений на великому столі.</VFEPD_PlanningTable.description>
+  <VFEPD_PlanningTable_Blueprint.label>стіл для планування (креслення)</VFEPD_PlanningTable_Blueprint.label>
+  <VFEPD_PlanningTable_Frame.label>стіл для планування (будується)</VFEPD_PlanningTable_Frame.label>
+  <VFEPD_PlanningTable_Frame.description>Екран планування великого розміру, встановлений на великому столі.</VFEPD_PlanningTable_Frame.description>
+
+  <VFEPD_TripleDisplay.label>установка з трьома дисплеями</VFEPD_TripleDisplay.label>
+  <VFEPD_TripleDisplay.description>Велика інформаційна панель з декількома дисплеями для отримання актуальної інформації про всі релізи модів.</VFEPD_TripleDisplay.description>
+  <VFEPD_TripleDisplay_Blueprint.label>установка з трьома дисплеями (креслення)</VFEPD_TripleDisplay_Blueprint.label>
+  <VFEPD_TripleDisplay_Frame.label>установка з трьома дисплеями (будується)</VFEPD_TripleDisplay_Frame.label>
+  <VFEPD_TripleDisplay_Frame.description>Велика інформаційна панель з декількома дисплеями для отримання актуальної інформації про всі релізи модів.</VFEPD_TripleDisplay_Frame.description>
+
+  <VFEPD_SpacerContainer.label>передовий контейнер</VFEPD_SpacerContainer.label>
+  <VFEPD_SpacerContainer.description>Середня коробка з потрійною печаткою, захищена паролем.</VFEPD_SpacerContainer.description>
+  <VFEPD_SpacerContainer_Blueprint.label>передовий контейнер (креслення)</VFEPD_SpacerContainer_Blueprint.label>
+  <VFEPD_SpacerContainer_Frame.label>передовий контейнер (будується)</VFEPD_SpacerContainer_Frame.label>
+  <VFEPD_SpacerContainer_Frame.description>Середня коробка з потрійною печаткою, захищена паролем.</VFEPD_SpacerContainer_Frame.description>
+
+  <VFEPD_SpacerContainerLarge.label>великий передовий контейнер</VFEPD_SpacerContainerLarge.label>
+  <VFEPD_SpacerContainerLarge.description>Велика коробка з потрійною печаткою, захищена паролем.</VFEPD_SpacerContainerLarge.description>
+  <VFEPD_SpacerContainerLarge_Blueprint.label>великий передовий контейнер (креслення)</VFEPD_SpacerContainerLarge_Blueprint.label>
+  <VFEPD_SpacerContainerLarge_Frame.label>великий передовий контейнер (будується)</VFEPD_SpacerContainerLarge_Frame.label>
+  <VFEPD_SpacerContainerLarge_Frame.description>Велика коробка з потрійною печаткою, захищена паролем.</VFEPD_SpacerContainerLarge_Frame.description>
+
+  <VFEPD_SpacerContainerStack.label>стос передових контейнерів</VFEPD_SpacerContainerStack.label>
+  <VFEPD_SpacerContainerStack.description>Великий стос різного розміру коробок з потрійною печаткою, захищених паролем.</VFEPD_SpacerContainerStack.description>
+  <VFEPD_SpacerContainerStack_Blueprint.label>стос передових контейнерів (креслення)</VFEPD_SpacerContainerStack_Blueprint.label>
+  <VFEPD_SpacerContainerStack_Frame.label>стос передових контейнерів (будується)</VFEPD_SpacerContainerStack_Frame.label>
+  <VFEPD_SpacerContainerStack_Frame.description>Великий стос різного розміру коробок з потрійною печаткою, захищених паролем.</VFEPD_SpacerContainerStack_Frame.description>
+
+  <VFEPD_SpacerStorage.label>передовий пристрій для зберігання</VFEPD_SpacerStorage.label>
+  <VFEPD_SpacerStorage.description>Великий, багатокамерний вдосконалений пристрій для зберігання.</VFEPD_SpacerStorage.description>
+  <VFEPD_SpacerStorage_Blueprint.label>передовий пристрій для зберігання (креслення)</VFEPD_SpacerStorage_Blueprint.label>
+  <VFEPD_SpacerStorage_Frame.label>передовий пристрій для зберігання (будується)</VFEPD_SpacerStorage_Frame.label>
+  <VFEPD_SpacerStorage_Frame.description>Великий, багатокамерний вдосконалений пристрій для зберігання.</VFEPD_SpacerStorage_Frame.description>
+
+  <VFEPD_SwitchPanel.label>розподільна панель</VFEPD_SwitchPanel.label>
+  <VFEPD_SwitchPanel.description>Середня панель з різноманітними важелями та перемикачами.</VFEPD_SwitchPanel.description>
+  <VFEPD_SwitchPanel_Blueprint.label>розподільна панель (креслення)</VFEPD_SwitchPanel_Blueprint.label>
+  <VFEPD_SwitchPanel_Frame.label>розподільна панель (будується)</VFEPD_SwitchPanel_Frame.label>
+  <VFEPD_SwitchPanel_Frame.description>Середня панель з різноманітними важелями та перемикачами.</VFEPD_SwitchPanel_Frame.description>
+
+  <VFEPD_ServerRack.label>серверна стійка</VFEPD_ServerRack.label>
+  <VFEPD_ServerRack.description>Велика серверна стійка, що містить кілька жорстких дисків і сучасні комп'ютерні компоненти.</VFEPD_ServerRack.description>
+  <VFEPD_ServerRack_Blueprint.label>серверна стійка (креслення)</VFEPD_ServerRack_Blueprint.label>
+  <VFEPD_ServerRack_Frame.label>серверна стійка (будується)</VFEPD_ServerRack_Frame.label>
+  <VFEPD_ServerRack_Frame.description>Велика серверна стійка, що містить кілька жорстких дисків і сучасні комп'ютерні компоненти.</VFEPD_ServerRack_Frame.description>
+
+  <VFEPD_SensorPlatform.label>сенсорна платформа</VFEPD_SensorPlatform.label>
+  <VFEPD_SensorPlatform.description>Невелика платформа, що містить різноманітні датчики.</VFEPD_SensorPlatform.description>
+  <VFEPD_SensorPlatform_Blueprint.label>сенсорна платформа (креслення)</VFEPD_SensorPlatform_Blueprint.label>
+  <VFEPD_SensorPlatform_Frame.label>сенсорна платформа (будується)</VFEPD_SensorPlatform_Frame.label>
+  <VFEPD_SensorPlatform_Frame.description>Невелика платформа, що містить різноманітні датчики.</VFEPD_SensorPlatform_Frame.description>
+
+  <VFEPD_PersonalConsole.label>особиста консоль</VFEPD_PersonalConsole.label>
+  <VFEPD_PersonalConsole.description>Невелика футуристична консоль персонального зв'язку.</VFEPD_PersonalConsole.description>
+  <VFEPD_PersonalConsole_Blueprint.label>особиста консоль (креслення)</VFEPD_PersonalConsole_Blueprint.label>
+  <VFEPD_PersonalConsole_Frame.label>особиста консоль (будується)</VFEPD_PersonalConsole_Frame.label>
+  <VFEPD_PersonalConsole_Frame.description>Невелика футуристична консоль персонального зв'язку.</VFEPD_PersonalConsole_Frame.description>
+
+
+</LanguageData>
